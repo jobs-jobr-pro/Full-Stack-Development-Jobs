@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[Arlo Solutions](https://arlo-solutions.com/)** | **[(572) Full Stack Developer - AI Learning Systems Integration](https://job-boards.greenhouse.io/arlosolutionsllc/jobs/4828273007)** | Remote | Remote | Sep 11 |
 | **[Sortimo International GmbH](https://www.mysortimo.de)** | **[Full Stack Developer (m/w/d) Unity3D](https://jobs.mysortimo.de/job/86441-Zusmarshausen-Full-Stack-Developer-%28mwd%29-Unity3D/1246444701/)** | 86441 Zusmarshausen, DE | On Site | Sep 11 |
 | **[OCBC Bank](https://www.ocbc.com/)** | **[Full Stack Developer (Java, ReactJS) - AVP](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Full-Stack-Developer--Java--ReactJS----AVP_JR00003044)** | SGP-Head Office, Singapore | On Site | Sep 11 |
