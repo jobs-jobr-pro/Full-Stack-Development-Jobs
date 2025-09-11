@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[Earnix](https://earnix.com/)** | **[Full Stack Developer - Temporary replacement](https://earnix.com/career/ab.a57/full-stack-developer-temporary-replacement/?jobid=AB.A57&slug=full-stack-developer-temporary-replacement&t=1756116622349&1756121454778)** | Ramat Gan, Tel Aviv District, IL | On Site | Sep 11 |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Full Stack Developer- R&D and Innovation Center](https://careers.deloitte.co.il/he/position/fa-c55-he/)** | Tel Aviv, Tel Aviv District, IL | On Site | Sep 11 |
 | **[abra](https://www.abra-it.com/)** | **[Full Stack Developer](https://www.comeet.com/jobs/abra_rnd/15.007/full-stack-developer/21.A5E)** | Center, Center District, IL | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)**
+<!-- prettier-ignore-end -->
