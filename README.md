@@ -1,13 +1,16 @@
 # Full stack developer Jobs 2025
 
-Daily updated Full stack developer opportunities. Curated by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs) - the AI platform that finds and applies to jobs for you.
+This repository collects curated **Full stack developer opportunities in 2025**.  
+Updated daily by [Jobr.pro](https://jobr.pro).
 
----
+Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
+Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[Arlo Solutions](https://arlo-solutions.com/)** | **[(572) Full Stack Developer - AI Learning Systems Integration](https://job-boards.greenhouse.io/arlosolutionsllc/jobs/4828273007)** | Remote | Remote | Sep 11 |
 | **[Sortimo International GmbH](https://www.mysortimo.de)** | **[Full Stack Developer (m/w/d) Unity3D](https://jobs.mysortimo.de/job/86441-Zusmarshausen-Full-Stack-Developer-%28mwd%29-Unity3D/1246444701/)** | 86441 Zusmarshausen, DE | On Site | Sep 11 |
 | **[OCBC Bank](https://www.ocbc.com/)** | **[Full Stack Developer (Java, ReactJS) - AVP](https://ocbc.wd102.myworkdayjobs.com/en-US/External/job/OCBC-Singapore/Full-Stack-Developer--Java--ReactJS----AVP_JR00003044)** | SGP-Head Office, Singapore | On Site | Sep 11 |
@@ -59,15 +62,12 @@ Daily updated Full stack developer opportunities. Curated by [Jobr.pro](https://
 | **[Sigma Software](https://career.sigma.software)** | **[Full Stack Developer (Automotive domain)](https://jobs.smartrecruiters.com/SigmaSoftware2/744000080749111-full-stack-developer-automotive-domain-)** | Lviv, Lviv Oblast, Ukraine | On Site | Sep 09 |
 | **[Vattenfall](https://group.vattenfall.com)** | **[Senior Full Stack Developer](https://jobs.smartrecruiters.com/Vattenfall/744000080734126-senior-full-stack-developer)** | Amsterdam, NH, Netherlands | On Site | Sep 09 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Full stack developer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Full stack developer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Full stack developer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -78,6 +78,7 @@ This repository tracks current Full stack developer positions from companies acr
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -86,8 +87,8 @@ This repository tracks current Full stack developer positions from companies acr
 
 This repository gets consistent traffic from Full stack developer professionals actively job searching. The audience is pre-qualified and specifically interested in Full stack developer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)**
