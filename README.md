@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 18, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -14,11 +14,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Business Changers](https://business-changers.it/)** | **[Full Stack Developer Node.Js](https://jobs.smartrecruiters.com/BusinessChangers1/744000082604985-full-stack-developer-node-js)** | Rome, Lazio, Italy | On Site | Sep 18 |
+| **[Spatial Front, Inc](https://www.spatialfront.com)** | **[Full Stack Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3583899)** | Washington, DC, US | On Site | Sep 18 |
 | **[QAD, Inc.](https://www.qad.com)** | **[Senior Full Stack Developer](https://jobs.smartrecruiters.com/QADInc/744000082561525-senior-full-stack-developer)** | Barcelona, CT, Spain | Remote | Sep 18 |
 | **[Capgemini](https://www.capgemini.com)** | **[.Net Full Stack Developer opportunity in New York](https://careers.capgemini.com/job/New-York%2C-NY-_Net-Full-Stack-Developer-opportunity-in-New-York-NY-10001/1248865601/)** | New York, NY, US | On Site | Sep 18 |
+| **[NTT DATA](https://nttdata.com)** | **[UI/UX Full Stack Developer](https://careers-inc.nttdata.com/job/Bangalore-UIUX-Full-Stack-Developer-KA/1327257300/)** | Bangalore, KA, IN | On Site | Sep 18 |
 | **[Archer](https://www.archer.com/)** | **[Full Stack Developer](https://job-boards.greenhouse.io/archer56/jobs/7247086003)** | San Jose, California, United States | On Site | Sep 17 |
 | **[Vention](https://vention.io/)** | **[Intermediate Full Stack Developer](https://jobs.smartrecruiters.com/Vention/744000082515686-intermediate-full-stack-developer)** | Montréal, QC, Canada | On Site | Sep 17 |
+| **[Clue Software](https://www.cluesoftware.com/)** | **[Full Stack Developer - C#](https://careers.cluesoftware.com/jobs/6466615-full-stack-developer-c)** | Bristol, United Kingdom | On Site | Sep 17 |
 | **[Webbing](https://www.iamwebbing.com/)** | **[Full Stack Developer – Telecom BSS & Network Integration](https://www.comeet.com/jobs/webbing/46.00E/full-stack-developer--telecom-bss--network-integration/22.C5D-B6.409)** | Warsaw, Warsaw, PL | Remote | Sep 17 |
+| **[EXL](https://www.exlservice.com/)** | **[Full Stack Developer (FastAPI)](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/4444)** | Dublin, Leinster, Ireland | On Site | Sep 17 |
 | **[E2logy](https://e2logy.com/)** | **[Full Stack Developer (Laravel + ReactJS/VueJS)](https://e2logy.zohorecruit.com/jobs/Careers/424443000006747622)** | Ahmedabad, India | On Site | Sep 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Full Stack Developer, Angular/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210653517)** | Bengaluru, Karnataka, India | On Site | Sep 17 |
 | **[Sails Software Inc.](https://sailssoftware.com/)** | **[Angular (Full Stack) Developer](https://sailssoftware.freshteam.com/jobs/dWDaxNInmeBX/angular-full-stack-developer)** | Andhra Pradesh, Visakhapatnam, India | On Site | Sep 17 |
@@ -31,19 +35,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sellforte](https://sellforte.com/)** | **[(Senior) Full Stack Developer (Javascript, Vue.js, PostgreSQL)](https://careers.sellforte.com/jobs/6461788-senior-full-stack-developer-javascript-vue-js-postgresql)** | Espoo, Finland | On Site | Sep 17 |
 | **[Nine](https://www.nineentertainmentco.com.au)** | **[Full Stack Developer](https://jobs.smartrecruiters.com/Nine/744000082367525-full-stack-developer)** | McMahons Point, NSW, Australia | On Site | Sep 17 |
 | **[KPMG Israel](https://kpmg.co.il/)** | **[Experienced Full Stack Developer](https://kpmg.co.il/technologyconsulting/he/vacancies/technology-consulting/experienced-full-stack-developer)** | עוספיה, צפון, IL | On Site | Sep 17 |
-| **[Questronix Corporation](https://questronix.com.ph/)** | **[Full Stack Developer](https://apply.workable.com/j/D64508CE1C/apply)** | Pasig, Metro Manila, Philippines | On Site | Sep 17 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Ashburn-VA/Full-Stack-Developer_R-00166927)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Sep 17 |
-| **[Truist](https://www.truist.com/)** | **[Software Engineer II- Full-Stack Developer (.Net)](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-II--Full-Stack-Developer--Net-_R0104304)** | Charlotte NC - 2320 Cascade Pointe Boulevard, United States | On Site | Sep 17 |
+| **[Barclays](https://home.barclays/)** | **[TRAC TCP Full Stack Developer](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/TRAC-TCP-Full-Stack-Developer_JR-0000016513)** | DLF IT Park, Chennai, India | On Site | Sep 17 |
+| **[Questronix Corporation](https://questronix.com.ph/)** | **[Full Stack Developer](https://apply.workable.com/j/D64508CE1C/apply)** | Pasig, Metro Manila, Philippines | On Site | Sep 17 |
+| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Apps-Development-Sr-Programmer-Analyst---Assistant-Vice-President_25893693)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Sep 17 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Digital-S-W-Eng-Intm-Analyst---C11---IRVING_25895829)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Sep 17 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Lead Analyst - Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Apps-Development-Technology-Lead-Analyst---Vice-President_25893687)** | 388 GREENWICH STREET - TOWER, United States | On Site | Sep 17 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Lead, Full Stack Developer](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Chennai-India/Lead--Full-Stack-Developer_R-10363779)** | Chennai, India | On Site | Sep 17 |
-| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Apps-Development-Sr-Programmer-Analyst---Assistant-Vice-President_25893693)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Sep 17 |
-| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer I](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Full-Stack-Developer-I_01793978)** | MA105: BBN Headquarters 10 Moulton Street , Cambridge, MA, 02138 USA, United States | On Site | Sep 17 |
+| **[Truist](https://www.truist.com/)** | **[Software Engineer II- Full-Stack Developer (.Net)](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-II--Full-Stack-Developer--Net-_R0104304)** | Charlotte NC - 2320 Cascade Pointe Boulevard, United States | On Site | Sep 17 |
+| **[Axis Communications](https://www.axis.com/)** | **[Full Stack Developer - Analytics Solutions, Lund](https://axis.wd3.myworkdayjobs.com/en-US/External_Career_Site/job/Sweden---Lund/Full-Stack-Developer---Analytics-Solutions--Lund_R-122422)** | Sweden - Lund | On Site | Sep 17 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full Stack Developer/Angular v.17, v.18 , or v.19- DC Metro Area](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/JAVA-Full-Stack-Developer-Angular-v17--v18---or-v19_RQ206397)** | USA VA Falls Church - 3150 Fairview Park Dr (VAS095), United States | Remote | Sep 17 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Spring Boot Full Stack Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Java-Spring-Boot-Full-Stack-Developer---Assistant-Vice-President_25900393)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Sep 17 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Lead, Full Stack Developer](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Chennai-India/Lead--Full-Stack-Developer_R-10363779)** | Chennai, India | On Site | Sep 17 |
 | **[Aristocrat](https://www.aristocrat.com/)** | **[Full Stack Developer](https://aristocrat.wd3.myworkdayjobs.com/en-US/AristocratExternalCareersSite/job/Warsaw-Poland/Full-Stack-Developer_R0019310)** | Poland - Warsaw | On Site | Sep 17 |
-| **[Axis Communications](https://www.axis.com/)** | **[Full Stack Developer - Analytics Solutions, Lund](https://axis.wd3.myworkdayjobs.com/en-US/External_Career_Site/job/Sweden---Lund/Full-Stack-Developer---Analytics-Solutions--Lund_R-122422)** | Sweden - Lund | On Site | Sep 17 |
-| **[Barclays](https://home.barclays/)** | **[TRAC TCP Full Stack Developer](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/TRAC-TCP-Full-Stack-Developer_JR-0000016513)** | DLF IT Park, Chennai, India | On Site | Sep 17 |
+| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer I](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Full-Stack-Developer-I_01793978)** | MA105: BBN Headquarters 10 Moulton Street , Cambridge, MA, 02138 USA, United States | On Site | Sep 17 |
 | **[Synechron](https://www.synechron.com/)** | **[Full Stack Developer](https://synechron.wd1.myworkdayjobs.com/en-US/SynechronCareers/job/Pune---Hinjewadi-Ascendas/Full-Stack-Developer_JR1031998)** | Pune - Hinjewadi (Ascendas), India | On Site | Sep 17 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Intermediate Full Stack Developer (Go & typescript)](https://job-boards.greenhouse.io/lightspeedhq/jobs/7255665)** | Toronto, Ontario, Canada | On Site | Sep 16 |
 | **[Canadian Bank Note Company](https://cbnco.com/)** | **[Full Stack Developer - Product Development Group](https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000082323605-full-stack-developer-product-development-group)** | Ottawa, ON, Canada | On Site | Sep 16 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobs.smartrecruiters.com/PSICRO/744000082250993-full-stack-developer-ai-solutions-)** | Bengaluru, KA, India | On Site | Sep 16 |
 | **[Rounds](https://www.rounds.com/)** | **[Full Stack Developer](https://www.comeet.com/jobs/rounds/59.005/full-stack-developer/84.D52-C8.407)** | Warsaw, Poland, PL | Remote | Sep 16 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Full Stack Developer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/51316)** | Chennai, Tamil Nadu, India | On Site | Sep 16 |
-| **[Capco](https://www.capco.com/)** | **[Java Full Stack Developer DEP](https://job-boards.greenhouse.io/capco/jobs/7244629)** | India - Bengaluru | On Site | Sep 16 |
-| **[NECSWS](https://www.necsws.com)** | **[Full Stack Developer – Java with Angular and Ionic](https://jobs.smartrecruiters.com/NECSWS/744000048936329-full-stack-developer-java-with-angular-and-ionic)** | Mumbai, MH, India | On Site | Sep 16 |
-| **[Token Metrics](https://tokenmetrics.com/)** | **[Crypto Senior Full Stack Developer (Hanoi-Remote)](https://jobs.lever.co/tokenmetrics/87887233-eb03-476e-8551-1c5db8ca3e16)** | Hanoi | Remote | Sep 16 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Java-Full-Stack-Developer_25894252)** | 3800 CITIGROUP CENTER DRIVE BUILDING B TAMPA, United States | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 43 companies | Avg salary: 152k  
+**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
