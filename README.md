@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -34,17 +34,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[Senior Full Stack Developer (.NET & React)](https://jobs.smartrecruiters.com/Endava/744000082859095-senior-full-stack-developer-net-react-)** | Sydney, NSW, Australia | On Site | Sep 19 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://likhacareers.recruitee.com/o/program-analyst)** | Remote job | Remote | Sep 19 |
 | **[Blackmores Group](https://www.blackmores.com.au/)** | **[AI-Full Stack Developer](https://hcpo.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2350)** | Surry Hills, New South Wales, Australia | On Site | Sep 19 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer - Hybrid - Officer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Java-Full-Stack-Developer---Hybrid---Officer_25906471)** | TRIL INFO PARK, NEVILLE TOWER, India | On Site | Sep 19 |
-| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Full-Stack-Developer---Assistant-Vice-President_25907303-1)** | TOWER B, EON FREE ZONE II, India | On Site | Sep 19 |
-| **[Citi](https://www.citigroup.com/)** | **[Full stack Developer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Full-stack-Developer_25907138)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 19 |
 | **[Transaction Network Services](https://www.tnsi.com/)** | **[Full Stack Developer – Specialist](https://tnsi.wd1.myworkdayjobs.com/en-US/Search/job/IND---Bangalore/Full-Stack-Developer---Specialist_R2691)** | IND - Bangalore, India | On Site | Sep 19 |
-| **[BlackBerry](https://www.blackberry.com/)** | **[BlackBerry Radar- Full Stack Developer II](https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/BlackBerry-Radar--Full-Stack-Developer-II_20250284)** | Ottawa, Ontario, Canada | On Site | Sep 19 |
+| **[AT&T](https://www.att.com/)** | **[Specialist Data/AI Engineering (Python Full Stack Developer)](https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/INDAPHyderabad--Argus-Bldg-4f--5f-Sattva-Knowledge-City--Adm-Argus-Building-Sattva-Knowledge-City/Specialist-Data-AI-Engineering_R-82184)** | IND:AP:Hyderabad / Argus Bldg 4f & 5f, Sattva, Knowledge City- Adm: Argus Building, Sattva, Knowledge City, India | On Site | Sep 19 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Full Stack Developer ( React & Node.js)](https://apply.workable.com/j/593E5D98EE/apply)** | Singapore, Singapore, Singapore | On Site | Sep 19 |
+| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Full-Stack-Developer---Assistant-Vice-President_25907303-1)** | TOWER B, EON FREE ZONE II, India | On Site | Sep 19 |
+| **[TD](https://www.td.com/)** | **[Full Stack Developer / Software Engineer II (US)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Fort-Lauderdale-Florida/Full-Stack-Developer---Software-Engineer-II--US-_R_1438287-1)** | 5900 North Andrews Avenue, Fort Lauderdale, Florida, United States | On Site | Sep 19 |
 | **[AT&T](https://www.att.com/)** | **[Principal Full-Stack Developer](https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USATXDallas--Two-ATT-Plaza-211-S-Akard-St---Dat211-S-Akard-St/Principal-Full-Stack-Developer_R-80038)** | USA:TX:Dallas / Two AT&T Plaza (211 S Akard St) - Dat:211 S Akard St, United States | On Site | Sep 19 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Full Stack Developer (Innovation)](https://careers.idemia.com/job/Singapore-Full-Stack-Developer-%28Innovation%29-138562/1249382101/)** | Singapore, SG, 138562 | On Site | Sep 19 |
+| **[BlackBerry](https://www.blackberry.com/)** | **[BlackBerry Radar- Full Stack Developer II](https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/BlackBerry-Radar--Full-Stack-Developer-II_20250284)** | Ottawa, Ontario, Canada | On Site | Sep 19 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Senior Full Stack Developer](https://brighthorizons.wd5.myworkdayjobs.com/en-US/External-NorthAmerica/job/Newton-Massachusetts-02459/Senior-Full-Stack-Developer_JR-128509)** | Newton Home Office - NEWTON, United States | On Site | Sep 19 |
-| **[TD](https://www.td.com/)** | **[Full Stack Developer / Software Engineer II (US)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Fort-Lauderdale-Florida/Full-Stack-Developer---Software-Engineer-II--US-_R_1438287-1)** | 5900 North Andrews Avenue, Fort Lauderdale, Florida, United States | On Site | Sep 19 |
-| **[AT&T](https://www.att.com/)** | **[Specialist Data/AI Engineering (Python Full Stack Developer)](https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/INDAPHyderabad--Argus-Bldg-4f--5f-Sattva-Knowledge-City--Adm-Argus-Building-Sattva-Knowledge-City/Specialist-Data-AI-Engineering_R-82184)** | IND:AP:Hyderabad / Argus Bldg 4f & 5f, Sattva, Knowledge City- Adm: Argus Building, Sattva, Knowledge City, India | On Site | Sep 19 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer - Hybrid - Officer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Java-Full-Stack-Developer---Hybrid---Officer_25906471)** | TRIL INFO PARK, NEVILLE TOWER, India | On Site | Sep 19 |
+| **[Citi](https://www.citigroup.com/)** | **[Full stack Developer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Full-stack-Developer_25907138)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 19 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Full Stack Developer (Nest.js, PostgreSQL & Svelte) - Tietoevry Create (m/f/d)](https://jobs.smartrecruiters.com/Tietoevry1/744000082774234-senior-full-stack-developer-nest-js-postgresql-svelte-tietoevry-create-m-f-d-)** | Rio de Janeiro, RJ, Brazil | On Site | Sep 18 |
 | **[Valtech](https://www.valtech.com/)** | **[Full Stack Developer - Java/Angular](https://job-boards.eu.greenhouse.io/valtech/jobs/4677556101)** | Colombia - Remote | Remote | Sep 18 |
 | **[Elixirr Digital](https://www.elixirrdigital.com/)** | **[Full Stack Developer (Node.js/React)](https://elixirrdigital.talentlyft.com/o/cdJmagN)** | Rijeka or Zagreb, Croatia (Hybrid) | On Site | Sep 18 |
@@ -60,13 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Spatial Front, Inc](https://www.spatialfront.com)** | **[Full Stack Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3583899)** | Washington, DC, US | On Site | Sep 18 |
 | **[QAD, Inc.](https://www.qad.com)** | **[Senior Full Stack Developer](https://jobs.smartrecruiters.com/QADInc/744000082561525-senior-full-stack-developer)** | Barcelona, CT, Spain | Remote | Sep 18 |
 | **[PwC](https://www.pwc.com/)** | **[Full-Stack Developer - Python & JavaScript (m/f)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Bratislava/Full-Stack-Developer---Python---JavaScript--m-f-_642949WD)** | Bratislava - Twin City Business Centre blok A Karadzicova 2, Slovakia | On Site | Sep 18 |
-| **[Capgemini](https://www.capgemini.com)** | **[.Net Full Stack Developer opportunity in New York](https://careers.capgemini.com/job/New-York%2C-NY-_Net-Full-Stack-Developer-opportunity-in-New-York-NY-10001/1248865601/)** | New York, NY, US | On Site | Sep 18 |
+| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer with SAFe Agile Experience](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/RTX99-RTN-Remote-Texas/Full-Stack-Developer-with-SAFe-Agile-Experience_01795130)** | RTX99: RTN Remote, Texas, United States | Remote | Sep 18 |
 | **[Citi](https://www.citigroup.com/)** | **[Java full stack developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/TRIL-INFO-PARK-LITTLEWOOD-TOWER/Java-full-stack-developer---Assistant-Vice-President_25906681)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Sep 18 |
-| **[RTX](https://www.rtx.com/)** | **[Platform Engineer II / Full Stack Developer (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Platform-Engineer-II---Full-Stack-Developer--Onsite-_01794807)** | CO102: 16800 E Centretech Pkwy,Aurora 16800 East Centretech Pkwy Building S75, Aurora, CO, 80011 USA, United States | On Site | Sep 18 |
+| **[IQVIA](https://www.iqvia.com/)** | **[Full Stack Developer HealthTec (m/w/d) hybrid](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Leipzig-Germany/Datenbankentwickler-DMP_R1475199)** | Leipzig, Germany | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 220k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 235k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
