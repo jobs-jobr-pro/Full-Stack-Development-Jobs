@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -18,12 +18,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aonic](https://www.aonic.com)** | **[Full Stack Developer (Nodejs /Nestjs /Nextjs)](https://careers.aonic.com/jobs/6485721-full-stack-developer-nodejs-nestjs-nextjs)** | Subang Jaya, Malaysia | On Site | Sep 22 |
 | **[InnoWave](https://innowave.tech/)** | **[Full-Stack Developer (Dotnet)](https://innowave-workforce.freshteam.com/jobs/R03aVaNMySMa/full-stack-developer-dotnet)** | Karnataka, Bengaluru, India | On Site | Sep 22 |
 | **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[Senior Full-stack Developer (.NET Core & React.js & AWS)](https://careers.ingeniouslion.com/jobs/6484514-senior-full-stack-developer-net-core-react-js-aws)** | Lisboa, Portugal | On Site | Sep 22 |
-| **[Accellor](https://www.accellor.com/)** | **[Full Stack Developer](https://apply.workable.com/j/CEF2409BEF/apply)** | Hyderabad, Telangana, India | On Site | Sep 22 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/India-Bengaluru/Full-Stack-Developer_R-91414-1)** | IN: Lilly Bengaluru, India | On Site | Sep 22 |
+| **[Chamonix IT](https://www.chamonix.com.au)** | **[Lead Full Stack Developer (SA)](https://employmenthero.com/jobs/jobs/chamonix-it-management-consulting-sa-pty-ltd-lead-full-stack-developer-sa-xydtt/)** | Adelaide, South Australia 5000, Australia | On Site | Sep 22 |
 | **[Jeenka](https://jeenka.com)** | **[Full Stack Developer Freelance](https://apply.workable.com/j/51710C5E11/apply)** | Milan, Metropolitan City of Milan, Italy - Remote | Remote | Sep 22 |
-| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Full Stack Developer – Security Automation Engineering](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Full-Stack-Developer---Security-Automation-Engineering_R275203-1)** | Bangalore, India | On Site | Sep 22 |
 | **[EY](https://www.ey.com)** | **[TTT - NET Full Stack Developer - Tax Senior](https://careers.ey.com/ey/job/Bengaluru-TTT-NET-Full-Stack-Developer-Tax-Senior-KA-560016/1249852601/)** | Bengaluru, KA, IN, 560016 | On Site | Sep 22 |
+| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/India-Bengaluru/Full-Stack-Developer_R-91414-1)** | IN: Lilly Bengaluru, India | On Site | Sep 22 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Full Stack Developer .NET](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/INMANBP-Bangalore-INMANBP-Manyatha/Full-Stack-Developer-NET_R-39138)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Sep 22 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Full Stack Developer – Security Automation Engineering](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Full-Stack-Developer---Security-Automation-Engineering_R275203-1)** | Bangalore, India | On Site | Sep 22 |
+| **[CIBC](https://www.cibc.com/)** | **[Senior Full Stack Developer](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Full-Stack-Developer_2423319)** | Toronto-81 Bay, 16th Floor, Canada | On Site | Sep 22 |
+| **[Accellor](https://www.accellor.com/)** | **[Full Stack Developer](https://apply.workable.com/j/CEF2409BEF/apply)** | Hyderabad, Telangana, India | On Site | Sep 22 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer - ReactJS and Java](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/Full-Stack-Developer---ReactJS-and-Java_JR-0000051856-1)** | Glasgow Campus, United Kingdom | On Site | Sep 22 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Junior Full-Stack Developer (.NET & MEAN) @MMCTech](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cluj-Napoca---Decembrie/Junior-Full-Stack-Developer--NET---MEAN---MMCTech_R_320941-1)** | Cluj-Napoca - Decembrie, Romania | Remote | Sep 22 |
 | **[Lekkerland](https://www.lekkerland.de/)** | **[(Senior) Full Stack Developer für Ibexa CMS (m/w/d)](https://lekkerland-career.onlyfy.jobs/job/m64cizcgms63iarazc8yuxzczspxwqv)** | Frechen, Germany | On Site | Sep 21 |
 | **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Java Full Stack Developer](https://apply.workable.com/j/D0A6941244/apply)** | London, England, United Kingdom | On Site | Sep 21 |
 | **[Outsourcey](https://www.outsourcey.com)** | **[Full Stack Developer](https://www.careers-page.com/outsourcey/job/L78VY793)** | Taguig, Metro Manila, Philippines | On Site | Sep 21 |
@@ -39,8 +43,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Full-Stack-Developer_JR-0000023648-1)** | Gera Commerzone SEZ, Pune, India | On Site | Sep 21 |
 | **[Advancio](https://www.advancio.com)** | **[SR Full-Stack Developer (Python / React / Ionic) - Colombia](https://advanc.zohorecruit.com/jobs/Careers/570719000025172060)** | Remote | Remote | Sep 20 |
 | **[Advancio](https://www.advancio.com)** | **[SR Full-Stack Developer (Python / React / Ionic) - Mexico](https://advanc.zohorecruit.com/jobs/Careers/570719000025172034)** | Remote | Remote | Sep 20 |
-| **[Cargill](https://www.cargill.com)** | **[Senior Full Stack Developer](https://jobs.cargill.com/job/Bangalore-Senior-Full-Stack-Developer-Karn-560087/1327420957/)** | Bangalore, Karnataka, IN India, 560087 | On Site | Sep 20 |
 | **[msg global solutions](https://www.msg-global.com)** | **[Java Full Stack Developer](https://careers.msg-global.com/job/Bangalore-Java-Full-Stack-Developer-KA/1249770001/)** | Bangalore, KA, IN | On Site | Sep 20 |
+| **[Cargill](https://www.cargill.com)** | **[Senior Full Stack Developer](https://jobs.cargill.com/job/Bangalore-Senior-Full-Stack-Developer-Karn-560087/1327420957/)** | Bangalore, Karnataka, IN India, 560087 | On Site | Sep 20 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Full Stack Developer - ATC](https://myjobs.adp.com/wwtexternalcareersite/cx/job-details?reqId=5001151830200)** | Remote - Nationwide, United States | Remote | Sep 19 |
 | **[Hitachi Digital Services](https://hitachids.com)** | **[Full Stack Developer - AI Applications](https://hitachids.com/careers/job-details/?jid=8045978002&gh_jid=8045978002)** | Location | On Site | Sep 19 |
 | **[Hitachi Vantara](https://www.hitachivantara.com/)** | **[Full Stack Developer - AI Applications](https://www.hitachivantara.com/en-us/company/careers/job-details/8045976002?gh_jid=8045976002)** | Remote India | Remote | Sep 19 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sonia Solutions](https://sonia.so/)** | **[Senior TypeScript Full Stack Developer (all)](https://join.com/companies/sonia/14885558-senior-typescript-full-stack-developer-all)** | Berlin, Germany | On Site | Sep 19 |
 | **[Endava](https://www.endava.com)** | **[Senior Full Stack Developer (.NET & React)](https://jobs.smartrecruiters.com/Endava/744000082859095-senior-full-stack-developer-net-react-)** | Sydney, NSW, Australia | On Site | Sep 19 |
 | **[Blackmores Group](https://www.blackmores.com.au/)** | **[AI-Full Stack Developer](https://hcpo.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2350)** | Surry Hills, New South Wales, Australia | On Site | Sep 19 |
-| **[BlackBerry](https://www.blackberry.com/)** | **[BlackBerry Radar- Full Stack Developer II](https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/BlackBerry-Radar--Full-Stack-Developer-II_20250284)** | Ottawa, Ontario, Canada | On Site | Sep 19 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer - Hybrid - Officer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Java-Full-Stack-Developer---Hybrid---Officer_25906471)** | TRIL INFO PARK, NEVILLE TOWER, India | On Site | Sep 19 |
-| **[TD](https://www.td.com/)** | **[Full Stack Developer / Software Engineer II (US)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Fort-Lauderdale-Florida/Full-Stack-Developer---Software-Engineer-II--US-_R_1438287-1)** | 5900 North Andrews Avenue, Fort Lauderdale, Florida, United States | On Site | Sep 19 |
-| **[AT&T](https://www.att.com/)** | **[Specialist Data/AI Engineering (Python Full Stack Developer)](https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/INDAPHyderabad--Argus-Bldg-4f--5f-Sattva-Knowledge-City--Adm-Argus-Building-Sattva-Knowledge-City/Specialist-Data-AI-Engineering_R-82184)** | IND:AP:Hyderabad / Argus Bldg 4f & 5f, Sattva, Knowledge City- Adm: Argus Building, Sattva, Knowledge City, India | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 287k  
+**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 340k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
