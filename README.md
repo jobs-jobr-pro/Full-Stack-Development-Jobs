@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,9 +19,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPMG India](https://kpmg.com/)** | **[Full stack developer](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/30033152)** | Bangalore, Karnataka, India | On Site | Sep 23 |
 | **[LGT](https://www.lgt.com/)** | **[Full Stack Developer](https://lgt.wd3.myworkdayjobs.com/en-US/lgtcurrentvacancies/job/Hong-Kong/Full-Stack-Developer_JR6774)** | Hong Kong (FS) | On Site | Sep 23 |
 | **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full stack developer - Senior](https://careers.ey.com/ey/job/Trivandrum-TC-MENA-Technology-Full-stack-developer-Senior-KL-695581/1250327301/)** | Trivandrum, KL, IN, 695581 | On Site | Sep 23 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer - Hybrid - Officer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer---Hybrid---Officer_25905008)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 23 |
-| **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full stack developer - Staff](https://careers.ey.com/ey/job/Trivandrum-TC-MENA-Technology-Full-stack-developer-Staff-KL-695581/1250324501/)** | Trivandrum, KL, IN, 695581 | On Site | Sep 23 |
 | **[Telstra](https://www.telstra.com.au/)** | **[Full stack Developer (Java with React)](https://telstra.wd3.myworkdayjobs.com/en-US/Telstra_Careers/job/Bengaluru-Karnataka/Full-stack-Developer--Java-with-React-_JR-10157037)** | Telstra ICC Bangalore, India | On Site | Sep 23 |
+| **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full stack developer - Staff](https://careers.ey.com/ey/job/Trivandrum-TC-MENA-Technology-Full-stack-developer-Staff-KL-695581/1250324501/)** | Trivandrum, KL, IN, 695581 | On Site | Sep 23 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer - Hybrid - Officer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer---Hybrid---Officer_25905008)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 23 |
 | **[Seagate Technology](https://www.seagate.com/)** | **[Full Stack Developer Intern](https://seagatecareers.com/job/Shugart-Full-Stack-Developer-Intern/1328460700/)** | Shugart, SG | On Site | Sep 23 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer---Assistant-Vice-President_25882367)** | TOWER B, EON FREE ZONE II, India | On Site | Sep 23 |
 | **[Pfizer](https://www.pfizer.com/)** | **[Data Analytics and Full Stack Developer Intern (PH)](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Philippines---Makati-City/Data-Analytics-and-Full-Stack-Developer-Intern--PH-_4943018)** | PHL - Makati City, Philippines | On Site | Sep 23 |
