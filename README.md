@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 28, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Arthur Grand Technologies Inc](https://arthurgrand.com/)** | **[.Net Full Stack Developer - ASP.net, Angular /React, AWS /Azure - Multiple Location - onsite](https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000084426066--net-full-stack-developer-asp-net-angular-react-aws-azure-multiple-location-onsite)** | Plano, TX, United States | On Site | Sep 27 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://apply.deloitte.com/en_US/careers/JobDetail/Full-Stack-Developer/313346)** | Arlington/Rosslyn, Virginia, United States | On Site | Sep 27 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Full Stack Developer](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Full-Stack-Developer_30814)** | Home Office: Tysons, VA, United States | On Site | Sep 27 |
 | **[Varicent](https://www.varicent.com/)** | **[Lead Full Stack Developer – React & Node.js (Remote – Mexico Only)](https://job-boards.greenhouse.io/varicent/jobs/4936134008)** | Mexico, Remote | Remote | Sep 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CoSolutions](https://www.cosolutions.com/)** | **[Full Stack Developer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9436b373-0051-4f3e-af1c-e6e7f0fa9d07&jobId=591431)** | Remote, Sterling, VA, US | Remote | Sep 25 |
 | **[Hitachi Digital Services](https://hitachids.com)** | **[Senior Java Full-Stack Developer](https://hitachids.com/careers/job-details/?jid=8170644002&gh_jid=8170644002)** | Da Nang, Vietnam | On Site | Sep 25 |
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobs.smartrecruiters.com/PSICRO/744000083835976-full-stack-developer-ai-solutions-)** | Bengaluru, KA, India | On Site | Sep 25 |
-| **[Version 1](https://www.version1.com)** | **[Full Stack Developer](https://jobs.smartrecruiters.com/Version1/744000083815735-full-stack-developer)** | Bengaluru, KA, India | On Site | Sep 25 |
 
 ---
 
