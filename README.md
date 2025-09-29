@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tyto Athene](https://gotyto.com/)** | **[Sr. Java Full Stack Developer (remote)](https://jobr.pro/job/28975704/sr-java-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Work From Home, United States | Remote | Sep 29 |
+| **[ADP](https://www.adp.com/)** | **[Senior Full Stack Developer (.NET) - SBS Team](https://jobr.pro/job/28973084/senior-full-stack-developer-net-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Sep 29 |
 | **[FrontStory](https://www.frontstory.com/)** | **[Senior Full Stack Developer - Uruguay](https://jobr.pro/job/28965719/senior-full-stack-developer-uruguay?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montevideo, Uruguay, UY | On Site | Sep 29 |
 | **[KIS Solutions](https://www.kissolutions.tech/)** | **[Full Stack Developer](https://jobr.pro/job/28952877/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Sep 29 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Mid/Senior Full Stack Developer with Modern Front-End Focus - Tax & Legal](https://jobr.pro/job/28945675/midsenior-full-stack-developer-with-modern-front-end-focus-tax-legal?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thessaloniki | On Site | Sep 29 |
 | **[Pointwest](https://pointwest.com/)** | **[Full Stack Developer (Midshift/Hybrid)](https://jobr.pro/job/28959028/full-stack-developer-midshifthybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Metro Manila, Quezon City, Philippines | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/28981296/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Sep 29 |
+| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer, Officer](https://jobr.pro/job/28982588/full-stack-developer-officer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Sep 29 |
 | **[Boeing](https://www.boeing.com/)** | **[Experienced Dot Net Full Stack Developer](https://jobr.pro/job/28943695/experienced-dot-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Sep 29 |
 | **[RINGANA](https://www.ringana.com/)** | **[Full Stack Developer (m/f/d)](https://jobr.pro/job/28964856/full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sankt Johann in der Haide, Austria | On Site | Sep 28 |
 | **[Sparks Wiz Limited](https://sparkswiz.com/)** | **[Full Stack Developer](https://jobr.pro/job/28957814/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, California, United States | On Site | Sep 28 |
@@ -39,8 +43,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[cinify](https://cinify.io/)** | **[Full-Stack Developer (m/w/d) \| C# & Angular \| SaaS-Startup im Gesundheitswesen \| Remote/Hybrid](https://jobr.pro/job/28918355/full-stack-developer-mwd-c-angular-saas-startup-im-gesundheitswesen-remotehybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Deutschland - Remote | Remote | Sep 28 |
 | **[RAKIA Group](https://www.rakia.ai/)** | **[Full-Stack Developer \[UAE\]](https://jobr.pro/job/28916650/full-stack-developer-uae?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Sep 28 |
 | **[RAKIA Group](https://www.rakia.ai/)** | **[Full-Stack Developer \[CY\]](https://jobr.pro/job/28916649/full-stack-developer-cy?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Larnaca, Larnaca, Cyprus | On Site | Sep 28 |
-| **[Talentfyseek](https://talentfyseek.com/)** | **[Full Stack Developer](https://jobr.pro/job/28916162/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Miami, Florida, United States | On Site | Sep 28 |
 | **[Talentfyseek](https://talentfyseek.com/)** | **[Full Stack Developer (Node/React)](https://jobr.pro/job/28916163/full-stack-developer-nodereact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bogotá, Bogota, Colombia | Remote | Sep 28 |
+| **[Talentfyseek](https://talentfyseek.com/)** | **[Full Stack Developer](https://jobr.pro/job/28916162/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Miami, Florida, United States | On Site | Sep 28 |
 | **[RxCloud](https://www.therxcloud.com/)** | **[Java full Stack Developer](https://jobr.pro/job/28915507/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, Georgia, United States | On Site | Sep 28 |
 | **[JUSTROCKET](https://justrocket.ro)** | **[Senior Full-Stack Developer for Property Management Platform (m/f/d)](https://jobr.pro/job/28910476/senior-full-stack-developer-for-property-management-platform-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca, Romania | On Site | Sep 28 |
 | **[Hitachi Solutions](https://global.hitachi-solutions.com/)** | **[.Net full stack developer (Lead/Architect)](https://jobr.pro/job/28904934/net-full-stack-developer-leadarchitect?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, PUNE, India | On Site | Sep 28 |
@@ -58,15 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WNS Global Services](https://www.wns.com)** | **[REF62362B - Full Stack Developer for Web Application Profile](https://jobr.pro/job/28844204/ref62362b-full-stack-developer-for-web-application-profile?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Sep 26 |
 | **[Softgic](https://softgic.co/)** | **[Full Stack Developer Senior](https://jobr.pro/job/28803394/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Sep 26 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer - National Federal Tax Services](https://jobr.pro/job/28802497/full-stack-developer-national-federal-tax-services?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, Georgia, United States; Los Angeles, California, United States | On Site | Sep 26 |
-| **[Seamless Migration](https://www.seamlessmigration.com)** | **[Full Stack Developer (TS/SCI Full Scope Poly)](https://jobr.pro/job/28872364/full-stack-developer-tssci-full-scope-poly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Reston, United States | On Site | Sep 26 |
-| **[Inetum](https://www.inetum.com)** | **[Full Stack Developer with French (React & Java)](https://jobr.pro/job/28852525/full-stack-developer-with-french-react-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | On Site | Sep 26 |
-| **[SysAid](https://www.sysaid.com/)** | **[Full Stack Developer](https://jobr.pro/job/28810425/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Jaffa, IL | On Site | Sep 26 |
-| **[BIMM](https://bimm.com/)** | **[Lead Full Stack Developer, Headless CMS](https://jobr.pro/job/28843253/lead-full-stack-developer-headless-cms?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | Sep 26 |
-| **[Ruby Labs](https://rubylabs.com/)** | **[Middle Full-Stack Developer](https://jobr.pro/job/28845304/middle-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ukraine | Remote | Sep 26 |
+| **[Seamless Migration](https://www.seamlessmigration.com/)** | **[Full Stack Developer (TS/SCI Full Scope Poly)](https://jobr.pro/job/28875268/full-stack-developer-tssci-full-scope-poly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Reston, United States | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 45 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 24% remote | 45 companies | Avg salary: 224k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
