@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -29,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bank of New Zealand](https://www.bnz.co.nz/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29043407/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | BNZ Place Wellington, 1 Whitmore Street, New Zealand | On Site | Sep 30 |
 | **[Valeo](https://www.valeo.com/)** | **[Senior Full Stack Developer, GISACC](https://jobr.pro/job/29075949/senior-full-stack-developer-gisacc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | CAIRO - CAI1, Egypt | On Site | Sep 30 |
 | **[Amgen](https://www.amgen.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29077518/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India - Hyderabad | On Site | Sep 30 |
+| **[DXC Technology](https://dxc.com/)** | **[Full Stack Developer](https://jobr.pro/job/29079042/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | BEM01 - Mechelen, BE - EDS (BEM01), Belgium | On Site | Sep 30 |
 | **[Invisible Technologies](https://www.inv.tech/)** | **[Full Stack Developer Engineer Specialist](https://jobr.pro/job/28996703/full-stack-developer-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Argentina | On Site | Sep 29 |
 | **[EllisDon](https://www.ellisdon.com/)** | **[Full Stack Developer](https://jobr.pro/job/29013294/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mississauga, Ontario, Canada; Toronto, Ontario, Canada | On Site | Sep 29 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/29005098/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Sep 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Santander](https://www.santander.com/)** | **[Junior Full Stack Developer - Santander Digital Services](https://jobr.pro/job/28984740/junior-full-stack-developer-santander-digital-services?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Sep 29 |
 | **[TD](https://www.td.com/)** | **[Full Stack Developer / Software Engineer II (US)](https://jobr.pro/job/28991657/full-stack-developer-software-engineer-ii-us?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 5900 North Andrews Avenue, Fort Lauderdale, Florida, United States | On Site | Sep 29 |
 | **[RINGANA](https://www.ringana.com/)** | **[Full Stack Developer (m/f/d)](https://jobr.pro/job/28964856/full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sankt Johann in der Haide, Austria | On Site | Sep 28 |
-| **[Sparks Wiz Limited](https://sparkswiz.com/)** | **[Full Stack Developer](https://jobr.pro/job/28957814/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, California, United States | On Site | Sep 28 |
 
 ---
 
