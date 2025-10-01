@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,21 +13,26 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TechMagic](https://www.techmagic.co)** | **[Lead Full-stack developer (PHP+React)](https://jobr.pro/job/29163339/lead-full-stack-developer-phpreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | remote, Ukraine (Remote) | Remote | Oct 01 |
+| **[Tygart Technology, Inc.](https://www.tygart.com/)** | **[Full Stack Developer](https://jobr.pro/job/29160987/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Fredericksburg, VA | On Site | Oct 01 |
 | **[DigiMantra Labs](https://digimantralabs.com/)** | **[Full Stack Developer](https://jobr.pro/job/29144210/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ludhiana, India | On Site | Oct 01 |
 | **[DigiMantra Labs](https://digimantralabs.com/)** | **[Associate Full Stack Developer](https://jobr.pro/job/29144171/associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | S.A.S.Nagar (Mohali), India | On Site | Oct 01 |
 | **[ATLAS Dienstleistungen für Vermögensberatung](https://www.karriere-atlas.de/)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/29108901/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Frankfurt am Main, Hessen, Germany | On Site | Oct 01 |
 | **[Endava](https://www.endava.com)** | **[Senior Full Stack Developer (.NET & React)](https://jobr.pro/job/29106814/senior-full-stack-developer-net-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, NSW, Australia | On Site | Oct 01 |
 | **[Aperia Solutions](https://aperia.com/)** | **[Senior Full Stack Developer (Java, ReactJS)](https://jobr.pro/job/29088419/senior-full-stack-developer-java-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Danang, Danang, Vietnam; Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 01 |
 | **[LLYC](https://llyc.global/)** | **[Full Stack Developer Senior](https://jobr.pro/job/29127046/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bogotá, Colombia | On Site | Oct 01 |
-| **[PwC](https://www.pwc.com/)** | **[Senior Associate Full Stack Developer , Deals - Fixed Term Contract](https://jobr.pro/job/29086667/senior-associate-full-stack-developer-deals-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 01 |
-| **[PTC](https://www.ptc.com/)** | **[Associate Full-Stack Developer](https://jobr.pro/job/29155076/associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | HUN-Budapest, Hungary | On Site | Oct 01 |
-| **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/29140255/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 01 |
-| **[Inmagine](https://www.inmagine.com/)** | **[Full Stack Developer (3 positions)](https://jobr.pro/job/29138441/full-stack-developer-3-positions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Oct 01 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/29153419/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Oct 01 |
 | **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/29144619/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Baner, India | On Site | Oct 01 |
 | **[PTC](https://www.ptc.com/)** | **[Sr. Full-Stack Developer](https://jobr.pro/job/29155087/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | HUN-Budapest, Hungary | On Site | Oct 01 |
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29153496/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 01 |
 | **[Datacom](https://datacom.com/)** | **[Contract - Senior Full-Stack Developer (.NET + React)](https://jobr.pro/job/29147829/contract-senior-full-stack-developer-net-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wellington, Wellington Region, New Zealand | On Site | Oct 01 |
+| **[Leidos](https://www.leidos.com/)** | **[Jr Full Stack Developer](https://jobr.pro/job/29169015/jr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Oct 01 |
+| **[Inmagine](https://www.inmagine.com/)** | **[Full Stack Developer (3 positions)](https://jobr.pro/job/29138441/full-stack-developer-3-positions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Oct 01 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Full Stack Developer](https://jobr.pro/job/29162894/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, Georgia, United States | On Site | Oct 01 |
+| **[PwC](https://www.pwc.com/)** | **[Senior Associate Full Stack Developer , Deals - Fixed Term Contract](https://jobr.pro/job/29086667/senior-associate-full-stack-developer-deals-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 01 |
+| **[PTC](https://www.ptc.com/)** | **[Associate Full-Stack Developer](https://jobr.pro/job/29155076/associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | HUN-Budapest, Hungary | On Site | Oct 01 |
+| **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/29140255/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 01 |
+| **[Axis Communications](https://www.axis.com/)** | **[Senior Full stack developer - Analytics](https://jobr.pro/job/29166681/senior-full-stack-developer-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sweden - Linköping | On Site | Oct 01 |
 | **[Miratech](https://miratechgroup.com/)** | **[Senior Full Stack Developer (Ruby on Rails and React)](https://jobr.pro/job/29110099/senior-full-stack-developer-ruby-on-rails-and-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | All cities , Brazil | On Site | Sep 30 |
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/29082032/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Sep 30 |
 | **[BioCatch](https://www.biocatch.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29055645/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, Community of Madrid, ES | On Site | Sep 30 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Invisible Technologies](https://www.inv.tech/)** | **[Full Stack Developer Engineer Specialist](https://jobr.pro/job/28996703/full-stack-developer-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Argentina | On Site | Sep 29 |
 | **[EllisDon](https://www.ellisdon.com/)** | **[Full Stack Developer](https://jobr.pro/job/29013294/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mississauga, Ontario, Canada; Toronto, Ontario, Canada | On Site | Sep 29 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/29005098/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Sep 29 |
-| **[AlleyCorp Nord](https://alleycorpnord.com/)** | **[2 - Senior Full Stack Developer (ML preferred) - Contract](https://jobr.pro/job/29004838/2-senior-full-stack-developer-ml-preferred-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montréal, Quebec, Canada | On Site | Sep 29 |
-| **[Teravision Technologies](https://www.teravisiontech.com/)** | **[Full Stack Developer](https://jobr.pro/job/28999504/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Sep 29 |
-| **[American National Insurance Company](https://www.americannational.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29055268/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | League City, TX, 77573, USA | On Site | Sep 29 |
-| **[Two Six Technologies](https://twosixtech.com/)** | **[Full Stack Developer](https://jobr.pro/job/28997329/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington, Virginia | On Site | Sep 29 |
-| **[Solink](https://solink.com)** | **[Senior Full Stack Developer, AI](https://jobr.pro/job/28999731/senior-full-stack-developer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada | Remote | Sep 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 117k  
+**Current Stats:** 50 jobs | 8% remote | 46 companies | Avg salary: 105k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
