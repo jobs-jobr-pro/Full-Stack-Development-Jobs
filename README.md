@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -33,6 +33,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PTC](https://www.ptc.com/)** | **[Associate Full-Stack Developer](https://jobr.pro/job/29155076/associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | HUN-Budapest, Hungary | On Site | Oct 01 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/29140255/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 01 |
 | **[Axis Communications](https://www.axis.com/)** | **[Senior Full stack developer - Analytics](https://jobr.pro/job/29166681/senior-full-stack-developer-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sweden - Linköping | On Site | Oct 01 |
+| **[RBC](https://www.rbc.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29171184/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO, Canada | On Site | Oct 01 |
 | **[Miratech](https://miratechgroup.com/)** | **[Senior Full Stack Developer (Ruby on Rails and React)](https://jobr.pro/job/29110099/senior-full-stack-developer-ruby-on-rails-and-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | All cities , Brazil | On Site | Sep 30 |
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/29082032/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Sep 30 |
 | **[BioCatch](https://www.biocatch.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29055645/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, Community of Madrid, ES | On Site | Sep 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CAE](https://www.cae.com/)** | **[Full-Stack Developer I](https://jobr.pro/job/29083697/full-stack-developer-i?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal - 8585 Cote-De-Liesse, QC, Canada | On Site | Sep 30 |
 | **[Invisible Technologies](https://www.inv.tech/)** | **[Full Stack Developer Engineer Specialist](https://jobr.pro/job/28996703/full-stack-developer-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Argentina | On Site | Sep 29 |
 | **[EllisDon](https://www.ellisdon.com/)** | **[Full Stack Developer](https://jobr.pro/job/29013294/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mississauga, Ontario, Canada; Toronto, Ontario, Canada | On Site | Sep 29 |
-| **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/29005098/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Sep 29 |
 
 ---
 
