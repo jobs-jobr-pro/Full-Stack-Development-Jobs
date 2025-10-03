@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,6 +19,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Miratech](https://miratechgroup.com/)** | **[Senior Full Stack Developer (Ruby on Rails and React), short term](https://jobr.pro/job/29199946/senior-full-stack-developer-ruby-on-rails-and-react-short-term?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | All cities , Ukraine | On Site | Oct 02 |
 | **[Nitor](https://www.nitor.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/29211139/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Helsinki, Uusimaa, Finland | On Site | Oct 02 |
 | **[Newfold Digital](https://newfold.com/)** | **[Full Stack Developer](https://jobr.pro/job/29260311/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil - Remote | Remote | Oct 02 |
+| **[RBC](https://www.rbc.com/)** | **[Senior Full Stack Developer (C#/.NET/Angular/React)](https://jobr.pro/job/29261819/senior-full-stack-developer-cnetangularreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 1 PLACE VILLE MARIE:MONTRÉAL, Canada | On Site | Oct 02 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29261981/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 5900 HURONTARIO STREET MISSISSAUGA, Canada | On Site | Oct 02 |
 | **[MoxiWorks](https://moxiworks.com/)** | **[Full Stack Developer](https://jobr.pro/job/29210758/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bellevue, WA; Hybrid (Bellevue, Washington, US) | On Site | Oct 01 |
 | **[University of Maryland Medical System](https://us.smrtr.io)** | **[Sr. Full Stack Developer](https://jobr.pro/job/29200790/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Linthicum Heights, MD, United States | On Site | Oct 01 |
 | **[T-Rex Solutions, LLC](https://www.trexsolutionsllc.com/)** | **[Full Stack Developer](https://jobr.pro/job/29184760/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 100% Remote | Remote | Oct 01 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arpeely](https://www.arpeely.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29056822/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Sep 30 |
 | **[BabyOne Franchise & Systemzentrale GmbH](https://www.babyone.de/)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/29021290/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Münster Zentrale | On Site | Sep 30 |
 | **[Huld](https://www.huld.io/)** | **[Full-Stack Developer, Vaasa](https://jobr.pro/job/29038735/full-stack-developer-vaasa?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vaasa, Finland | On Site | Sep 30 |
-| **[LITIT](https://www.litit.tech/)** | **[LEAD FULL-STACK DEVELOPER (BACK-END ORIENTED)](https://jobr.pro/job/29089155/lead-full-stack-developer-back-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Sep 30 |
-| **[Altman Solon](https://www.altmansolon.com/)** | **[Front-End/Full Stack Developer, Analytics Innovation Team](https://jobr.pro/job/28996580/front-endfull-stack-developer-analytics-innovation-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Boston, MA, New York, NY, San Francisco, CA, Los Angeles, CA | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 124k  
+**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
