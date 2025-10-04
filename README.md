@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SatoshiLabs](https://satoshilabs.com)** | **[Full-stack Developer (Node.js/TypeScript)](https://jobr.pro/job/29359924/full-stack-developer-nodejstypescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Prague | On Site | Oct 03 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/29368950/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, India | Remote | Oct 03 |
 | **[Carbonfuture](https://carbonfuture.com/)** | **[Senior Full Stack Developer (Frontend- or Backend-Focused)](https://jobr.pro/job/29360809/senior-full-stack-developer-frontend-or-backend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Freiburg or remote, EU | Remote | Oct 03 |
+| **[Gamdom](https://gamdom.com/)** | **[Senior Full-Stack Developer (Back-End Focus)](https://jobr.pro/job/29385731/senior-full-stack-developer-back-end-focus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zagreb, Croatia | Remote | Oct 03 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Full Stack Developer (multi-technologies)](https://jobr.pro/job/29368956/full-stack-developer-multi-technologies?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Florianópolis, SC, Brazil | Remote | Oct 03 |
 | **[Peraton](https://www.peraton.com/)** | **[Full Stack Developer (Java, Spring Boot, Angular)](https://jobr.pro/job/29360947/full-stack-developer-java-spring-boot-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA, United States | On Site | Oct 03 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Full Stack Developer](https://jobr.pro/job/29278439/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, VA, United States | Remote | Oct 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TechMagic](https://www.techmagic.co)** | **[Lead Full-stack developer (PHP+React)](https://jobr.pro/job/29163339/lead-full-stack-developer-phpreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | remote, Ukraine (Remote) | Remote | Oct 01 |
 | **[Tygart Technology, Inc.](https://www.tygart.com/)** | **[Full Stack Developer](https://jobr.pro/job/29160987/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Fredericksburg, VA | On Site | Oct 01 |
 | **[Axle](https://axleinfo.com/)** | **[Full Stack Developer](https://jobr.pro/job/29189354/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bethesda, MD | On Site | Oct 01 |
-| **[DigiMantra Labs](https://digimantralabs.com/)** | **[Full Stack Developer](https://jobr.pro/job/29144210/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ludhiana, India | On Site | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 136k  
+**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
