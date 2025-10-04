@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Drumelia Real Estate](https://www.drumelia.com/)** | **[Full-Stack Developer with DevOps experience](https://jobr.pro/job/29369763/full-stack-developer-with-devops-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 04 |
 | **[Sensible Care](https://www.sensiblecare.com/)** | **[Full Stack Developer](https://jobr.pro/job/29364727/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | California | On Site | Oct 03 |
+| **[Tangentia Inc](https://www.tangentia.com/)** | **[Full Stack Developer (Angular & React)](https://jobr.pro/job/29404514/full-stack-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Canada | On Site | Oct 03 |
 | **[IFS](https://www.ifs.com/)** | **[Senior Full Stack Developer .NET, Extensions Infrastructure - IFS Copperleaf](https://jobr.pro/job/29349779/senior-full-stack-developer-net-extensions-infrastructure-ifs-copperleaf?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, BC, Canada | On Site | Oct 03 |
 | **[NEORIS](https://www.neoris.com)** | **[Lead Full Stack Developer - C# and .NET for Agricultural Solutions](https://jobr.pro/job/29353370/lead-full-stack-developer-c-and-net-for-agricultural-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sao Paulo, Brazil | On Site | Oct 03 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29366878/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Oct 03 |
@@ -22,6 +23,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Techery](https://techery.io)** | **[Senior Full Stack developer(Python+TS)](https://jobr.pro/job/29369938/senior-full-stack-developerpythonts?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Dnipro, Ukraine | On Site | Oct 03 |
 | **[Launchpad Technologies](https://www.golaunchpad.io/)** | **[Senior Web Full-Stack Developer](https://jobr.pro/job/29353187/senior-web-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latam | Remote | Oct 03 |
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Senior Full Stack Developer (F/H/NB) – Champions Tactics (Unity)](https://jobr.pro/job/29370252/senior-full-stack-developer-fhnb-champions-tactics-unity?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Paris, IDF, France | On Site | Oct 03 |
+| **[Ipsos](https://www.ipsos.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/29391285/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Romania | On Site | Oct 03 |
+| **[CrewBloom](https://crewbloom.com/)** | **[Full-Stack Developer (API & ML Integration)](https://jobr.pro/job/29399206/full-stack-developer-api-ml-integration?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | South Africa - Remote | Remote | Oct 03 |
 | **[SatoshiLabs](https://satoshilabs.com)** | **[Full-stack Developer (Node.js/TypeScript)](https://jobr.pro/job/29359924/full-stack-developer-nodejstypescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Prague | On Site | Oct 03 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/29368950/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, India | Remote | Oct 03 |
 | **[Carbonfuture](https://carbonfuture.com/)** | **[Senior Full Stack Developer (Frontend- or Backend-Focused)](https://jobr.pro/job/29360809/senior-full-stack-developer-frontend-or-backend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Freiburg or remote, EU | Remote | Oct 03 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MoxiWorks](https://moxiworks.com/)** | **[Full Stack Developer](https://jobr.pro/job/29210758/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bellevue, WA; Hybrid (Bellevue, Washington, US) | On Site | Oct 01 |
 | **[University of Maryland Medical System](https://us.smrtr.io)** | **[Sr. Full Stack Developer](https://jobr.pro/job/29200790/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Linthicum Heights, MD, United States | On Site | Oct 01 |
 | **[T-Rex Solutions, LLC](https://www.trexsolutionsllc.com/)** | **[Full Stack Developer](https://jobr.pro/job/29184760/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 100% Remote | Remote | Oct 01 |
-| **[TechMagic](https://www.techmagic.co)** | **[Lead Full-stack developer (PHP+React)](https://jobr.pro/job/29163339/lead-full-stack-developer-phpreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | remote, Ukraine (Remote) | Remote | Oct 01 |
-| **[Tygart Technology, Inc.](https://www.tygart.com/)** | **[Full Stack Developer](https://jobr.pro/job/29160987/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Fredericksburg, VA | On Site | Oct 01 |
-| **[Axle](https://axleinfo.com/)** | **[Full Stack Developer](https://jobr.pro/job/29189354/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bethesda, MD | On Site | Oct 01 |
 
 ---
 
