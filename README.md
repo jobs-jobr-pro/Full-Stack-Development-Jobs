@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[IFS](https://www.ifs.com/)** | **[Senior Full Stack Developer .NET, Extensions Infrastructure - IFS Copperleaf](https://jobr.pro/job/29349779/senior-full-stack-developer-net-extensions-infrastructure-ifs-copperleaf?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, BC, Canada | On Site | Oct 03 |
 | **[Elixirr Digital](https://www.elixirrdigital.com/)** | **[Full Stack Developer (Python/React)](https://jobr.pro/job/29338121/full-stack-developer-pythonreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rijeka or Zagreb, Croatia (Hybrid) | On Site | Oct 03 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Full Stack Developer](https://jobr.pro/job/29278439/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, VA, United States | Remote | Oct 03 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Web Full Stack Developer](https://jobr.pro/job/29305162/web-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Budapest Millennium Tower I, Hungary | On Site | Oct 03 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Airbus](https://www.airbus.com/)** | **[Full stack Developer - M&T](https://jobr.pro/job/29177830/full-stack-developer-mt?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore (Airbus), India | On Site | Oct 01 |
 | **[RBC](https://www.rbc.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29171184/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO, Canada | On Site | Oct 01 |
 | **[Axis Communications](https://www.axis.com/)** | **[Senior Full stack developer - Analytics](https://jobr.pro/job/29166681/senior-full-stack-developer-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sweden - Linköping | On Site | Oct 01 |
-| **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/29144619/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Baner, India | On Site | Oct 01 |
 
 ---
 
