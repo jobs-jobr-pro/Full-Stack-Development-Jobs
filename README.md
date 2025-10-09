@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -31,6 +31,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aristocrat](https://www.aristocrat.com/)** | **[Full Stack Developer](https://jobr.pro/job/29772471/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland - Warsaw | On Site | Oct 08 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Full Stack Developer (m/f/d)](https://jobr.pro/job/29799980/full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | BIH - Sarajevo, Bosnia and Herzegovina | On Site | Oct 08 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Full Stack Developer (PHP)](https://jobr.pro/job/29799951/full-stack-developer-php?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IRL - Dublin - Maynooth, Ireland | On Site | Oct 08 |
+| **[RTX](https://www.rtx.com/)** | **[Senior Lead Engineer - Full Stack Developer](https://jobr.pro/job/29808346/senior-lead-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | North Gate Business Park Sy.No 2/1, and Sy.No 2/2, KIAL Road, Venkatala Village, Chowdeshwari Layout, Yelahanka, Bangalore, Karnataka 560064, India | On Site | Oct 08 |
+| **[Hitachi](https://www.hitachi.com/)** | **[R&D in MACH - Full stack developer- India Development crntre](https://jobr.pro/job/29808500/rd-in-mach-full-stack-developer-india-development-crntre?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Oct 08 |
 | **[IFS](https://www.ifs.com/)** | **[Full Stack Developer .NET, Extensions Infrastructure - IFS Copperleaf](https://jobr.pro/job/29611940/full-stack-developer-net-extensions-infrastructure-ifs-copperleaf?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, BC, Canada | On Site | Oct 07 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Mid Full Stack Developer](https://jobr.pro/job/29576411/mid-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 07 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29576412/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 07 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sherwin-Williams](https://www.sherwin-williams.com/)** | **[Senior Full Stack Developer Oracle PL/SQL - Supply Chain Planning](https://jobr.pro/job/29516885/senior-full-stack-developer-oracle-plsql-supply-chain-planning?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cleveland, OH, United States | On Site | Oct 06 |
 | **[CERN](https://home.cern)** | **[Full Stack Developer for ALICE Analysis (EP-AIP-PAP-2025-199-GRAE)](https://jobr.pro/job/29466882/full-stack-developer-for-alice-analysis-ep-aip-pap-2025-199-grae?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Geneva, GENEVA, Switzerland | On Site | Oct 06 |
 | **[Extreme Networks](https://www.extremenetworks.com/)** | **[Senior Full Stack Developer – Generative AI & Autonomous Agents (10037, 10038)](https://jobr.pro/job/29478417/senior-full-stack-developer-generative-ai-autonomous-agents-10037-10038?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington | On Site | Oct 06 |
-| **[WTW](https://www.wtwco.com/)** | **[Full Stack Developer - ATP](https://jobr.pro/job/29432930/full-stack-developer-atp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, Maharashtra, India | On Site | Oct 06 |
-| **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[Senior Full-stack Developer (.NET Core & React.js & AWS)](https://jobr.pro/job/29434279/senior-full-stack-developer-net-core-reactjs-aws?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lisboa, Portugal | On Site | Oct 06 |
 
 ---
 
