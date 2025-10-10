@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full Stack Developer - Staff](https://jobr.pro/job/29937504/tc-mena-technology-full-stack-developer-staff?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Trivandrum, KL, IN, 695581 | On Site | Oct 10 |
+| **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Noida](https://jobr.pro/job/29941464/ebizon-full-stack-developer-react-native-noida?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh | On Site | Oct 10 |
+| **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Dehradun](https://jobr.pro/job/29941461/ebizon-full-stack-developer-react-native-dehradun?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dehradun, Uttarakhand | On Site | Oct 10 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/29917824/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 09 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Sr Full Stack Developer](https://jobr.pro/job/29881079/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Híbrido (Barcelona, Barcelona, España) | On Site | Oct 09 |
 | **[Canadian Bank Note Company](https://cbnco.com/)** | **[Full Stack Developer - Product Development Group](https://jobr.pro/job/29915562/full-stack-developer-product-development-group?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, ON, Canada | On Site | Oct 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UVeye](https://www.uveye.com/)** | **[Full Stack Developer](https://jobr.pro/job/29759118/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Oct 08 |
 | **[Delasport](https://www.delasport.com/)** | **[Middle Full Stack Developer](https://jobr.pro/job/29819907/middle-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 08 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[.Net Full Stack Developer](https://jobr.pro/job/29814542/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Oct 08 |
-| **[Virtusa](https://www.virtusa.com/)** | **[Full Stack Developer – Knowledge Graph & Gen AI](https://jobr.pro/job/29746428/full-stack-developer-knowledge-graph-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai | On Site | Oct 08 |
-| **[Delasport](https://www.delasport.com/)** | **[Senior Full stack developer](https://jobr.pro/job/29819908/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 08 |
-| **[Madiff](https://madiff.eu/)** | **[Full Stack Developer (React, Node.js, Python plus)](https://jobr.pro/job/29745050/full-stack-developer-react-nodejs-python-plus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 132k  
+**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 132k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
