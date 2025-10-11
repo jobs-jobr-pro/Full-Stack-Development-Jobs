@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[DataCrunch](https://datacrunch.io/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/30031321/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Maria01 (Helsinki) | On Site | Oct 11 |
+| **[Epassi](https://www.epassi.com/)** | **[Frontend / Full-Stack Developer](https://jobr.pro/job/30062502/frontend-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Łódź; Helsinki | On Site | Oct 11 |
 | **[Divelement Web Services](https://divelement.io)** | **[Full-Stack Developer](https://jobr.pro/job/30021550/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico - Remote | On Site | Oct 10 |
 | **[ShyftLabs](https://shyftlabs.io)** | **[Full Stack Developer](https://jobr.pro/job/30007125/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario | On Site | Oct 10 |
 | **[Smile Digital Health](https://www.smiledigitalhealth.com)** | **[Senior Full Stack Developer- Remote Canada](https://jobr.pro/job/30006653/senior-full-stack-developer-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario | Remote | Oct 10 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cofinpro AG](https://cofinpro.de/)** | **[Full Stack Developer .NET (w/m/d)](https://jobr.pro/job/29841554/full-stack-developer-net-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
 | **[Proekspert](https://www.proekspert.com)** | **[Senior Full-Stack Developer](https://jobr.pro/job/29922310/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Estonia , Estonia | On Site | Oct 09 |
 | **[beyonnex](https://beyonnex.io/)** | **[Full Stack Developer (m/f/d)](https://jobr.pro/job/29835838/full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 09 |
-| **[Enpal B.V.](https://www.enpal.de)** | **[Full Stack Developer (f/m/d)](https://jobr.pro/job/29835845/full-stack-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Berlin, BE, Germany | On Site | Oct 09 |
 
 ---
 
