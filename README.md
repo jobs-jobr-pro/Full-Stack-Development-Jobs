@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -29,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CHANEL](https://www.chanel.com/)** | **[Digital Solutions Developer (Senior Full Stack Developer) 1-year contract](https://jobr.pro/job/29967512/digital-solutions-developer-senior-full-stack-developer-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | BANGKOK OFFICE CENTRAL WORLD, Thailand | On Site | Oct 10 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/29966536/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 10 |
 | **[SS&C Technologies](https://www.ssctech.com/)** | **[Software Engineer - Java Full Stack Developer](https://jobr.pro/job/29983676/software-engineer-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad India - Block B | On Site | Oct 10 |
+| **[Citi](https://www.citigroup.com/)** | **[Full stack Developer](https://jobr.pro/job/29986964/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Oct 10 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/29917824/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 09 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Sr Full Stack Developer](https://jobr.pro/job/29881079/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Híbrido (Barcelona, Barcelona, España) | On Site | Oct 09 |
 | **[Canadian Bank Note Company](https://cbnco.com/)** | **[Full Stack Developer - Product Development Group](https://jobr.pro/job/29915562/full-stack-developer-product-development-group?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, ON, Canada | On Site | Oct 09 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Full Stack Developer](https://jobr.pro/job/29865773/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 09 |
 | **[Barclays](https://home.barclays/)** | **[Java Full-Stack Developer](https://jobr.pro/job/29879114/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 09 |
 | **[Uni Systems](https://www.unisystems.com)** | **[Full Stack Developer](https://jobr.pro/job/29863204/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brussels, Brussels, Belgium | On Site | Oct 09 |
-| **[Synechron](https://www.synechron.com/)** | **[Full Stack Developer in Rule Engine and API development](https://jobr.pro/job/29884977/full-stack-developer-in-rule-engine-and-api-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nashville, TN, United States | On Site | Oct 09 |
 
 ---
 
