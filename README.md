@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[MID-LEVEL FULL STACK DEVELOPER \| PYTHON/FASTAPI & REACT/TYPESCRIPT – WEB BACK-END (32630)](https://jobr.pro/job/29994012/mid-level-full-stack-developer-pythonfastapi-reacttypescript-web-back-end-32630?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Campinas, SP, Brazil | On Site | Oct 10 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29954176/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai | On Site | Oct 10 |
 | **[KIS Solutions](https://www.kissolutions.tech/)** | **[Full Stack Developer React and Java](https://jobr.pro/job/29954132/full-stack-developer-react-and-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 10 |
 | **[Frequentis AG](https://www.frequentis.com/)** | **[Full-Stack Developer - FAA VoICE Program](https://jobr.pro/job/29951103/full-stack-developer-faa-voice-program?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca, Cluj | On Site | Oct 10 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Senior Software Engineer (Java Full Stack Developer)](https://jobr.pro/job/29865779/senior-software-engineer-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 09 |
 | **[UBS](https://www.ubs.com/)** | **[Full Stack Developer](https://jobr.pro/job/29865773/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 09 |
 | **[Barclays](https://home.barclays/)** | **[Java Full-Stack Developer](https://jobr.pro/job/29879114/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 09 |
-| **[Uni Systems](https://www.unisystems.com)** | **[Full Stack Developer](https://jobr.pro/job/29863204/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brussels, Brussels, Belgium | On Site | Oct 09 |
 
 ---
 
