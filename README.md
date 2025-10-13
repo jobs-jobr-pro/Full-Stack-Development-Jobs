@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zensar](https://www.zensar.com/)** | **[FULL STACK DEVELOPER - SENIOR LEVEL](https://jobr.pro/job/30092761/full-stack-developer-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Oct 13 |
 | **[Volvo Group](https://www.volvogroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/30083688/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 562122 | On Site | Oct 13 |
+| **[Tenneco](https://www.tenneco.com/)** | **[Senior Full-Stack Developer with DevOps (Senior Engineer)](https://jobr.pro/job/30086678/senior-full-stack-developer-with-devops-senior-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rybnik, PL | On Site | Oct 13 |
+| **[apna](https://apna.co)** | **[Full Stack Developer](https://jobr.pro/job/30092697/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 12 |
+| **[CleanSlate Technology Group](https://www.cleanslatetg.com/)** | **[Cloud Full-Stack Developer](https://jobr.pro/job/30089239/cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Carmel, Indiana- Hybrid | On Site | Oct 12 |
 | **[Emergn](https://www.emergn.com/)** | **[Senior Java Full Stack Developer](https://jobr.pro/job/30085156/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latvia - Nationwide | On Site | Oct 12 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/30076679/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 12 |
 | **[DataCrunch](https://datacrunch.io/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/30031321/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Maria01 (Helsinki) | On Site | Oct 11 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Brainstack](https://www.brainstack.team/)** | **[Senior Full-Stack developer (Node/React)](https://jobr.pro/job/29904932/senior-full-stack-developer-nodereact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 09 |
 | **[Vonage](https://www.vonage.com/)** | **[Senior Full Stack Developer (.Net, JavaScript)](https://jobr.pro/job/29911505/senior-full-stack-developer-net-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wrocław, hybrid | On Site | Oct 09 |
 | **[QAD, Inc.](https://www.qad.com)** | **[Full Stack Developer](https://jobr.pro/job/29862667/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Barcelona, CT, Spain | Remote | Oct 09 |
-| **[Cymulate](https://cymulate.com/)** | **[.Net Full Stack Developer](https://jobr.pro/job/29918034/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Israel | On Site | Oct 09 |
-| **[Hitachi Digital Services](https://hitachids.com)** | **[(HCM/DN) Python Full-Stack Developer](https://jobr.pro/job/29913876/hcmdn-python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Viet Nam | On Site | Oct 09 |
-| **[LivEye](https://liveye.com/)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/29848843/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Föhren Zentrale | On Site | Oct 09 |
-| **[Ramblr](https://www.ramblr.ai/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29843543/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dresden | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 440k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 440k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
