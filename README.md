@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Volvo Group](https://www.volvogroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/30083688/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 562122 | On Site | Oct 13 |
+| **[Emergn](https://www.emergn.com/)** | **[Senior Java Full Stack Developer](https://jobr.pro/job/30085156/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latvia - Nationwide | On Site | Oct 12 |
+| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/30076679/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 12 |
 | **[DataCrunch](https://datacrunch.io/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/30031321/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Maria01 (Helsinki) | On Site | Oct 11 |
 | **[Epassi](https://www.epassi.com/)** | **[Frontend / Full-Stack Developer](https://jobr.pro/job/30062502/frontend-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Łódź; Helsinki | On Site | Oct 11 |
 | **[GlobalFoundries](https://gf.com/)** | **[Java full stack developer- (Spring Boot, Angular)](https://jobr.pro/job/30071267/java-full-stack-developer-spring-boot-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Karnataka - BANGALORE, India | On Site | Oct 11 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hitachi Digital Services](https://hitachids.com)** | **[(HCM/DN) Python Full-Stack Developer](https://jobr.pro/job/29913876/hcmdn-python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Viet Nam | On Site | Oct 09 |
 | **[LivEye](https://liveye.com/)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/29848843/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Föhren Zentrale | On Site | Oct 09 |
 | **[Ramblr](https://www.ramblr.ai/)** | **[Senior Full Stack Developer](https://jobr.pro/job/29843543/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dresden | On Site | Oct 09 |
-| **[Cofinpro AG](https://cofinpro.de/)** | **[Full Stack Developer Java (w/m/d)](https://jobr.pro/job/29841556/full-stack-developer-java-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
-| **[Cofinpro AG](https://cofinpro.de/)** | **[Full Stack Developer .NET (w/m/d)](https://jobr.pro/job/29841554/full-stack-developer-net-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
-| **[Proekspert](https://www.proekspert.com)** | **[Senior Full-Stack Developer](https://jobr.pro/job/29922310/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Estonia , Estonia | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 100k  
+**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 440k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
