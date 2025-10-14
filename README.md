@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[S&P Global](https://www.spglobal.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/30136642/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PK - ISLAMABAD 101 W AL KHAIR PLAZA, Pakistan | On Site | Oct 14 |
+| **[Continental](https://www.continental.com)** | **[Full Stack Developer - Data Science](https://jobr.pro/job/30133552/full-stack-developer-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lousado, Braga, Portugal | On Site | Oct 13 |
 | **[Innovamat](https://www.innovamat.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/30095386/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sant Cugat del Vallès, Spain | On Site | Oct 13 |
 | **[Zensar](https://www.zensar.com/)** | **[FULL STACK DEVELOPER - SENIOR LEVEL](https://jobr.pro/job/30092761/full-stack-developer-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Oct 13 |
 | **[Volvo Group](https://www.volvogroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/30083688/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 562122 | On Site | Oct 13 |
@@ -32,6 +34,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Full Stack Developer](https://jobr.pro/job/30131779/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Scottsdale, Arizona, United States, United States | On Site | Oct 13 |
 | **[Nasdaq](https://www.nasdaq.com/)** | **[Full stack Developer (Java, React & SQL) - Sr Analyst/Specialist/Sr Specialist](https://jobr.pro/job/30122993/full-stack-developer-java-react-sql-sr-analystspecialistsr-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore-Affluence, India | On Site | Oct 13 |
 | **[State Street](https://www.statestreet.com/)** | **[Java Full Stack Developer - Senior Manager](https://jobr.pro/job/30125026/java-full-stack-developer-senior-manager?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Oct 13 |
+| **[CACI International Inc](https://www.caci.com/)** | **[Full Stack Developer](https://jobr.pro/job/30134952/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | CMQ WILLISTON VT, United States | On Site | Oct 13 |
+| **[Airbus](https://www.airbus.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/30134721/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore (Airbus), India | On Site | Oct 13 |
 | **[apna](https://apna.co)** | **[Full Stack Developer](https://jobr.pro/job/30092697/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 12 |
 | **[CleanSlate Technology Group](https://www.cleanslatetg.com/)** | **[Cloud Full-Stack Developer](https://jobr.pro/job/30089239/cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Carmel, Indiana- Hybrid | On Site | Oct 12 |
 | **[Emergn](https://www.emergn.com/)** | **[Senior Java Full Stack Developer](https://jobr.pro/job/30085156/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latvia - Nationwide | On Site | Oct 12 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qualysoft](https://qualysoft.com)** | **[Full Stack Developer – Securities Lending Tech](https://jobr.pro/job/30007359/full-stack-developer-securities-lending-tech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Budapest | On Site | Oct 10 |
 | **[Zensar](https://www.zensar.com/)** | **[Full Stack Developer (Angular + .NET)](https://jobr.pro/job/29961955/full-stack-developer-angular-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Oct 10 |
 | **[AXA](https://www.axa.de/)** | **[Full Stack Developer (m/w/d) Connected Services](https://jobr.pro/job/30006806/full-stack-developer-mwd-connected-services?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | KÖLN, Germany | On Site | Oct 10 |
-| **[Indigo](https://www.indigo.org.au/)** | **[Full Stack Developer](https://jobr.pro/job/29971237/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nedlands, Western Australia 6009, Australia | On Site | Oct 10 |
-| **[Citi](https://www.citigroup.com/)** | **[Full stack Developer](https://jobr.pro/job/29986964/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Oct 10 |
-| **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full Stack Developer - Staff](https://jobr.pro/job/29937504/tc-mena-technology-full-stack-developer-staff?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Trivandrum, KL, IN, 695581 | On Site | Oct 10 |
-| **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Noida](https://jobr.pro/job/29941464/ebizon-full-stack-developer-react-native-noida?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh | On Site | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 260k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 292k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
