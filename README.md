@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -31,8 +31,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BHP](https://www.bhp.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/30227219/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Australia | On Site | Oct 15 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Full Stack Developer – Security Automation Engineering](https://jobr.pro/job/30279863/full-stack-developer-security-automation-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Oct 15 |
 | **[Accenture](https://www.accenture.com/)** | **[Internship - Technology Financial Services - Full Stack Developer as of February 2026](https://jobr.pro/job/30278659/internship-technology-financial-services-full-stack-developer-as-of-february-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brussels, Picard 11, Belgium | On Site | Oct 15 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Lead, Full Stack Developer](https://jobr.pro/job/30284327/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Trion Business Park, India | On Site | Oct 15 |
 | **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Noida](https://jobr.pro/job/30255678/ebizon-full-stack-developer-react-native-noida?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh | On Site | Oct 15 |
 | **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Dehradun](https://jobr.pro/job/30255675/ebizon-full-stack-developer-react-native-dehradun?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dehradun, Uttarakhand | On Site | Oct 15 |
+| **[VeriPark](https://www.veripark.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30299384/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PK Remote, Pakistan | Remote | Oct 15 |
 | **[Spartakus Technologies](https://spartakustech.com/)** | **[Full Stack Developer](https://jobr.pro/job/30224475/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kirkland, Quebec, Canada | On Site | Oct 14 |
 | **[Hitachi Digital Services](https://hitachids.com)** | **[Angular Full Stack Developer](https://jobr.pro/job/30218858/angular-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dallas, Texas | On Site | Oct 14 |
 | **[ADP](https://www.adp.com/)** | **[Confirmed Full Stack Developer - Italian Speaker](https://jobr.pro/job/30205864/confirmed-full-stack-developer-italian-speaker?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tunis, tun-tn, Tunisia | On Site | Oct 14 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FWD Group](https://www.fwd.com/)** | **[Senior Manager, Full Stack Developer](https://jobr.pro/job/30163985/senior-manager-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong - Cityplaza - L17 | On Site | Oct 14 |
 | **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30203445/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | ARNHEM, Netherlands | On Site | Oct 14 |
 | **[Polk County Florida](https://www.polk-county.net/)** | **[Information Technology.Senior Full Stack Developer.2184](https://jobr.pro/job/30173786/information-technologysenior-full-stack-developer2184?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bartow, FL, United States | On Site | Oct 13 |
-| **[Rounds](https://www.rounds.com/)** | **[Full Stack Developer](https://jobr.pro/job/30194812/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Lviv, Ukraine, UA | Remote | Oct 13 |
-| **[Dillard's](https://www.dillards.com)** | **[Full-Stack Developer](https://jobr.pro/job/30149932/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Little Rock, AR | On Site | Oct 13 |
 
 ---
 
