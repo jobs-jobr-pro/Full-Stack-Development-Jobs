@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Copado](https://www.copado.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30390916/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 70130, New Orleans , LA, United States | On Site | Oct 16 |
+| **[Bosch Group](https://www.bosch.com)** | **[MID-LEVEL FULL STACK DEVELOPER \| PYTHON & REACT (32630)](https://jobr.pro/job/30411125/mid-level-full-stack-developer-python-react-32630?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Campinas, SP, Brazil | On Site | Oct 16 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant, .NET Full Stack Developer (Azure & Cloud Focus), C#, .NET Core, Angular, and SQL Server etc.](https://jobr.pro/job/30378421/lead-consultant-net-full-stack-developer-azure-cloud-focus-c-net-core-angular-and-sql-server-etc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India-Noida | On Site | Oct 16 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Full Stack Developer (React)](https://jobr.pro/job/30375335/java-full-stack-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-MH-Pune | On Site | Oct 16 |
 | **[abra](https://www.abra-it.com/)** | **[Full Stack Developer](https://jobr.pro/job/30385984/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Center, Center District, IL | On Site | Oct 16 |
@@ -26,8 +27,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Air Products](https://www.airproducts.com/)** | **[Sr Solutions Engineer - Full Stack Developer](https://jobr.pro/job/30370414/sr-solutions-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune IN (Office: 5th & 6th floors) (0D03), India | On Site | Oct 16 |
 | **[Jabil](https://www.jabil.com/)** | **[Full stack Developer](https://jobr.pro/job/30390087/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | POL - Remote, Poland | Remote | Oct 16 |
 | **[Broadridge](https://www.broadridge.com/)** | **[Sr.Net Full stack developer _Senior Member Technical_Bangalore](https://jobr.pro/job/30345070/srnet-full-stack-developer-senior-member-technicalbangalore?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru-EPIP Industrial Area, India | On Site | Oct 16 |
-| **[Deloitte](https://www2.deloitte.com/)** | **[Full Stack Developer (with AI)](https://jobr.pro/job/30404348/full-stack-developer-with-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dublin, Ireland | On Site | Oct 16 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - Vice President](https://jobr.pro/job/30407288/full-stack-developer-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Oct 16 |
+| **[Deloitte](https://www2.deloitte.com/)** | **[Full Stack Developer (with AI)](https://jobr.pro/job/30404348/full-stack-developer-with-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dublin, Ireland | On Site | Oct 16 |
+| **[CACI International Inc](https://www.caci.com/)** | **[Full Stack Developer](https://jobr.pro/job/30411868/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 405 ASHBURN VA (ASHBURN CACI/CLIENT REIMB SITE), United States | On Site | Oct 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Full Stack Developer, Innovation (Engineer I)](https://jobr.pro/job/30363771/full-stack-developer-innovation-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Grand Rapids, MI, United States | On Site | Oct 15 |
 | **[Credera](https://www.credera.com/)** | **[Senior Full-Stack Developer, Adobe Commerce](https://jobr.pro/job/30339102/senior-full-stack-developer-adobe-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dallas, TX | On Site | Oct 15 |
 | **[Seneca Nation Group](https://www.senecanationgroup.com/)** | **[Senior Full Stack Developer (Cloud)](https://jobr.pro/job/30335104/senior-full-stack-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Noida](https://jobr.pro/job/30255678/ebizon-full-stack-developer-react-native-noida?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh | On Site | Oct 15 |
 | **[EbizON](https://www.ebizondigital.com/)** | **[EbizON\|\| Full Stack Developer (React Native) \|\| Dehradun](https://jobr.pro/job/30255675/ebizon-full-stack-developer-react-native-dehradun?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dehradun, Uttarakhand | On Site | Oct 15 |
 | **[VeriPark](https://www.veripark.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30299384/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PK Remote, Pakistan | Remote | Oct 15 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Lead, Full Stack Developer](https://jobr.pro/job/30284327/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Trion Business Park, India | On Site | Oct 15 |
-| **[Spartakus Technologies](https://spartakustech.com/)** | **[Full Stack Developer](https://jobr.pro/job/30224475/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kirkland, Quebec, Canada | On Site | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 183k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
