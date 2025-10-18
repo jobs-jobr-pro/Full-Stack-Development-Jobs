@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -29,8 +29,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vitesco Technologies](https://www.vitesco-technologies.com)** | **[Full stack developer](https://jobr.pro/job/30441250/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, IN | On Site | Oct 17 |
 | **[Shure](https://www.shure.com/)** | **[Engineer Sr, Full Stack Developer (typescript)](https://jobr.pro/job/30513496/engineer-sr-full-stack-developer-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Niles, IL, United States | Remote | Oct 17 |
 | **[ERNI](https://www.betterask.erni/)** | **[Full Stack Developer (SovOps)](https://jobr.pro/job/30449884/full-stack-developer-sovops?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mandaluyong, Philippines | On Site | Oct 17 |
-| **[AT&T](https://www.att.com/)** | **[Principal Full-Stack Developer](https://jobr.pro/job/30468733/principal-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA:TX:Dallas / Two AT&T Plaza (211 S Akard St) - Dat:211 S Akard St, United States | On Site | Oct 17 |
-| **[Reveal Health Tech](https://revealhealthtech.com/)** | **[Full Stack Developer / Software Engineer](https://jobr.pro/job/30450535/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 17 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/30471419/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 17 |
 | **[Barclays](https://home.barclays/)** | **[Java Full Stack Developer](https://jobr.pro/job/30471396/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 17 |
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer - Java](https://jobr.pro/job/30471386/senior-full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 17 |
@@ -39,6 +37,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Creative Chaos](https://creativechaos.co/)** | **[Full Stack Developer](https://jobr.pro/job/30438872/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pakistan - Remote | Remote | Oct 17 |
 | **[Momentive](https://www.momentive.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/30479908/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN Bangalore, India | On Site | Oct 17 |
 | **[Synechron](https://www.synechron.com/)** | **[Full stack developer (Java, React, Cloud)](https://jobr.pro/job/30477240/full-stack-developer-java-react-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru - GTP, India | On Site | Oct 17 |
+| **[AT&T](https://www.att.com/)** | **[Principal Full-Stack Developer](https://jobr.pro/job/30468733/principal-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA:TX:Dallas / Two AT&T Plaza (211 S Akard St) - Dat:211 S Akard St, United States | On Site | Oct 17 |
+| **[Reveal Health Tech](https://revealhealthtech.com/)** | **[Full Stack Developer / Software Engineer](https://jobr.pro/job/30450535/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 17 |
 | **[AutoStore](https://www.autostoresystem.com/)** | **[3D Integration Full Stack Developer](https://jobr.pro/job/30484464/3d-integration-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Stavanger, Norway | On Site | Oct 17 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Full Stack Developer](https://jobr.pro/job/30478369/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, Georgia, United States | On Site | Oct 17 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/30488036/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Oct 17 |
