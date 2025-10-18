@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -34,6 +34,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/30488036/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Oct 17 |
 | **[Momentive](https://www.momentive.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/30479908/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN Bangalore, India | On Site | Oct 17 |
 | **[Synechron](https://www.synechron.com/)** | **[Full stack developer (Java, React, Cloud)](https://jobr.pro/job/30477240/full-stack-developer-java-react-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru - GTP, India | On Site | Oct 17 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Full stack developer AVP](https://jobr.pro/job/30492947/full-stack-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Business Bay, India | On Site | Oct 17 |
+| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Lead Analyst - Vice President](https://jobr.pro/job/30490450/full-stack-developer-lead-analyst-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Oct 17 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Full Stack Developer - L2](https://jobr.pro/job/30425820/full-stack-developer-l2?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Oct 16 |
 | **[Copado](https://www.copado.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30390916/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 70130, New Orleans , LA, United States | On Site | Oct 16 |
 | **[Bosch Group](https://www.bosch.com)** | **[MID-LEVEL FULL STACK DEVELOPER \| PYTHON & REACT (32630)](https://jobr.pro/job/30411125/mid-level-full-stack-developer-python-react-32630?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Campinas, SP, Brazil | On Site | Oct 16 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Seneca Nation Group](https://www.senecanationgroup.com/)** | **[Senior Full Stack Developer (Cloud)](https://jobr.pro/job/30335104/senior-full-stack-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 15 |
 | **[Team Liquid](https://www.teamliquid.com)** | **[Full Stack Developer](https://jobr.pro/job/30362977/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Utrecht, Netherlands | On Site | Oct 15 |
 | **[LTV SaaS Fund](https://ltv.fund/)** | **[Full Stack Developer](https://jobr.pro/job/30323838/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Oct 15 |
-| **[Token Metrics](https://tokenmetrics.com/)** | **[Crypto Full Stack Developer Intern](https://jobr.pro/job/30327418/crypto-full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, TX | On Site | Oct 15 |
-| **[Bosch Group](https://www.bosch.com)** | **[Full Stack Developer](https://jobr.pro/job/30337325/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | hosur road bangalore, India | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 162k  
+**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 171k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
