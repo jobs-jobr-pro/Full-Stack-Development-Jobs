@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amentum](https://www.amentum.com/)** | **[Sign-on Bonus Eligible! Full Stack Developer](https://jobr.pro/job/30536569/sign-on-bonus-eligible-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States-Georgia-Fort Gordon-20362-FGNG | On Site | Oct 18 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer (MERN)](https://jobr.pro/job/30507147/senior-full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Oct 17 |
 | **[Bosch Group](https://www.bosch.com)** | **[JUNIOR FULL STACK DEVELOPER \| PYTHON & REACT(32667)](https://jobr.pro/job/30495651/junior-full-stack-developer-python-react32667?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Campinas, SP, Brazil | On Site | Oct 17 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Full Stack Developer (2 months contract ) potential to a permanent role](https://jobr.pro/job/30505265/full-stack-developer-2-months-contract-potential-to-a-permanent-role?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong | On Site | Oct 17 |
 | **[constellr](https://constellr.com/)** | **[Full-Stack Developer - Mission Operations Segment](https://jobr.pro/job/30499955/full-stack-developer-mission-operations-segment?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 17 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Java Full-stack Developer](https://jobr.pro/job/30537898/software-engineer-ii-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, Telangana, India | On Site | Oct 17 |
+| **[LRN Corporation](https://lrn.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/30539363/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, Maharashtra, India | On Site | Oct 17 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Full Stack Developer](https://jobr.pro/job/30462428/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Oct 17 |
 | **[BURGA](https://eu.burga.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30504222/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Oct 17 |
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Senior Full Stack Developer (Angular/TypeScript)](https://jobr.pro/job/30458452/senior-full-stack-developer-angulartypescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New Delhi | On Site | Oct 17 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Spiralyze](https://spiralyze.com/)** | **[Full-Stack Developer (AI-Driven Systems)](https://jobr.pro/job/30432035/full-stack-developer-ai-driven-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote Indonesia (Jakarta) | Remote | Oct 16 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Skywise/Google Script Full Stack Developer](https://jobr.pro/job/30341216/skywisegoogle-script-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 16 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[UX-focused Full Stack Developer](https://jobr.pro/job/30336804/ux-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India | On Site | Oct 16 |
-| **[Capco](https://www.capco.com/)** | **[Backend Developer/Full Stack Developer](https://jobr.pro/job/30318939/backend-developerfull-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thailand - Bangkok | On Site | Oct 16 |
-| **[Capco](https://www.capco.com/)** | **[Senior Full Stack Developer (ReactJS & NodeJS)](https://jobr.pro/job/30318952/senior-full-stack-developer-reactjs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thailand - Bangkok | On Site | Oct 16 |
-| **[Broadridge](https://www.broadridge.com/)** | **[Sr.Net Full stack developer _Senior Member Technical_Bangalore](https://jobr.pro/job/30345070/srnet-full-stack-developer-senior-member-technicalbangalore?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru-EPIP Industrial Area, India | On Site | Oct 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 148k  
+**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
