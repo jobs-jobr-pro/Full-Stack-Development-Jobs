@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visma](https://www.visma.fi/)** | **[Senior Full-Stack Developer (AI), Accode](https://jobr.pro/job/30655088/senior-full-stack-developer-ai-accode?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lappeenranta, Finland | Remote | Oct 21 |
+| **[Flight Centre Travel Group](https://www.fctgl.com/)** | **[Outsource Full Stack Developer](https://jobr.pro/job/30651056/outsource-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Asia, Ho Chi Minh City, Vietnam | Remote | Oct 21 |
+| **[Chevron](https://www.chevron.com/)** | **[Senior Software Engineer – Full Stack Developer](https://jobr.pro/job/30657850/senior-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City Chevron 6750 Office, Philippines | On Site | Oct 21 |
+| **[McFadyen Digital](https://mcfadyen.com)** | **[Full Stack Developer](https://jobr.pro/job/30642003/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, VA, United States | Remote | Oct 20 |
 | **[Forbes Advisor](https://www.forbes.com/)** | **[Lead Full Stack Developer (Remote)](https://jobr.pro/job/30631612/lead-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | Remote | Oct 20 |
 | **[CardinalOps](https://www.cardinalops.com/)** | **[Full Stack Developer (Backend Oriented)](https://jobr.pro/job/30585706/full-stack-developer-backend-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 20 |
 | **[Riskified](https://www.riskified.com/)** | **[Full-Stack Developer - Themis Team](https://jobr.pro/job/30623319/full-stack-developer-themis-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv | On Site | Oct 20 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/30471419/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 17 |
 | **[Barclays](https://home.barclays/)** | **[Java Full Stack Developer](https://jobr.pro/job/30471396/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 17 |
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer - Java](https://jobr.pro/job/30471386/senior-full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 17 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/30472379/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Bengaluru, India | On Site | Oct 17 |
-| **[Boeing](https://www.boeing.com/)** | **[Experienced DotNet Full Stack Developer](https://jobr.pro/job/30454991/experienced-dotnet-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Oct 17 |
-| **[Creative Chaos](https://creativechaos.co/)** | **[Full Stack Developer](https://jobr.pro/job/30438872/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pakistan - Remote | Remote | Oct 17 |
-| **[Momentive](https://www.momentive.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/30479908/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN Bangalore, India | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 196k  
+**Current Stats:** 50 jobs | 24% remote | 43 companies | Avg salary: 186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
