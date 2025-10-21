@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,17 +13,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Forbes Advisor](https://www.forbes.com/)** | **[Lead Full Stack Developer (Remote)](https://jobr.pro/job/30631612/lead-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | Remote | Oct 20 |
 | **[CardinalOps](https://www.cardinalops.com/)** | **[Full Stack Developer (Backend Oriented)](https://jobr.pro/job/30585706/full-stack-developer-backend-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 20 |
+| **[Riskified](https://www.riskified.com/)** | **[Full-Stack Developer - Themis Team](https://jobr.pro/job/30623319/full-stack-developer-themis-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv | On Site | Oct 20 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Java Senior Full Stack Developer](https://jobr.pro/job/30579569/java-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | CA-QC-Montréal | On Site | Oct 20 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/30578646/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 20 |
 | **[Recro](https://recro.io/)** | **[Full Stack Developer Product](https://jobr.pro/job/30583739/full-stack-developer-product?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 20 |
+| **[Miratech](https://miratechgroup.com/)** | **[Senior Full-Stack Developer (Front-End oriented)](https://jobr.pro/job/30630237/senior-full-stack-developer-front-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | All cities , Brazil | On Site | Oct 20 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Full Stack Developer](https://jobr.pro/job/30590890/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur | On Site | Oct 20 |
+| **[Emory University](https://www.emory.edu/)** | **[Full Stack Developer, Cardiac Arrest Registry to Enhance Survival (CARES) - 12 Month Assignment](https://jobr.pro/job/30631755/full-stack-developer-cardiac-arrest-registry-to-enhance-survival-cares-12-month-assignment?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, GA, United States | On Site | Oct 20 |
+| **[Trustmi](https://trustmi.ai/)** | **[Full Stack Developer](https://jobr.pro/job/30563936/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 20 |
+| **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/30579256/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Apex House, South Africa | On Site | Oct 20 |
 | **[RTD](https://www.rtd-denver.com/)** | **[Senior Software Engineer - Full Stack Developer](https://jobr.pro/job/30590158/senior-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Civic Center Plaza, United States | On Site | Oct 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30607422/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Oct 20 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/30606280/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 2145 Sterling VA, United States | On Site | Oct 20 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30572441/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PK - ISLAMABAD 101 W AL KHAIR PLAZA, Pakistan | On Site | Oct 20 |
-| **[Trustmi](https://trustmi.ai/)** | **[Full Stack Developer](https://jobr.pro/job/30563936/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 20 |
-| **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/30579256/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Apex House, South Africa | On Site | Oct 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full Stack Developer/Angular v.17, v.18 , or v.19](https://jobr.pro/job/30607431/java-full-stack-developerangular-v17-v18-or-v19?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | Remote | Oct 20 |
 | **[BMO](https://www.bmo.com/)** | **[Senior Full Stack Developer - (Java / AWS Lambda/ REST / API)](https://jobr.pro/job/30613138/senior-full-stack-developer-java-aws-lambda-rest-api?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | SCC, Canada | On Site | Oct 20 |
 | **[AT&T Israel R&D Center](https://www.att.com/)** | **[Senior Full Stack Developer - GrowthHub](https://jobr.pro/job/30585742/senior-full-stack-developer-growthhub?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Airport, Center District, IL | On Site | Oct 19 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boeing](https://www.boeing.com/)** | **[Experienced DotNet Full Stack Developer](https://jobr.pro/job/30454991/experienced-dotnet-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Oct 17 |
 | **[Creative Chaos](https://creativechaos.co/)** | **[Full Stack Developer](https://jobr.pro/job/30438872/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pakistan - Remote | Remote | Oct 17 |
 | **[Momentive](https://www.momentive.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/30479908/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN Bangalore, India | On Site | Oct 17 |
-| **[Synechron](https://www.synechron.com/)** | **[Full stack developer (Java, React, Cloud)](https://jobr.pro/job/30477240/full-stack-developer-java-react-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru - GTP, India | On Site | Oct 17 |
-| **[AT&T](https://www.att.com/)** | **[Principal Full-Stack Developer](https://jobr.pro/job/30468733/principal-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA:TX:Dallas / Two AT&T Plaza (211 S Akard St) - Dat:211 S Akard St, United States | On Site | Oct 17 |
-| **[Reveal Health Tech](https://revealhealthtech.com/)** | **[Full Stack Developer / Software Engineer](https://jobr.pro/job/30450535/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 17 |
-| **[AutoStore](https://www.autostoresystem.com/)** | **[3D Integration Full Stack Developer](https://jobr.pro/job/30484464/3d-integration-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Stavanger, Norway | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 200k  
+**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
