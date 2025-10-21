@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 20:56 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -18,13 +18,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/30578646/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 20 |
 | **[Recro](https://recro.io/)** | **[Full Stack Developer Product](https://jobr.pro/job/30583739/full-stack-developer-product?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 20 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Full Stack Developer](https://jobr.pro/job/30590890/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur | On Site | Oct 20 |
+| **[RTD](https://www.rtd-denver.com/)** | **[Senior Software Engineer - Full Stack Developer](https://jobr.pro/job/30590158/senior-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Civic Center Plaza, United States | On Site | Oct 20 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30607422/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Oct 20 |
+| **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/30606280/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 2145 Sterling VA, United States | On Site | Oct 20 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30572441/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PK - ISLAMABAD 101 W AL KHAIR PLAZA, Pakistan | On Site | Oct 20 |
 | **[Trustmi](https://trustmi.ai/)** | **[Full Stack Developer](https://jobr.pro/job/30563936/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 20 |
 | **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/30579256/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Apex House, South Africa | On Site | Oct 20 |
-| **[RTD](https://www.rtd-denver.com/)** | **[Senior Software Engineer - Full Stack Developer](https://jobr.pro/job/30590158/senior-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Civic Center Plaza, United States | On Site | Oct 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full Stack Developer/Angular v.17, v.18 , or v.19](https://jobr.pro/job/30607431/java-full-stack-developerangular-v17-v18-or-v19?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | Remote | Oct 20 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30607422/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Oct 20 |
-| **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/30606280/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 2145 Sterling VA, United States | On Site | Oct 20 |
 | **[AT&T Israel R&D Center](https://www.att.com/)** | **[Senior Full Stack Developer - GrowthHub](https://jobr.pro/job/30585742/senior-full-stack-developer-growthhub?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Airport, Center District, IL | On Site | Oct 19 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30570993/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Egypt - Remote | Remote | Oct 19 |
 | **[Nawy Real Estate](https://www.nawy.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30569015/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Maadi, Egypt | On Site | Oct 19 |
