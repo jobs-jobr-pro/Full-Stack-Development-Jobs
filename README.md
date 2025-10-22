@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Full Stack Developer (Python/React)](https://jobr.pro/job/30713631/senior-full-stack-developer-pythonreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brasil | Remote | Oct 21 |
+| **[Robots & Pencils](https://robotsandpencils.com/)** | **[Full Stack Developer L3 /Agentic AI](https://jobr.pro/job/30718137/full-stack-developer-l3-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Calgary, BC, Toronto (Remote-Friendly) | Remote | Oct 21 |
+| **[Two Six Technologies](https://twosixtech.com/)** | **[Cloud Engineer / Full Stack Developer](https://jobr.pro/job/30714445/cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herndon, Virginia | On Site | Oct 21 |
 | **[TripleTen](https://tripleten.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30675895/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lisbon, Portugal, PT | On Site | Oct 21 |
+| **[Inetum](https://www.inetum.com)** | **[Java Full Stack Developer](https://jobr.pro/job/30728602/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lisbon, Lisbon, Portugal | On Site | Oct 21 |
 | **[Team8](https://team8.vc/)** | **[Panax- Full Stack Developer](https://jobr.pro/job/30675846/panax-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 21 |
 | **[Quantela Inc.](https://www.quantela.com/)** | **[Full Stack Developer](https://jobr.pro/job/30671284/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi, New Delhi, India | On Site | Oct 21 |
 | **[Visma](https://www.visma.fi/)** | **[Senior Full-Stack Developer (AI), Accode](https://jobr.pro/job/30655088/senior-full-stack-developer-ai-accode?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lappeenranta, Finland | Remote | Oct 21 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Full Stack Developer](https://jobr.pro/job/30462428/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Oct 17 |
 | **[BURGA](https://eu.burga.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30504222/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Oct 17 |
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Senior Full Stack Developer (Angular/TypeScript)](https://jobr.pro/job/30458452/senior-full-stack-developer-angulartypescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New Delhi | On Site | Oct 17 |
-| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Senior Full Stack Developer (Angular/Python)](https://jobr.pro/job/30458445/senior-full-stack-developer-angularpython?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New Delhi | On Site | Oct 17 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/30455986/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Oct 17 |
-| **[Miratech](https://miratechgroup.com/)** | **[Senior Full-Stack Developer (Back-End oriented)](https://jobr.pro/job/30514795/senior-full-stack-developer-back-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | All cities , Brazil | On Site | Oct 17 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Junior – Full Stack Developer](https://jobr.pro/job/30455813/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Milano, Roma | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 200k  
+**Current Stats:** 50 jobs | 24% remote | 49 companies | Avg salary: 202k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
