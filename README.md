@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -30,6 +30,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ADM](https://www.adm.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30763658/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 22 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Full Stack Developer, AI Initiatives (1-year Contract)](https://jobr.pro/job/30797561/full-stack-developer-ai-initiatives-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MAS: MAS Building, Singapore | On Site | Oct 22 |
 | **[VeriPark](https://www.veripark.com/)** | **[Full Stack Developer](https://jobr.pro/job/30796963/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Global Recruitment, Türkiye | On Site | Oct 22 |
+| **[DXC Technology](https://dxc.com/)** | **[Full Stack Developer](https://jobr.pro/job/30799347/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MY209 - DXC Petaling Jaya (MY209), Malaysia | On Site | Oct 22 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Lead Full Stack Developer](https://jobr.pro/job/30799129/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | KSG51588 Singapore (KSG51588) | On Site | Oct 22 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Full Stack Developer (Python/React)](https://jobr.pro/job/30713631/senior-full-stack-developer-pythonreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brasil | Remote | Oct 21 |
 | **[Robots & Pencils](https://robotsandpencils.com/)** | **[Full Stack Developer L3 /Agentic AI](https://jobr.pro/job/30718137/full-stack-developer-l3-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Calgary, BC, Toronto (Remote-Friendly) | Remote | Oct 21 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Cloud Engineer / Full Stack Developer](https://jobr.pro/job/30714445/cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herndon, Virginia | On Site | Oct 21 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/30606280/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 2145 Sterling VA, United States | On Site | Oct 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full Stack Developer/Angular v.17, v.18 , or v.19](https://jobr.pro/job/30607431/java-full-stack-developerangular-v17-v18-or-v19?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | Remote | Oct 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30607422/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Oct 20 |
-| **[Trustmi](https://trustmi.ai/)** | **[Full Stack Developer](https://jobr.pro/job/30563936/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 20 |
-| **[BMO](https://www.bmo.com/)** | **[Senior Full Stack Developer - (Java / AWS Lambda/ REST / API)](https://jobr.pro/job/30613138/senior-full-stack-developer-java-aws-lambda-rest-api?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | SCC, Canada | On Site | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 152k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 153k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
