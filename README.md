@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/30945473/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 24 |
+| **[Genpact](https://www.genpact.com/)** | **[Lead Consultant - Full Stack Developer](https://jobr.pro/job/30944743/lead-consultant-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India-Hyderabad | On Site | Oct 24 |
 | **[Sandvik](https://www.home.sandvik/)** | **[Web Full-Stack Developer](https://jobr.pro/job/30913014/web-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tampere, Finland | On Site | Oct 24 |
+| **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/30953850/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 24 |
+| **[Telia](https://www.teliacompany.com/)** | **[Senior Full-stack Developer](https://jobr.pro/job/30951932/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Lithuania | On Site | Oct 24 |
+| **[Allstate](https://www.allstate.com/)** | **[Product Engineering - Application Full Stack Developer](https://jobr.pro/job/30953301/product-engineering-application-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canadian Head Office (It), Canada | On Site | Oct 24 |
+| **[GE Vernova](https://www.gevernova.com/)** | **[Lead Java Full Stack Developer](https://jobr.pro/job/30938987/lead-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Oct 24 |
 | **[CAWST](https://www.cawst.org)** | **[Full Stack Developer](https://jobr.pro/job/30903785/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Calgary, AB, Canada | On Site | Oct 23 |
 | **[Bisnow](https://www.bisnow.com/)** | **[Full Stack Developer](https://jobr.pro/job/30898625/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 23 |
 | **[Skilled Wound Care](https://www.skilledwoundcare.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30897664/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico City, MX | On Site | Oct 23 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Full Stack Developer – SDET](https://jobr.pro/job/30778544/full-stack-developer-sdet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Oct 22 |
 | **[ADM](https://www.adm.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30763658/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 22 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Associate_.Net Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/30806233/inassociatenet-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru Millenia, India | On Site | Oct 22 |
-| **[Barclays](https://home.barclays/)** | **[Full stack Developer](https://jobr.pro/job/30776136/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 22 |
-| **[PwC](https://www.pwc.com/)** | **[IN-Manager_.Net Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/30753404/in-managernet-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad - Salarpuria, India | On Site | Oct 22 |
-| **[PwC](https://www.pwc.com/)** | **[IN_Manager_.Net Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/30753398/inmanagernet-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad - Salarpuria, India | On Site | Oct 22 |
-| **[PwC](https://www.pwc.com/)** | **[IN-Senior Associate_.Net Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/30753395/in-senior-associatenet-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru Millenia, India | On Site | Oct 22 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Full Stack Developer, AI Initiatives (1-year Contract)](https://jobr.pro/job/30797561/full-stack-developer-ai-initiatives-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MAS: MAS Building, Singapore | On Site | Oct 22 |
-| **[VeriPark](https://www.veripark.com/)** | **[Full Stack Developer](https://jobr.pro/job/30796963/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Global Recruitment, Türkiye | On Site | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 163k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
