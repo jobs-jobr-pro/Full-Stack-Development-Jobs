@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[IEEE](https://www.ieee.org/)** | **[Senior Full Stack Developer (E5028)](https://jobr.pro/job/31023199/senior-full-stack-developer-e5028?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States-California-Los Alamitos | On Site | Oct 25 |
 | **[LaunchPad Home Group](https://launchpadhomegroup.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30996938/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, United States | Remote | Oct 24 |
 | **[mthree](https://mthree.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30984589/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, QC | On Site | Oct 24 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30985692/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ADP](https://www.adp.com/)** | **[Lead Full Stack Developer (.NET) - SBS Team](https://jobr.pro/job/30785730/lead-full-stack-developer-net-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Oct 22 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30777289/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Oct 22 |
 | **[Launchpad Technologies](https://www.golaunchpad.io/)** | **[Full-Stack Developer (Java + Apache Camel)](https://jobr.pro/job/30806582/full-stack-developer-java-apache-camel?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latam | Remote | Oct 22 |
-| **[AJNA INFOTECH](https://www.ajnait.com)** | **[Java full stack developer with Python - Only Citizens and GC - W2 Only](https://jobr.pro/job/30802759/java-full-stack-developer-with-python-only-citizens-and-gc-w2-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, United States | On Site | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 163k  
+**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
