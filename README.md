@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/30985691/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 24 |
 | **[Cirkul](https://drinkcirkul.com/)** | **[Senior Full Stack Developer - Shopify](https://jobr.pro/job/30985199/senior-full-stack-developer-shopify?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tampa, Florida, United States | On Site | Oct 24 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer (MERN)](https://jobr.pro/job/30991225/senior-full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Oct 24 |
+| **[Le'Fant LLC](https://www.lefant.org/)** | **[Full Stack Developer - (BEAGLE)](https://jobr.pro/job/31011518/full-stack-developer-beagle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Oct 24 |
 | **[Aperia Solutions](https://aperia.com/)** | **[Full Stack Developer](https://jobr.pro/job/30985085/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Omaha, Nebraska, United States | On Site | Oct 24 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/30945473/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 24 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant - Full Stack Developer](https://jobr.pro/job/30944743/lead-consultant-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India-Hyderabad | On Site | Oct 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Keenfolks](https://keenfolks.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30777289/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Oct 22 |
 | **[Launchpad Technologies](https://www.golaunchpad.io/)** | **[Full-Stack Developer (Java + Apache Camel)](https://jobr.pro/job/30806582/full-stack-developer-java-apache-camel?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latam | Remote | Oct 22 |
 | **[AJNA INFOTECH](https://www.ajnait.com)** | **[Java full stack developer with Python - Only Citizens and GC - W2 Only](https://jobr.pro/job/30802759/java-full-stack-developer-with-python-only-citizens-and-gc-w2-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, United States | On Site | Oct 22 |
-| **[Ruby Labs](https://rubylabs.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30813309/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ukraine | Remote | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 47 companies | Avg salary: 163k  
+**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
