@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -23,6 +23,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ekkiden](https://www.ekkiden.com/)** | **[Senior Full Stack Developer .NET / React (H/F/X)](https://jobr.pro/job/31162256/senior-full-stack-developer-net-react-hfx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | \xc3\x8ele-de-France | On Site | Oct 28 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31152441/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 28 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/31167353/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Hyderabad, India | On Site | Oct 28 |
+| **[Jade Global](https://www.jadeglobal.com/)** | **[Full Stack Developer - AI Product Development](https://jobr.pro/job/31185563/full-stack-developer-ai-product-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 28 |
+| **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer for a New Core Sales System](https://jobr.pro/job/31183239/net-full-stack-developer-for-a-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Oct 28 |
+| **[State Street](https://www.statestreet.com/)** | **[Java Full Stack Developer - Assistant Manager](https://jobr.pro/job/31185455/java-full-stack-developer-assistant-manager?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Oct 28 |
 | **[The Krazy Coupon Lady](https://thekrazycouponlady.com/)** | **[Full Stack Developer](https://jobr.pro/job/31106362/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 27 |
 | **[ActiveState](https://www.activestate.com/)** | **[Full Stack Developer](https://jobr.pro/job/31124560/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver | Remote | Oct 27 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Full-Stack Developer (Ruby on Rails)](https://jobr.pro/job/31069296/full-stack-developer-ruby-on-rails?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Oct 27 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Credera](https://www.credera.com/)** | **[Senior Full-Stack Developer, Adobe Commerce (Contract)](https://jobr.pro/job/31045565/senior-full-stack-developer-adobe-commerce-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dallas, TX | On Site | Oct 25 |
 | **[IEEE](https://www.ieee.org/)** | **[Senior Full Stack Developer (E5028)](https://jobr.pro/job/31023199/senior-full-stack-developer-e5028?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States-California-Los Alamitos | On Site | Oct 25 |
 | **[LaunchPad Home Group](https://launchpadhomegroup.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30996938/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, United States | Remote | Oct 24 |
-| **[mthree](https://mthree.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30984589/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, QC | On Site | Oct 24 |
-| **[Harmonia](https://www.harmonia.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30985692/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 24 |
-| **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/30985691/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 139k  
+**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
