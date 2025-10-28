@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,11 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/31149492/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 28 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Junior - Full Stack Developer Insurance Solutions - Nexthub Bari](https://jobr.pro/job/31147106/junior-full-stack-developer-insurance-solutions-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Oct 28 |
 | **[Würth Cloud Services GmbH](https://www.wuerth-cs.com/de/wcs/index.php)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/31144325/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Berlin, Germany | On Site | Oct 28 |
 | **[If P&C Insurance Ltd](https://www.if.lv)** | **[.NET Full-stack Developer for a New Core Sales System](https://jobr.pro/job/31142664/net-full-stack-developer-for-a-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Oct 28 |
 | **[Bosch Group](https://www.bosch.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/31124029/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | bengaluru , India | On Site | Oct 28 |
 | **[Appetiser Apps](https://appetiser.com.au/)** | **[Part-Time Full-Stack Developer (Laravel and VueJS)](https://jobr.pro/job/31103285/part-time-full-stack-developer-laravel-and-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 28 |
 | **[LGT](https://www.lgt.com/)** | **[Full Stack Developer](https://jobr.pro/job/31138111/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong (FS) | On Site | Oct 28 |
+| **[Ekkiden](https://www.ekkiden.com/)** | **[Senior Full Stack Developer .NET / React (H/F/X)](https://jobr.pro/job/31162256/senior-full-stack-developer-net-react-hfx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | \xc3\x8ele-de-France | On Site | Oct 28 |
+| **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31152441/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 28 |
+| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/31167353/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Hyderabad, India | On Site | Oct 28 |
 | **[The Krazy Coupon Lady](https://thekrazycouponlady.com/)** | **[Full Stack Developer](https://jobr.pro/job/31106362/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 27 |
 | **[ActiveState](https://www.activestate.com/)** | **[Full Stack Developer](https://jobr.pro/job/31124560/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver | Remote | Oct 27 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Full-Stack Developer (Ruby on Rails)](https://jobr.pro/job/31069296/full-stack-developer-ruby-on-rails?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Oct 27 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[mthree](https://mthree.com/)** | **[Full-Stack Developer](https://jobr.pro/job/30984589/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, QC | On Site | Oct 24 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/30985692/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 24 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/30985691/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Oct 24 |
-| **[Cirkul](https://drinkcirkul.com/)** | **[Senior Full Stack Developer - Shopify](https://jobr.pro/job/30985199/senior-full-stack-developer-shopify?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tampa, Florida, United States | On Site | Oct 24 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer (MERN)](https://jobr.pro/job/30991225/senior-full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Oct 24 |
-| **[Le'Fant LLC](https://www.lefant.org/)** | **[Full Stack Developer - (BEAGLE)](https://jobr.pro/job/31011518/full-stack-developer-beagle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Oct 24 |
-| **[Aperia Solutions](https://aperia.com/)** | **[Full Stack Developer](https://jobr.pro/job/30985085/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Omaha, Nebraska, United States | On Site | Oct 24 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/30945473/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 139k  
+**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
