@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[GE Vernova](https://www.gevernova.com/)** | **[Lead Java Full Stack Developer](https://jobr.pro/job/31226362/lead-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Oct 29 |
 | **[Divelement Web Services](https://divelement.io)** | **[Full-Stack Developer](https://jobr.pro/job/31212345/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico - Remote | Remote | Oct 28 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Full-Stack Developer](https://jobr.pro/job/31232276/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Loma Linda, CA, United States | On Site | Oct 28 |
+| **[RidersDeal](https://www.ridersdeal.com)** | **[Senior PHP Full Stack Developer / Magento 2 (m/w/d)](https://jobr.pro/job/31221636/senior-php-full-stack-developer-magento-2-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Unterhaching | On Site | Oct 28 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/31149492/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 28 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior - Full Stack Developer Insurance Solutions - Nexthub Bari](https://jobr.pro/job/31147106/junior-full-stack-developer-insurance-solutions-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Oct 28 |
 | **[Inkubis](https://www.inkubis.eu/)** | **[Full Stack Developer](https://jobr.pro/job/31200197/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Utrecht, Utrecht, Nederland | On Site | Oct 28 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full Stack Developer/Angular v.17, v.18 , or v.19](https://jobr.pro/job/31092983/java-full-stack-developerangular-v17-v18-or-v19?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | Remote | Oct 27 |
 | **[Team8](https://team8.vc/)** | **[Bluespine- Senior Full Stack Developer](https://jobr.pro/job/31071506/bluespine-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 26 |
 | **[LXM Media](https://lxm-media.com/)** | **[Full Stack Developer](https://jobr.pro/job/31065234/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Larnaca, Cyprus | On Site | Oct 26 |
-| **[Ubeya](https://ubeya.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/31061272/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Jaffa, Israel | On Site | Oct 26 |
-| **[Vertis](https://vertis.digital/)** | **[Junior Full Stack Developer](https://jobr.pro/job/31057484/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore, Singapore | On Site | Oct 26 |
-| **[Vertis](https://vertis.digital/)** | **[Full Stack Developer](https://jobr.pro/job/31057474/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore, Singapore | On Site | Oct 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 84k  
+**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 84k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
