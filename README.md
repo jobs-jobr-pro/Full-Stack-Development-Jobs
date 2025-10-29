@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -29,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/31189754/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Oct 28 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Java Full Stack Developer, Associate](https://jobr.pro/job/31190988/java-full-stack-developer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Margarpatta, India | On Site | Oct 28 |
 | **[Telstra](https://www.telstra.com.au/)** | **[Senior Software Engineer -Full Stack Developer ( React + Java)](https://jobr.pro/job/31190312/senior-software-engineer-full-stack-developer-react-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Telstra ICC Bangalore, India | On Site | Oct 28 |
+| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer I (Hybrid)](https://jobr.pro/job/31193392/full-stack-developer-i-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MA105: BBN Headquarters 10 Moulton Street , Cambridge, MA, 02138 USA, United States | On Site | Oct 28 |
 | **[The Krazy Coupon Lady](https://thekrazycouponlady.com/)** | **[Full Stack Developer](https://jobr.pro/job/31106362/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 27 |
 | **[ActiveState](https://www.activestate.com/)** | **[Full Stack Developer](https://jobr.pro/job/31124560/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver | Remote | Oct 27 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Full-Stack Developer (Ruby on Rails)](https://jobr.pro/job/31069296/full-stack-developer-ruby-on-rails?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Oct 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/31051325/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Málaga, Andalusia, Spain | On Site | Oct 26 |
 | **[Vancity](https://www.vancity.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/31048720/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, British Columbia, Canada | On Site | Oct 26 |
 | **[Cyberark](https://www.cyberark.com)** | **[Full stack developer on AWS Infra](https://jobr.pro/job/31048351/full-stack-developer-on-aws-infra?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Petah Tikva, Central District, Israel | On Site | Oct 26 |
-| **[Credera](https://www.credera.com/)** | **[Senior Full-Stack Developer, Adobe Commerce](https://jobr.pro/job/31045564/senior-full-stack-developer-adobe-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Denver, CO | On Site | Oct 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 114k  
+**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 102k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
