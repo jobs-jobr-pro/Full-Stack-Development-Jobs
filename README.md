@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -23,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31336282/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 30 |
 | **[athenahealth](https://www.athenahealth.com/)** | **[Junior Full Stack Developer (Node.js/JavaScript)](https://jobr.pro/job/31276038/junior-full-stack-developer-nodejsjavascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore - Whitefield India | On Site | Oct 30 |
 | **[UBS](https://www.ubs.com/)** | **[Python Full Stack Developer](https://jobr.pro/job/31336294/python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 30 |
+| **[NN Group](https://www.nn-group.com/)** | **[Full Stack Developer](https://jobr.pro/job/31365099/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Digital Hub Prague, Czechia | On Site | Oct 30 |
 | **[Axle](https://axleinfo.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31294681/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rockville, MD | On Site | Oct 29 |
 | **[Veepee](https://veepee.com)** | **[Full-stack Developer - Media Tools](https://jobr.pro/job/31295150/full-stack-developer-media-tools?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Barcelona | On Site | Oct 29 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Full Stack Developer (Java, Angular) with French](https://jobr.pro/job/31304313/senior-full-stack-developer-java-angular-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | On Site | Oct 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Appetiser Apps](https://appetiser.com.au/)** | **[Part-Time Full-Stack Developer (Laravel and VueJS)](https://jobr.pro/job/31103285/part-time-full-stack-developer-laravel-and-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 28 |
 | **[Ekkiden](https://www.ekkiden.com/)** | **[Senior Full Stack Developer .NET / React (H/F/X)](https://jobr.pro/job/31162256/senior-full-stack-developer-net-react-hfx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | \xc3\x8ele-de-France | On Site | Oct 28 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/31167353/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Hyderabad, India | On Site | Oct 28 |
-| **[LGT](https://www.lgt.com/)** | **[Full Stack Developer](https://jobr.pro/job/31138111/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong (FS) | On Site | Oct 28 |
 
 ---
 
