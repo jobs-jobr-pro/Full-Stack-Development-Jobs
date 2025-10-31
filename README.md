@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,8 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AlphaGrep Securities](https://www.alpha-grep.com/)** | **[Full-stack Developer Intern](https://jobr.pro/job/31382455/full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | China | On Site | Oct 31 |
+| **[Dillard's](https://www.dillards.com)** | **[Full-Stack Developer](https://jobr.pro/job/31379916/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Little Rock, AR | On Site | Oct 30 |
+| **[PerfectServe](https://www.perfectserve.com/)** | **[Full Stack Developer — AI Voice Agent Platform](https://jobr.pro/job/31381059/full-stack-developer-ai-voice-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Victoria, British Columbia, Canada | On Site | Oct 30 |
+| **[Blanc Labs](https://www.blanclabs.com)** | **[Full Stack Developer (Python, React, Azure, AI/ML)](https://jobr.pro/job/31379199/full-stack-developer-python-react-azure-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto | On Site | Oct 30 |
+| **[Capstone Integrated Solutions](https://www.capstone-is.com/)** | **[AWS Cloud Full Stack Developer – Cloud Watch](https://jobr.pro/job/31380004/aws-cloud-full-stack-developer-cloud-watch?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 30 |
+| **[Disguise](https://www.disguise.one/)** | **[Full-Stack Developer (Cloud)](https://jobr.pro/job/31380468/full-stack-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Quebec, Canada | On Site | Oct 30 |
 | **[mPrest](https://mprest.com/)** | **[Full Stack Developer](https://jobr.pro/job/31347590/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kiryat Bialik, IL | On Site | Oct 30 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Full Stack Developer - Java](https://jobr.pro/job/31337414/senior-full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | US-CO-Denver | On Site | Oct 30 |
+| **[Similarweb](https://www.similarweb.com/)** | **[Full Stack Developer](https://jobr.pro/job/31376600/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv | On Site | Oct 30 |
 | **[Bosch Group](https://www.bosch.com)** | **[Pflichtpraktikum im Bereich Full-Stack Developer](https://jobr.pro/job/31299705/pflichtpraktikum-im-bereich-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Stuttgart, BW, Germany | On Site | Oct 30 |
 | **[Temus](https://www.temus.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31300492/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore | On Site | Oct 30 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/31345732/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Oct 30 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Loma Linda University Health](https://lluh.org/)** | **[Full-Stack Developer](https://jobr.pro/job/31232276/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Loma Linda, CA, United States | On Site | Oct 28 |
 | **[RidersDeal](https://www.ridersdeal.com)** | **[Senior PHP Full Stack Developer / Magento 2 (m/w/d)](https://jobr.pro/job/31221636/senior-php-full-stack-developer-magento-2-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Unterhaching | On Site | Oct 28 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/31149492/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Oct 28 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Junior - Full Stack Developer Insurance Solutions - Nexthub Bari](https://jobr.pro/job/31147106/junior-full-stack-developer-insurance-solutions-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Oct 28 |
-| **[Inkubis](https://www.inkubis.eu/)** | **[Full Stack Developer](https://jobr.pro/job/31200197/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Utrecht, Utrecht, Nederland | On Site | Oct 28 |
-| **[Würth Cloud Services GmbH](https://www.wuerth-cs.com/de/wcs/index.php)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/31144325/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Berlin, Germany | On Site | Oct 28 |
-| **[ALTEN](https://www.alten.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/31212931/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rabat, Rabat-Salé-Kénitra, Morocco | On Site | Oct 28 |
-| **[If P&C Insurance Ltd](https://www.if.lv)** | **[.NET Full-stack Developer for a New Core Sales System](https://jobr.pro/job/31142664/net-full-stack-developer-for-a-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Oct 28 |
-| **[Bosch Group](https://www.bosch.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/31124029/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | bengaluru , India | On Site | Oct 28 |
-| **[Appetiser Apps](https://appetiser.com.au/)** | **[Part-Time Full-Stack Developer (Laravel and VueJS)](https://jobr.pro/job/31103285/part-time-full-stack-developer-laravel-and-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 111k  
+**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
