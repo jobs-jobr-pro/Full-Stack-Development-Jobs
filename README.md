@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AlphaGrep Securities](https://www.alpha-grep.com/)** | **[Full-stack Developer Intern](https://jobr.pro/job/31382455/full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | China | On Site | Oct 31 |
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31432212/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 31 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/31432205/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 31 |
+| **[NatWest Group](https://www.natwestgroup.com/)** | **[Full Stack Developer, Angular And Java, AVP](https://jobr.pro/job/31443352/full-stack-developer-angular-and-java-avp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, India | On Site | Oct 31 |
 | **[Dillard's](https://www.dillards.com)** | **[Full-Stack Developer](https://jobr.pro/job/31379916/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Little Rock, AR | On Site | Oct 30 |
 | **[PerfectServe](https://www.perfectserve.com/)** | **[Full Stack Developer — AI Voice Agent Platform](https://jobr.pro/job/31381059/full-stack-developer-ai-voice-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Victoria, British Columbia, Canada | On Site | Oct 30 |
 | **[Blanc Labs](https://www.blanclabs.com)** | **[Full Stack Developer (Python, React, Azure, AI/ML)](https://jobr.pro/job/31379199/full-stack-developer-python-react-azure-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto | On Site | Oct 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Full Stack Developer - Zero Trust and IAM](https://jobr.pro/job/31275633/full-stack-developer-zero-trust-and-iam?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND Bangalore C 601, India | On Site | Oct 29 |
 | **[Divelement Web Services](https://divelement.io)** | **[Full-Stack Developer](https://jobr.pro/job/31212345/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico - Remote | Remote | Oct 28 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Full-Stack Developer](https://jobr.pro/job/31232276/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Loma Linda, CA, United States | On Site | Oct 28 |
-| **[RidersDeal](https://www.ridersdeal.com)** | **[Senior PHP Full Stack Developer / Magento 2 (m/w/d)](https://jobr.pro/job/31221636/senior-php-full-stack-developer-magento-2-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Unterhaching | On Site | Oct 28 |
 
 ---
 
