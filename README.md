@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -17,6 +17,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31432212/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 31 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/31432205/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Oct 31 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Full Stack Developer, Angular And Java, AVP](https://jobr.pro/job/31443352/full-stack-developer-angular-and-java-avp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, India | On Site | Oct 31 |
+| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer with SAFe Agile Experience](https://jobr.pro/job/31452616/full-stack-developer-with-safe-agile-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RTX99: RTN Remote, Texas, United States | Remote | Oct 31 |
+| **[RTX](https://www.rtx.com/)** | **[Principal Specialist Full Stack Developer REMOTE](https://jobr.pro/job/31452614/principal-specialist-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | CA531: Fullerton, CA Bldg 676 1801 West Hughes Drive Building 676, Fullerton, CA, 92834 USA, United States | Remote | Oct 31 |
+| **[RingCentral](https://www.ringcentral.com/)** | **[Full Stack Developer](https://jobr.pro/job/31450769/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, Philippines | On Site | Oct 31 |
+| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://jobr.pro/job/31449783/full-stack-developer-sr-analyst-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Oct 31 |
 | **[Dillard's](https://www.dillards.com)** | **[Full-Stack Developer](https://jobr.pro/job/31379916/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Little Rock, AR | On Site | Oct 30 |
 | **[PerfectServe](https://www.perfectserve.com/)** | **[Full Stack Developer — AI Voice Agent Platform](https://jobr.pro/job/31381059/full-stack-developer-ai-voice-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Victoria, British Columbia, Canada | On Site | Oct 30 |
 | **[Blanc Labs](https://www.blanclabs.com)** | **[Full Stack Developer (Python, React, Azure, AI/ML)](https://jobr.pro/job/31379199/full-stack-developer-python-react-azure-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto | On Site | Oct 30 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/31275414/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Oct 29 |
 | **[RSM](https://rsmus.com/)** | **[Full Stack Developer - Senior Associate](https://jobr.pro/job/31263447/full-stack-developer-senior-associate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND-TG-Hyderabad-Equinox Tower 1 No. 53 Paiki, India | On Site | Oct 29 |
 | **[Airbus](https://www.airbus.com/)** | **[Intern - Full Stack Developer](https://jobr.pro/job/31252044/intern-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore (Airbus), India | On Site | Oct 29 |
-| **[UBS](https://www.ubs.com/)** | **[Senior Java Full Stack Developer](https://jobr.pro/job/31243951/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 29 |
-| **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Full Stack Developer - Zero Trust and IAM](https://jobr.pro/job/31275633/full-stack-developer-zero-trust-and-iam?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND Bangalore C 601, India | On Site | Oct 29 |
-| **[Divelement Web Services](https://divelement.io)** | **[Full-Stack Developer](https://jobr.pro/job/31212345/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico - Remote | Remote | Oct 28 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Full-Stack Developer](https://jobr.pro/job/31232276/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Loma Linda, CA, United States | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 119k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 142k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
