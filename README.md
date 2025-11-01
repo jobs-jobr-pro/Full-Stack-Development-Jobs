@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Softgic](https://softgic.co/)** | **[Full Stack Developer 1394](https://jobr.pro/job/31496123/full-stack-developer-1394?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Nov 01 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31494066/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Nov 01 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/31494056/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Nov 01 |
+| **[Ariel Partners](https://arielpartners.com/)** | **[Full Stack Developer](https://jobr.pro/job/31510142/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Long Island City, NY | On Site | Oct 31 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/31473723/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Florianópolis, SC, Brazil | Remote | Oct 31 |
 | **[O2E Brands](https://o2ebrands.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/31471288/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, British Columbia, Canada | On Site | Oct 31 |
 | **[Industrious](https://www.industriousoffice.com/)** | **[Full Stack Developer (Marketing) - Montreal](https://jobr.pro/job/31459169/full-stack-developer-marketing-montreal?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal | On Site | Oct 31 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Innofactor](https://www.innofactor.com/)** | **[Full Stack Developer, .Net](https://jobr.pro/job/31242543/full-stack-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, Finland | On Site | Oct 29 |
 | **[Workwize](https://www.goworkwize.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31285595/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Oct 29 |
 | **[Beyondsoft Consulting](https://beyondsoft.com/)** | **[Full Stack Developer](https://jobr.pro/job/31300371/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States (Remote), United States | Remote | Oct 29 |
-| **[Cloud DX, Inc.](https://www.clouddx.com/)** | **[Full Stack Developer](https://jobr.pro/job/31299859/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kitchener, ON, Canada | On Site | Oct 29 |
 
 ---
 
