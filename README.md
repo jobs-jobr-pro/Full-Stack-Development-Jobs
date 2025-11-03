@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Loihde](https://www.loihde.com/)** | **[Cloud Full-Stack Developer](https://jobr.pro/job/31573778/cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Helsinki | On Site | Nov 03 |
 | **[Roanuz](https://roanuz.com/)** | **[Full stack developer](https://jobr.pro/job/31562819/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/31556411/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer JAVA](https://jobr.pro/job/31556412/full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 03 |
@@ -22,6 +23,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boeing](https://www.boeing.com/)** | **[Experienced Programmer Analyst / .NET Full Stack Developer](https://jobr.pro/job/31552344/experienced-programmer-analyst-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Nov 03 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/31565997/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Bengaluru, India | On Site | Nov 03 |
 | **[LGT](https://www.lgt.com/)** | **[Full Stack Developer](https://jobr.pro/job/31547463/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong (FS) | On Site | Nov 03 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Full Stack Developer](https://jobr.pro/job/31571165/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, Georgia, United States | On Site | Nov 03 |
+| **[State Street](https://www.statestreet.com/)** | **[Java Full Stack Developer -Manager](https://jobr.pro/job/31581606/java-full-stack-developer-manager?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 03 |
+| **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/31586147/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Nov 03 |
 | **[Aversan](https://www.aversan.com/)** | **[Full Stack Developer](https://jobr.pro/job/31568796/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mississauga, Ontario | On Site | Nov 02 |
 | **[Net Group](https://netgroup.com/)** | **[Full Stack Developer (PHP, Laravel)](https://jobr.pro/job/31548034/full-stack-developer-php-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tallinn, Estonia | On Site | Nov 02 |
 | **[UWorld, LLC](https://careers.uworld.com/)** | **[Sr. Full Stack Developer - .NET](https://jobr.pro/job/31545161/sr-full-stack-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, Telangana, India | On Site | Nov 02 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Citi](https://www.citigroup.com/)** | **[Java full stack developer - C11](https://jobr.pro/job/31277019/java-full-stack-developer-c11?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Oct 30 |
 | **[Ryan](https://www.ryan.com/)** | **[Full Stack Developer](https://jobr.pro/job/31337020/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad Atria, India | On Site | Oct 30 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31336282/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 30 |
-| **[athenahealth](https://www.athenahealth.com/)** | **[Junior Full Stack Developer (Node.js/JavaScript)](https://jobr.pro/job/31276038/junior-full-stack-developer-nodejsjavascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore - Whitefield India | On Site | Oct 30 |
-| **[UBS](https://www.ubs.com/)** | **[Python Full Stack Developer](https://jobr.pro/job/31336294/python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Oct 30 |
-| **[NN Group](https://www.nn-group.com/)** | **[Full Stack Developer](https://jobr.pro/job/31365099/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Digital Hub Prague, Czechia | On Site | Oct 30 |
-| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Lead Analyst - Vice President](https://jobr.pro/job/31367375/full-stack-developer-lead-analyst-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
