@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -16,6 +16,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Version 1](https://www.version1.com)** | **[Full-Stack Developer- Software Engineer](https://jobr.pro/job/31619134/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 04 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer (MERN)](https://jobr.pro/job/31615393/senior-full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Nov 04 |
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Full Stack Developer Intern (AI Engagement Portal)](https://jobr.pro/job/31621104/full-stack-developer-intern-ai-engagement-portal?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada - Remote | Remote | Nov 04 |
+| **[Schaeffler](https://www.schaeffler.com)** | **[Full-stack Developer](https://jobr.pro/job/31624667/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bien Hoa, VN, 810000 | On Site | Nov 04 |
+| **[AHOY](https://www.ahoy.technology/)** | **[Full Stack Developer](https://jobr.pro/job/31636699/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Egypt - Remote | Remote | Nov 04 |
+| **[FIS](https://www.fisglobal.com/)** | **[Senior Java Full Stack Developer (Angular, Microservices)_ 3 to 6 Years- Chennai & Bangalore](https://jobr.pro/job/31639465/senior-java-full-stack-developer-angular-microservices-3-to-6-years-chennai-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND CHNN 32 A&B, India | On Site | Nov 04 |
 | **[Loihde](https://www.loihde.com/)** | **[Cloud Full-Stack Developer](https://jobr.pro/job/31573778/cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Helsinki | On Site | Nov 03 |
 | **[Roanuz](https://roanuz.com/)** | **[Full stack developer](https://jobr.pro/job/31562819/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/31556411/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Disguise](https://www.disguise.one/)** | **[Full-Stack Developer (Cloud)](https://jobr.pro/job/31380468/full-stack-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Quebec, Canada | On Site | Oct 30 |
 | **[mPrest](https://mprest.com/)** | **[Full Stack Developer](https://jobr.pro/job/31347590/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kiryat Bialik, IL | On Site | Oct 30 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Full Stack Developer - Java](https://jobr.pro/job/31337414/senior-full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | US-CO-Denver | On Site | Oct 30 |
-| **[Similarweb](https://www.similarweb.com/)** | **[Full Stack Developer](https://jobr.pro/job/31376600/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv | On Site | Oct 30 |
-| **[Bosch Group](https://www.bosch.com)** | **[Pflichtpraktikum im Bereich Full-Stack Developer](https://jobr.pro/job/31299705/pflichtpraktikum-im-bereich-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Stuttgart, BW, Germany | On Site | Oct 30 |
-| **[Temus](https://www.temus.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31300492/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore | On Site | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 220k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
