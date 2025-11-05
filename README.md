@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -15,9 +15,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Monks](https://www.monks.com/)** | **[Full-stack Developer - Golang & React (Remote)](https://jobr.pro/job/31702582/full-stack-developer-golang-react-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram | Remote | Nov 05 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_.Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/31698914/insenior-associatefull-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kolkata DN 57, India | On Site | Nov 05 |
+| **[NetApp](https://www.netapp.com/)** | **[Full Stack developer (Go, React)](https://jobr.pro/job/31740219/full-stack-developer-go-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, Karnataka, IN | On Site | Nov 05 |
+| **[EY](https://www.ey.com)** | **[SAP BTP Full Stack Developer with AI](https://jobr.pro/job/31742383/sap-btp-full-stack-developer-with-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 560048 | On Site | Nov 05 |
+| **[EY](https://www.ey.com)** | **[TTT - NET Full Stack Developer - Tax Senior](https://jobr.pro/job/31742553/ttt-net-full-stack-developer-tax-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 560016 | On Site | Nov 05 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 25705\] Senior Full-Stack developer (Node + React), Colombia](https://jobr.pro/job/31706347/job-25705-senior-full-stack-developer-node-react-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia | On Site | Nov 04 |
 | **[Smile Digital Health](https://www.smiledigitalhealth.com)** | **[Senior Full Stack Developer- Remote United States](https://jobr.pro/job/31703531/senior-full-stack-developer-remote-united-states?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote US | Remote | Nov 04 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Full Stack Developer (Node.js & React) – Portugal](https://jobr.pro/job/31701636/senior-full-stack-developer-nodejs-react-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lisbon, Portugal | On Site | Nov 04 |
+| **[Kepler Cheuvreux](https://www.keplercheuvreux.com/)** | **[FULL-STACK DEVELOPER - FRONT OFFICE - NYON](https://jobr.pro/job/31733885/full-stack-developer-front-office-nyon?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nyon, Switzerland | On Site | Nov 04 |
 | **[EXL](https://www.exlservice.com/)** | **[Application Engineer-Application Development-Full Stack Developer](https://jobr.pro/job/31657114/application-engineer-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 04 |
 | **[ManTech](https://www.mantech.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31650104/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA-VA-Ashburn | On Site | Nov 04 |
 | **[Sciera Inc.](https://www.sciera.com/)** | **[Junior full stack developer](https://jobr.pro/job/31659450/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TN, Chennai, India | On Site | Nov 04 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cloud DX, Inc.](https://www.clouddx.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31540356/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Victoria, BC, Canada | On Site | Nov 02 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/31535105/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Nov 02 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/31500698/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Nov 01 |
-| **[Softgic](https://softgic.co/)** | **[Full Stack Developer 1394](https://jobr.pro/job/31496123/full-stack-developer-1394?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Nov 01 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31494066/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Nov 01 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/31494056/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Nov 01 |
-| **[Ariel Partners](https://arielpartners.com/)** | **[Full Stack Developer](https://jobr.pro/job/31510142/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Long Island City, NY | On Site | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 298k  
+**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 436k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
