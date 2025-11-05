@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Worldpay](https://www.worldpay.com/)** | **[Senior .NET Full Stack Developer (C#, ASP.NET Core, Angular)_7+ Yrs_Bangalore/Pune/Indore](https://jobr.pro/job/31763898/senior-net-full-stack-developer-c-aspnet-core-angular7-yrsbangalorepuneindore?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND BNGL FL1 TWR1 MOBIUS WP, India | On Site | Nov 05 |
 | **[Ryan](https://www.ryan.com/)** | **[Full Stack Developer](https://jobr.pro/job/31750858/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad Block A, India | On Site | Nov 05 |
 | **[Accenture](https://www.accenture.com/)** | **[Internship - Technology Financial Services - Full Stack Developer as of February 2026](https://jobr.pro/job/31764923/internship-technology-financial-services-full-stack-developer-as-of-february-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brussels, Picard 11, Belgium | On Site | Nov 05 |
+| **[ABC Fitness](https://abcfitness.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/31773948/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 05 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 25705\] Senior Full-Stack developer (Node + React), Colombia](https://jobr.pro/job/31706347/job-25705-senior-full-stack-developer-node-react-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia | On Site | Nov 04 |
 | **[Smile Digital Health](https://www.smiledigitalhealth.com)** | **[Senior Full Stack Developer- Remote United States](https://jobr.pro/job/31703531/senior-full-stack-developer-remote-united-states?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote US | Remote | Nov 04 |
 | **[Pearson](https://www.pearson.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/31752353/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Nov 04 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fiserv](https://www.fiserv.com/)** | **[Full Stack Developer](https://jobr.pro/job/31571165/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, Georgia, United States | On Site | Nov 03 |
 | **[LGT](https://www.lgt.com/)** | **[Full Stack Developer](https://jobr.pro/job/31547463/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong (FS) | On Site | Nov 03 |
 | **[State Street](https://www.statestreet.com/)** | **[Java Full Stack Developer -Manager](https://jobr.pro/job/31581606/java-full-stack-developer-manager?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 03 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/31586147/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Nov 03 |
 
 ---
 
