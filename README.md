@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -27,6 +27,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31665073/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Nov 04 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/31651703/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Nov 04 |
 | **[A2MAC1](https://www.a2mac1.com/)** | **[Full Stack Developer (Angular 17, .NET)](https://jobr.pro/job/31660145/full-stack-developer-angular-17-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hary, Hauts-de-France, France | On Site | Nov 04 |
+| **[Institutional Shareholder Services](https://www.issgovernance.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31688981/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Nov 04 |
+| **[Equinix](https://www.equinix.com/)** | **[Full Stack Developer (Node.js OR Java)](https://jobr.pro/job/31688141/full-stack-developer-nodejs-or-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore Office SGO | On Site | Nov 04 |
+| **[Santander](https://www.santander.com/)** | **[Full Stack Developer - SCIB Málaga](https://jobr.pro/job/31691918/full-stack-developer-scib-malaga?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Málaga, Impact HUB-PLANTA BAJA, Spain | On Site | Nov 04 |
 | **[Fortinet](https://www.fortinet.com/)** | **[Intermediate Full Stack Developer](https://jobr.pro/job/31655530/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Burnaby, BC, Canada | On Site | Nov 03 |
 | **[Towa Software](https://towasoftware.com/)** | **[Senior Full-Stack Developer - Remoto Bilingüe](https://jobr.pro/job/31649506/senior-full-stack-developer-remoto-bilingue?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monterrey, Mexico | Remote | Nov 03 |
 | **[Loihde](https://www.loihde.com/)** | **[Cloud Full-Stack Developer](https://jobr.pro/job/31573778/cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Helsinki | On Site | Nov 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MetroStar](https://www.metrostar.com/)** | **[Full Stack Developer (6188)](https://jobr.pro/job/31460507/full-stack-developer-6188?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid - Local to D.C. metro area | On Site | Oct 31 |
 | **[AlphaGrep Securities](https://www.alpha-grep.com/)** | **[Full-stack Developer Intern](https://jobr.pro/job/31382455/full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | China | On Site | Oct 31 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Full Stack Developer, Angular And Java, AVP](https://jobr.pro/job/31443352/full-stack-developer-angular-and-java-avp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, India | On Site | Oct 31 |
-| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer with SAFe Agile Experience](https://jobr.pro/job/31452616/full-stack-developer-with-safe-agile-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RTX99: RTN Remote, Texas, United States | Remote | Oct 31 |
-| **[RTX](https://www.rtx.com/)** | **[Principal Specialist Full Stack Developer REMOTE](https://jobr.pro/job/31452614/principal-specialist-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | CA531: Fullerton, CA Bldg 676 1801 West Hughes Drive Building 676, Fullerton, CA, 92834 USA, United States | Remote | Oct 31 |
-| **[RingCentral](https://www.ringcentral.com/)** | **[Full Stack Developer](https://jobr.pro/job/31450769/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, Philippines | On Site | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 236k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
