@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 07, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -31,6 +31,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Creative Chaos](https://creativechaos.co/)** | **[Full Stack Developer](https://jobr.pro/job/31844184/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pakistan - Remote | Remote | Nov 06 |
 | **[Corning](https://www.corning.com)** | **[Senior Full Stack Developer- React/.Net](https://jobr.pro/job/31815940/senior-full-stack-developer-reactnet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Quebec, CA, H4M2Z2 | On Site | Nov 06 |
 | **[NTT DATA](https://nttdata.com)** | **[.NET Senior Full Stack Developer](https://jobr.pro/job/31820864/net-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Nov 06 |
+| **[Cardinal Health](https://cardinalhealth.com/)** | **[Engineer- Full Stack Developer(Java)](https://jobr.pro/job/31877271/engineer-full-stack-developerjava?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND07, India | On Site | Nov 06 |
+| **[Cardinal Health](https://cardinalhealth.com/)** | **[Sr Analyst- Full Stack Developer(Java)](https://jobr.pro/job/31877270/sr-analyst-full-stack-developerjava?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND07, India | On Site | Nov 06 |
+| **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/31875527/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Nov 06 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Full-Stack Developer (f/m/x)](https://jobr.pro/job/31876598/full-stack-developer-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Romania | On Site | Nov 06 |
+| **[Citi](https://www.citigroup.com/)** | **[Full stack developer (C#, .Net & Angular) - Assistant Vice President](https://jobr.pro/job/31875309/full-stack-developer-c-net-angular-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Nov 06 |
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Full Stack Developer](https://jobr.pro/job/31807477/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manhattan, New York, United States | On Site | Nov 05 |
 | **[redbee](https://redbee.io/)** | **[Full Stack Developer Senior](https://jobr.pro/job/31795382/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Argentina | On Site | Nov 05 |
 | **[Pricefox](https://www.pricefox.gr/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31804613/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Athens, Greece | On Site | Nov 05 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kepler Cheuvreux](https://www.keplercheuvreux.com/)** | **[FULL-STACK DEVELOPER - FRONT OFFICE - NYON](https://jobr.pro/job/31733885/full-stack-developer-front-office-nyon?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nyon, Switzerland | On Site | Nov 04 |
 | **[EXL](https://www.exlservice.com/)** | **[Application Engineer-Application Development-Full Stack Developer](https://jobr.pro/job/31657114/application-engineer-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 04 |
 | **[ManTech](https://www.mantech.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31650104/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA-VA-Ashburn | On Site | Nov 04 |
-| **[Sciera Inc.](https://www.sciera.com/)** | **[Junior full stack developer](https://jobr.pro/job/31659450/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TN, Chennai, India | On Site | Nov 04 |
-| **[Version 1](https://www.version1.com)** | **[Full-Stack Developer- Software Engineer](https://jobr.pro/job/31619134/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 04 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer (MERN)](https://jobr.pro/job/31615393/senior-full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Nov 04 |
-| **[FIS](https://www.fisglobal.com/)** | **[Senior Java Full Stack Developer (Angular, Microservices)_ 3 to 6 Years- Chennai & Bangalore](https://jobr.pro/job/31639465/senior-java-full-stack-developer-angular-microservices-3-to-6-years-chennai-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND CHNN 32 A&B, India | On Site | Nov 04 |
-| **[Kimberly-Clark](https://www.kimberly-clark.com/)** | **[Full Stack Developer - B2B Portals](https://jobr.pro/job/31651246/full-stack-developer-b2b-portals?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IT Centre Bengaluru GDTC, India | On Site | Nov 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 48 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 177k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
