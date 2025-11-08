@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31951231/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | ARNHEM, Netherlands | On Site | Nov 07 |
 | **[RSM](https://rsmus.com/)** | **[Full Stack Developer - Senior Associate](https://jobr.pro/job/31950795/full-stack-developer-senior-associate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND-TG-Hyderabad-Equinox Tower 1 No. 53 Paiki, India | On Site | Nov 07 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31954182/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Newton Home Office - NEWTON, United States | On Site | Nov 07 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Backend / Full stack Developer](https://jobr.pro/job/31964235/java-backend-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 07 |
 | **[South College](https://www.south.edu/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31916805/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Work From Home | Remote | Nov 06 |
 | **[Hostinger](https://www.hostinger.com/)** | **[Full-Stack Developer (Node.js) - Horizons team](https://jobr.pro/job/31888761/full-stack-developer-nodejs-horizons-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Nov 06 |
 | **[Visa](https://visa.com)** | **[Sr SW Engineer - Full Stack Developer React, .NET, Python](https://jobr.pro/job/31879227/sr-sw-engineer-full-stack-developer-react-net-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, TX, United States | On Site | Nov 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Overwolf](https://www.overwolf.com/)** | **[Full Stack Developer](https://jobr.pro/job/31759922/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | US - Remote, CA, US | Remote | Nov 05 |
 | **[Fulcrum](https://fulcrum.rocks/)** | **[Full-Stack Developer (Node, React, MongoDB)](https://jobr.pro/job/31795475/full-stack-developer-node-react-mongodb?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Nov 05 |
 | **[evoke](https://www.evokeplc.com/)** | **[Fraud Full Stack Developer with .NET](https://jobr.pro/job/31760715/fraud-full-stack-developer-with-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | București, București, RO | On Site | Nov 05 |
-| **[888 Group](https://www.888.com/)** | **[Fraud Full Stack Developer with .NET](https://jobr.pro/job/31759195/fraud-full-stack-developer-with-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | București, București, RO | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
