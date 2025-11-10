@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oteemo, Inc](https://oteemo.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/32054763/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Telangana, India | On Site | Nov 09 |
+| **[Oxylabs](https://oxylabs.io/)** | **[Full Stack Developer (JS, Node.js)](https://jobr.pro/job/32052002/full-stack-developer-js-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Nov 08 |
+| **[City of New York](https://www.nyc.gov)** | **[Full Stack Developer](https://jobr.pro/job/32053660/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York City, NY, United States | On Site | Nov 08 |
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Full Stack Developer](https://jobr.pro/job/31995830/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bulimba, QLD, Australia | On Site | Nov 08 |
 | **[Accenture](https://www.accenture.com/)** | **[Full Stack Developer (Python&React)](https://jobr.pro/job/32019365/full-stack-developer-pythonreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Nov 08 |
 | **[ELEVI Associates](https://elevi.net/)** | **[Mid Level - Full Stack Developer](https://jobr.pro/job/31979760/mid-level-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Laurel, MD | On Site | Nov 07 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DMV IT Service](https://www.dmvitservice.com/)** | **[Sr. Full Stack Developer](https://jobr.pro/job/31812282/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Riverwoods, Illinois, United States | On Site | Nov 06 |
 | **[CDW](https://www.cdw.com/)** | **[Senior Consultant - Full stack Developer](https://jobr.pro/job/31858153/senior-consultant-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore - India | On Site | Nov 06 |
 | **[Smarketer GmbH](https://www.smarketer.de/)** | **[Full Stack Developer](https://jobr.pro/job/31846395/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Stettin, PL | On Site | Nov 06 |
-| **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/31857212/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 06 |
-| **[Air Products](https://www.airproducts.com/)** | **[Sr Solutions Engineer - Full Stack Developer](https://jobr.pro/job/31836246/sr-solutions-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune IN (Office: 5th & 6th floors) (0D03), India | On Site | Nov 06 |
-| **[Creative Chaos](https://creativechaos.co/)** | **[Full Stack Developer](https://jobr.pro/job/31844184/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pakistan - Remote | Remote | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 134k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
