@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BETSOL](https://www.betsol.com)** | **[Full Stack Developer (Python + React)](https://jobr.pro/job/32126023/full-stack-developer-python-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
 | **[BasharSoft](https://basharsoft.com/)** | **[Full Stack Developer - Remotely](https://jobr.pro/job/32091450/full-stack-developer-remotely?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt (Remote) | Remote | Nov 10 |
 | **[Securiti](https://securiti.ai/)** | **[Front-End / Full-Stack Developer](https://jobr.pro/job/32074618/front-end-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Karachi, Pakistan, Pakistan | On Site | Nov 10 |
 | **[IONOS](https://www.ionos.de)** | **[Full Stack Developer (w/m/d) AI Agent Ecosystem](https://jobr.pro/job/32072083/full-stack-developer-wmd-ai-agent-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Karlsruhe, Germany | On Site | Nov 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[South College](https://www.south.edu/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31916805/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Work From Home | Remote | Nov 06 |
 | **[Hostinger](https://www.hostinger.com/)** | **[Full-Stack Developer (Node.js) - Horizons team](https://jobr.pro/job/31888761/full-stack-developer-nodejs-horizons-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Nov 06 |
 | **[Visa](https://visa.com)** | **[Sr SW Engineer - Full Stack Developer React, .NET, Python](https://jobr.pro/job/31879227/sr-sw-engineer-full-stack-developer-react-net-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, TX, United States | On Site | Nov 06 |
-| **[Accenture Federal Services](https://www.accenture.com/)** | **[Full Stack Developer](https://jobr.pro/job/31890752/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 130k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 123k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
