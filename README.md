@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Harris Farm Markets](https://www.harrisfarm.com.au/)** | **[Senior Full Stack Developer (.NET/React)](https://jobr.pro/job/32207047/senior-full-stack-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Homebush, NSW, AU | On Site | Nov 11 |
+| **[BigStep Technologies](https://bigsteptech.com/)** | **[Full Stack Developer](https://jobr.pro/job/32197632/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Nov 11 |
+| **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/32192888/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 11 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_ Java Application (Full Stack) Developer _Data & Analytics _ Advisory _Pune](https://jobr.pro/job/32183840/insenior-associate-java-application-full-stack-developer-data-analytics-advisory-pune?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Nov 11 |
 | **[Huble](https://www.hubledigital.com)** | **[Senior Full Stack Developer (South Africa)](https://jobr.pro/job/32174430/senior-full-stack-developer-south-africa?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Western Cape, South Africa - Remote | Remote | Nov 11 |
 | **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full stack developer - Senior](https://jobr.pro/job/32173356/tc-mena-technology-full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, IN, 682313 | On Site | Nov 11 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Gen-AI Python Full-Stack Developer - Engineering - PH PDC](https://jobr.pro/job/32170214/gen-ai-python-full-stack-developer-engineering-ph-pdc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, PH | On Site | Nov 11 |
+| **[UBS](https://www.ubs.com/)** | **[Python Full Stack Developer](https://jobr.pro/job/32191762/python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 11 |
 | **[Agile Defense](https://agile-defense.com)** | **[Full Stack Developer](https://jobr.pro/job/32146571/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, D.C. | On Site | Nov 10 |
 | **[BETSOL](https://www.betsol.com)** | **[Full Stack Developer (Python + React)](https://jobr.pro/job/32126023/full-stack-developer-python-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
 | **[Smartly.io](https://www.smartly.io/)** | **[QA Platform Engineer - Senior Full-Stack Developer (Contractor - 6 Month Term)](https://jobr.pro/job/32159708/qa-platform-engineer-senior-full-stack-developer-contractor-6-month-term?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila | On Site | Nov 10 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[A-TEK, Inc.](https://atekinc.com/)** | **[Full-stack Developer (React + Python) - NIGMS](https://jobr.pro/job/31980845/full-stack-developer-react-python-nigms?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid, Bethesda/Rockville, MD, United States | On Site | Nov 07 |
 | **[Athora](https://www.athora.com/)** | **[Full stack developer](https://jobr.pro/job/31977948/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam, Noord-Holland, Nederland | On Site | Nov 07 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Python Full-Stack Developer](https://jobr.pro/job/31923447/software-engineer-iii-python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 07 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Full Stack Developer](https://jobr.pro/job/31989155/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Leudelange, Esch-sur-Alzette, Luxembourg | On Site | Nov 07 |
-| **[South College](https://www.south.edu/)** | **[Full Stack Developer](https://jobr.pro/job/31916801/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Work From Home | Remote | Nov 07 |
-| **[BASF](https://www.basf.com/)** | **[Full Stack Developer, Coatings(007062)](https://jobr.pro/job/31890241/full-stack-developer-coatings007062?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | NANJING,CN,210000 | On Site | Nov 07 |
-| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/31951231/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | ARNHEM, Netherlands | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 126k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 126k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
