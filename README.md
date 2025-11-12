@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,9 +20,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Huble](https://www.hubledigital.com)** | **[Senior Full Stack Developer (South Africa)](https://jobr.pro/job/32174430/senior-full-stack-developer-south-africa?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Western Cape, South Africa - Remote | Remote | Nov 11 |
 | **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full stack developer - Senior](https://jobr.pro/job/32173356/tc-mena-technology-full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, IN, 682313 | On Site | Nov 11 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Gen-AI Python Full-Stack Developer - Engineering - PH PDC](https://jobr.pro/job/32170214/gen-ai-python-full-stack-developer-engineering-ph-pdc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, PH | On Site | Nov 11 |
+| **[Fidelity Investments](https://www.fidelity.com/)** | **[Full Stack Developer](https://jobr.pro/job/32230282/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 1 Waterside, Kingswood Ave, Dublin Ireland | On Site | Nov 11 |
 | **[UBS](https://www.ubs.com/)** | **[Python Full Stack Developer](https://jobr.pro/job/32191762/python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 11 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Steve & Kate's Senior Full Stack Developer](https://jobr.pro/job/32219870/steve-kates-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | S&K Colorado - CO04, United States | Remote | Nov 11 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Full Stack Developer](https://jobr.pro/job/32230282/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 1 Waterside, Kingswood Ave, Dublin Ireland | On Site | Nov 11 |
+| **[ING](https://www.ing.com/)** | **[Full Stack Developer Global Retention Platform](https://jobr.pro/job/32234265/full-stack-developer-global-retention-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Nov 11 |
 | **[Agile Defense](https://agile-defense.com)** | **[Full Stack Developer](https://jobr.pro/job/32146571/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, D.C. | On Site | Nov 10 |
 | **[BETSOL](https://www.betsol.com)** | **[Full Stack Developer (Python + React)](https://jobr.pro/job/32126023/full-stack-developer-python-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
 | **[Smartly.io](https://www.smartly.io/)** | **[QA Platform Engineer - Senior Full-Stack Developer (Contractor - 6 Month Term)](https://jobr.pro/job/32159708/qa-platform-engineer-senior-full-stack-developer-contractor-6-month-term?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila | On Site | Nov 10 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/31989564/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Florianópolis, SC, Brazil | Remote | Nov 07 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Full Stack Developer (devops focus, intermediate, Leipzig)](https://jobr.pro/job/31995145/full-stack-developer-devops-focus-intermediate-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Leipzig | On Site | Nov 07 |
 | **[Vattenfall](https://group.vattenfall.com)** | **[Application Engineer (Full-Stack Developer)](https://jobr.pro/job/31993608/application-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Solna, Stockholm County, Sweden | On Site | Nov 07 |
-| **[A-TEK, Inc.](https://atekinc.com/)** | **[Full-stack Developer (React + Python) - NIGMS](https://jobr.pro/job/31980845/full-stack-developer-react-python-nigms?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid, Bethesda/Rockville, MD, United States | On Site | Nov 07 |
 
 ---
 
