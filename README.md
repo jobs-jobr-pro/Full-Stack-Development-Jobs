@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,12 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vitesco Technologies](https://www.vitesco-technologies.com)** | **[Full stack developer](https://jobr.pro/job/32264965/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, IN | On Site | Nov 12 |
 | **[Everbridge](https://www.everbridge.com/)** | **[Full Stack Developer (C# / .NET)](https://jobr.pro/job/32247296/full-stack-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hungary | On Site | Nov 12 |
 | **[Harris Farm Markets](https://www.harrisfarm.com.au/)** | **[Senior Full Stack Developer (.NET/React)](https://jobr.pro/job/32207047/senior-full-stack-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Homebush, NSW, AU | On Site | Nov 11 |
 | **[TMS, LLC](https://www.linktms.com/)** | **[Senior Full Stack Developer - 10+ years (P&C insurance Domain) - USC/GC only](https://jobr.pro/job/32254299/senior-full-stack-developer-10-years-pc-insurance-domain-uscgc-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, GA, United States | On Site | Nov 11 |
 | **[LTV SaaS Fund](https://ltv.fund/)** | **[Full Stack Developer](https://jobr.pro/job/32241114/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 11 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Full Stack Developer](https://jobr.pro/job/32197632/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Nov 11 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Full Stack Developer (MERN)](https://jobr.pro/job/32241035/senior-full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greater Delhi Area | Remote | Nov 11 |
+| **[Vertis](https://vertis.digital/)** | **[Full Stack Developer](https://jobr.pro/job/32277846/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Bangkok, Thailand | On Site | Nov 11 |
 | **[Everience Benelux](https://www.everience.com)** | **[Full Stack Developer Junior](https://jobr.pro/job/32247884/full-stack-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monza, Lombardy, Italy | On Site | Nov 11 |
 | **[Version 1](https://www.version1.com)** | **[Sr. Full Stack Developer- React,Node JAWS](https://jobr.pro/job/32248099/sr-full-stack-developer-reactnode-jaws?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/32192888/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 11 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Advansys ESC](https://www.advansys-esc.com/)** | **[Senior Full Stack Developer (Banking)](https://jobr.pro/job/32057247/senior-full-stack-developer-banking?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nasr City, Al Manteqah Al Oula, Egypt | On Site | Nov 09 |
 | **[Oteemo, Inc](https://oteemo.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/32054763/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Telangana, India | On Site | Nov 09 |
 | **[Oxylabs](https://oxylabs.io/)** | **[Full Stack Developer (JS, Node.js)](https://jobr.pro/job/32052002/full-stack-developer-js-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Nov 08 |
-| **[City of New York](https://www.nyc.gov)** | **[Full Stack Developer](https://jobr.pro/job/32053660/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York City, NY, United States | On Site | Nov 08 |
-| **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Full Stack Developer](https://jobr.pro/job/31995830/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bulimba, QLD, Australia | On Site | Nov 08 |
 
 ---
 
