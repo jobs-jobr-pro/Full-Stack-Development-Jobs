@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/32292314/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Baner, India | On Site | Nov 12 |
 | **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer for a New Core Sales System](https://jobr.pro/job/32313719/net-full-stack-developer-for-a-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Nov 12 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/32297415/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Bengaluru, India | On Site | Nov 12 |
+| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer](https://jobr.pro/job/32326020/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RTX99: RTN Remote, Texas, United States | Remote | Nov 12 |
 | **[Cognyte](https://www.cognyte.com/)** | **[Java Full Stack Developer in Pune](https://jobr.pro/job/32293978/java-full-stack-developer-in-pune?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, IN | On Site | Nov 11 |
 | **[Harris Farm Markets](https://www.harrisfarm.com.au/)** | **[Senior Full Stack Developer (.NET/React)](https://jobr.pro/job/32207047/senior-full-stack-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Homebush, NSW, AU | On Site | Nov 11 |
 | **[TMS, LLC](https://www.linktms.com/)** | **[Senior Full Stack Developer - 10+ years (P&C insurance Domain) - USC/GC only](https://jobr.pro/job/32254299/senior-full-stack-developer-10-years-pc-insurance-domain-uscgc-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, GA, United States | On Site | Nov 11 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Full stack developer - JavaScript/TypeScript @MMCTech](https://jobr.pro/job/32109464/full-stack-developer-javascripttypescript-mmctech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca - Decembrie, Romania | Remote | Nov 10 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[AWS Full Stack Developer](https://jobr.pro/job/32078396/aws-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA, VA, Springfield (7500 Geoint Dr), United States | On Site | Nov 10 |
 | **[Alight Solutions](https://www.alight.com/)** | **[.Net Angular Full Stack developer](https://jobr.pro/job/32095469/net-angular-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai-Keppel One Paramount, India | On Site | Nov 10 |
-| **[UBS](https://www.ubs.com/)** | **[Full Stack Developer](https://jobr.pro/job/32072178/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 114k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
