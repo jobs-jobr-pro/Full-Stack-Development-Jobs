@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -32,6 +32,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hitachi](https://www.hitachi.com/)** | **[R&D Senior Engineer - Full Stack Developer - IDC](https://jobr.pro/job/32417913/rd-senior-engineer-full-stack-developer-idc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Nov 13 |
 | **[Hitachi](https://www.hitachi.com/)** | **[R&D in MACH - Full stack developer- India Development center](https://jobr.pro/job/32417927/rd-in-mach-full-stack-developer-india-development-center?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Nov 13 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/32415256/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Nov 13 |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Senior Full Stack Developer (Java \| Angular \| Microservices)](https://jobr.pro/job/32418493/senior-full-stack-developer-java-angular-microservices?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil Offsite | Remote | Nov 13 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Full-Stack Developer \| Développeur(se) Full-Stack](https://jobr.pro/job/32333404/full-stack-developer-developpeurse-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Canada | On Site | Nov 12 |
 | **[ThreatLocker](https://www.threatlocker.com/)** | **[Microsoft Cloud Full Stack Developer](https://jobr.pro/job/32337350/microsoft-cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Orlando, FL | On Site | Nov 12 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Full Stack Developer](https://jobr.pro/job/32334835/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dublin | On Site | Nov 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fidelity Investments](https://www.fidelity.com/)** | **[Full Stack Developer](https://jobr.pro/job/32230282/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 1 Waterside, Kingswood Ave, Dublin Ireland | On Site | Nov 11 |
 | **[ING](https://www.ing.com/)** | **[Full Stack Developer Global Retention Platform](https://jobr.pro/job/32234265/full-stack-developer-global-retention-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Nov 11 |
 | **[Huble](https://www.hubledigital.com)** | **[Senior Full Stack Developer (South Africa)](https://jobr.pro/job/32174430/senior-full-stack-developer-south-africa?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Western Cape, South Africa - Remote | Remote | Nov 11 |
-| **[EY](https://www.ey.com)** | **[TC - MENA Technology - Full stack developer - Senior](https://jobr.pro/job/32173356/tc-mena-technology-full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, IN, 682313 | On Site | Nov 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 48 companies | Avg salary: 118k  
+**Current Stats:** 50 jobs | 16% remote | 48 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
