@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,9 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Virtusa](https://www.virtusa.com/)** | **[UI/UX Full Stack Developer](https://jobr.pro/job/32468439/uiux-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai | On Site | Nov 14 |
 | **[EXL](https://www.exlservice.com/)** | **[Full Stack Engineer-Application Development-Full Stack Developer](https://jobr.pro/job/32461073/full-stack-engineer-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 14 |
 | **[Bosch Group](https://www.bosch.com)** | **[\[SX/EIT-MM\] Full Stack Developer Intern (Java / .Net / Node JS )](https://jobr.pro/job/32441348/sxeit-mm-full-stack-developer-intern-java-net-node-js-?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Nov 14 |
+| **[Hexaware](https://hexaware.com/)** | **[Principal Full stack developer -Java](https://jobr.pro/job/32464405/principal-full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico | On Site | Nov 14 |
 | **[PwC](https://www.pwc.com/)** | **[IN-Senior Associate_ Java Application (Full Stack) Developer __ Data & Analytics _ Advisory _Chennai](https://jobr.pro/job/32460683/in-senior-associate-java-application-full-stack-developer-data-analytics-advisory-chennai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai - Menon Eternity, India | On Site | Nov 14 |
+| **[Boeing](https://www.boeing.com/)** | **[Lead Java Full Stack Developer](https://jobr.pro/job/32463072/lead-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Nov 14 |
 | **[Milestone Technologies, Inc.](https://milestone.tech/)** | **[Full Stack Developer (TEST)](https://jobr.pro/job/32453495/full-stack-developer-test?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, IN | Remote | Nov 13 |
 | **[Groupe Touchette](https://www.grtouchette.com/)** | **[Dévelopeur Fullstack (Hybris) - Full Stack Developer (Hybris)](https://jobr.pro/job/32442305/developeur-fullstack-hybris-full-stack-developer-hybris?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ville Saint-Laurent, Quebec, Canada; Burlington, Ontario, Canada | On Site | Nov 13 |
 | **[Everience Benelux](https://www.everience.com)** | **[Full Stack Developer Junior](https://jobr.pro/job/32437260/full-stack-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monza, Lombardy, Italy | On Site | Nov 13 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/32292314/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Baner, India | On Site | Nov 12 |
 | **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer for a New Core Sales System](https://jobr.pro/job/32313719/net-full-stack-developer-for-a-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Nov 12 |
 | **[RTX](https://www.rtx.com/)** | **[Full Stack Developer](https://jobr.pro/job/32326020/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RTX99: RTN Remote, Texas, United States | Remote | Nov 12 |
-| **[Cognyte](https://www.cognyte.com/)** | **[Java Full Stack Developer in Pune](https://jobr.pro/job/32293978/java-full-stack-developer-in-pune?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, IN | On Site | Nov 11 |
-| **[Harris Farm Markets](https://www.harrisfarm.com.au/)** | **[Senior Full Stack Developer (.NET/React)](https://jobr.pro/job/32207047/senior-full-stack-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Homebush, NSW, AU | On Site | Nov 11 |
-| **[TMS, LLC](https://www.linktms.com/)** | **[Senior Full Stack Developer - 10+ years (P&C insurance Domain) - USC/GC only](https://jobr.pro/job/32254299/senior-full-stack-developer-10-years-pc-insurance-domain-uscgc-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alpharetta, GA, United States | On Site | Nov 11 |
 
 ---
 
