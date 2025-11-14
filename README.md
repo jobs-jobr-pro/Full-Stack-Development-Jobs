@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -48,9 +48,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full STACK Developer/Angular 17+/ Tester](https://jobr.pro/job/32414446/java-full-stack-developerangular-17-tester?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | Remote | Nov 13 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/32415256/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Nov 13 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Senior Full Stack Developer (Java \| Angular \| Microservices)](https://jobr.pro/job/32418493/senior-full-stack-developer-java-angular-microservices?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil Offsite | Remote | Nov 13 |
-| **[Barclays](https://home.barclays/)** | **[Lead Full Stack Developer](https://jobr.pro/job/32392480/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Glasgow Campus, United Kingdom | On Site | Nov 13 |
 | **[Hitachi](https://www.hitachi.com/)** | **[R&D Senior Engineer - Full Stack Developer - IDC](https://jobr.pro/job/32417913/rd-senior-engineer-full-stack-developer-idc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Nov 13 |
 | **[Hitachi](https://www.hitachi.com/)** | **[R&D in MACH - Full stack developer- India Development center](https://jobr.pro/job/32417927/rd-in-mach-full-stack-developer-india-development-center?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Nov 13 |
+| **[Barclays](https://home.barclays/)** | **[Lead Full Stack Developer](https://jobr.pro/job/32392480/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Glasgow Campus, United Kingdom | On Site | Nov 13 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Full-Stack Developer \| Développeur(se) Full-Stack](https://jobr.pro/job/32333404/full-stack-developer-developpeurse-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Canada | On Site | Nov 12 |
 | **[ThreatLocker](https://www.threatlocker.com/)** | **[Microsoft Cloud Full Stack Developer](https://jobr.pro/job/32337350/microsoft-cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Orlando, FL | On Site | Nov 12 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Full Stack Developer](https://jobr.pro/job/32334835/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dublin | On Site | Nov 12 |
