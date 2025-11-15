@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hexaware](https://hexaware.com/)** | **[Principal Full stack developer -Java](https://jobr.pro/job/32464405/principal-full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico | On Site | Nov 14 |
 | **[PwC](https://www.pwc.com/)** | **[IN-Senior Associate_ Java Application (Full Stack) Developer __ Data & Analytics _ Advisory _Chennai](https://jobr.pro/job/32460683/in-senior-associate-java-application-full-stack-developer-data-analytics-advisory-chennai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai - Menon Eternity, India | On Site | Nov 14 |
 | **[Boeing](https://www.boeing.com/)** | **[Lead Java Full Stack Developer](https://jobr.pro/job/32463072/lead-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Nov 14 |
+| **[GN Group](https://www.gn.com/)** | **[Full Stack Developer](https://jobr.pro/job/32506218/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warszawa, Poland | On Site | Nov 14 |
 | **[Milestone Technologies, Inc.](https://milestone.tech/)** | **[Full Stack Developer (TEST)](https://jobr.pro/job/32453495/full-stack-developer-test?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, IN | Remote | Nov 13 |
 | **[Groupe Touchette](https://www.grtouchette.com/)** | **[Dévelopeur Fullstack (Hybris) - Full Stack Developer (Hybris)](https://jobr.pro/job/32442305/developeur-fullstack-hybris-full-stack-developer-hybris?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ville Saint-Laurent, Quebec, Canada; Burlington, Ontario, Canada | On Site | Nov 13 |
 | **[Everience Benelux](https://www.everience.com)** | **[Full Stack Developer Junior](https://jobr.pro/job/32437260/full-stack-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monza, Lombardy, Italy | On Site | Nov 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/32297415/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Bengaluru, India | On Site | Nov 12 |
 | **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/32292314/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Baner, India | On Site | Nov 12 |
 | **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer for a New Core Sales System](https://jobr.pro/job/32313719/net-full-stack-developer-for-a-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Nov 12 |
-| **[RTX](https://www.rtx.com/)** | **[Full Stack Developer](https://jobr.pro/job/32326020/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | RTX99: RTN Remote, Texas, United States | Remote | Nov 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 115k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
