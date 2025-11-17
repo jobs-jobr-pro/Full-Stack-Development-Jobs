@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ovoko](https://about.ovoko.com/)** | **[Full-stack Developer (PrestaShop)](https://jobr.pro/job/32600715/full-stack-developer-prestashop?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Nov 17 |
+| **[WNS Global Services](https://www.wns.com)** | **[Senior Full Stack Developer (.NET + Angular + Cloud) ) 5-7 yrs _Pune](https://jobr.pro/job/32600808/senior-full-stack-developer-net-angular-cloud-5-7-yrs-pune?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Nov 17 |
+| **[TechBiz Global](https://techbiz.global/)** | **[Full Stack Developer](https://jobr.pro/job/32595612/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Nov 16 |
+| **[Keyapp](https://keyapp.top/)** | **[Full Stack Developer (Middle+/Senior)](https://jobr.pro/job/32601691/full-stack-developer-middlesenior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 16 |
 | **[Version 1](https://www.version1.com)** | **[Full-Stack Developer- Software Engineer](https://jobr.pro/job/32592214/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 16 |
+| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/32594601/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Nov 16 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Full stack developer!](https://jobr.pro/job/32561545/principal-consultant-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India-Noida | On Site | Nov 15 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[Senior Full Stack Developer (Programmer IV)](https://jobr.pro/job/32561493/senior-full-stack-developer-programmer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Texas-Austin | On Site | Nov 15 |
 | **[Capgemini](https://www.capgemini.com)** | **[Full stack developer C#](https://jobr.pro/job/32515076/full-stack-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, IN | On Site | Nov 15 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_ Java Application (Full Stack) Developer __ Data & Analytics _ Advisory _Chennai](https://jobr.pro/job/32370744/insenior-associate-java-application-full-stack-developer-data-analytics-advisory-chennai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai - Menon Eternity, India | On Site | Nov 13 |
 | **[Hitachi](https://www.hitachi.com/)** | **[R&D Senior Engineer - Full Stack Developer - IDC](https://jobr.pro/job/32417913/rd-senior-engineer-full-stack-developer-idc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Nov 13 |
 | **[Hitachi](https://www.hitachi.com/)** | **[R&D in MACH - Full stack developer- India Development center](https://jobr.pro/job/32417927/rd-in-mach-full-stack-developer-india-development-center?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Commerzone, India | On Site | Nov 13 |
-| **[Barclays](https://home.barclays/)** | **[Lead Full Stack Developer](https://jobr.pro/job/32392480/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Glasgow Campus, United Kingdom | On Site | Nov 13 |
-| **[Acquire Intelligence](https://acquire.ai/)** | **[Full Stack Developer](https://jobr.pro/job/32336581/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Quezon City, Philippines | On Site | Nov 13 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[JAVA Full STACK Developer/Angular 17+/ Tester](https://jobr.pro/job/32414446/java-full-stack-developerangular-17-tester?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | Remote | Nov 13 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/32415256/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Nov 13 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Senior Full Stack Developer (Java \| Angular \| Microservices)](https://jobr.pro/job/32418493/senior-full-stack-developer-java-angular-microservices?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil Offsite | Remote | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 101k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 315k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
