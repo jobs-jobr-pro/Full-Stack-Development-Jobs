@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -24,6 +24,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sandfield](https://www.sandfield.co.nz)** | **[Full Stack Developer - Intermediate](https://jobr.pro/job/32694067/full-stack-developer-intermediate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Auckland, Auckland, New Zealand | On Site | Nov 18 |
 | **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Full Stack Developer](https://jobr.pro/job/32702100/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City, Metro Manila, Philippines | On Site | Nov 18 |
 | **[GSK](https://www.gsk.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/32721200/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poznan Pastelowa, Poland | On Site | Nov 18 |
+| **[Dedalus](https://www.dedalus.com/)** | **[Full Stack Developer Specialist](https://jobr.pro/job/32734092/full-stack-developer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Chennai, India | On Site | Nov 18 |
+| **[Equifax](https://www.equifax.com/)** | **[Full Stack Developer](https://jobr.pro/job/32735482/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND-Pune-Equifax Analytics-PTEC, India | On Site | Nov 18 |
 | **[Santex](https://santexgroup.com/)** | **[Senior Full-Stack Developer (React.Js + Node.Js)](https://jobr.pro/job/32653728/senior-full-stack-developer-reactjs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Córdoba, Argentina | On Site | Nov 17 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Full Stack Developer](https://jobr.pro/job/32669771/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Nov 17 |
 | **[NEORIS](https://www.neoris.com)** | **[Full Stack Developer](https://jobr.pro/job/32667926/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, Spain | On Site | Nov 17 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Virtusa](https://www.virtusa.com/)** | **[UI/UX Full Stack Developer](https://jobr.pro/job/32468439/uiux-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai | On Site | Nov 14 |
 | **[METRO/MAKRO](https://www.metroag.de/)** | **[Full Stack Developer](https://jobr.pro/job/32528016/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India | On Site | Nov 14 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/32526426/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, VA, United States | Remote | Nov 14 |
-| **[Alter Solutions](https://www.alter-solutions.com/)** | **[Full-stack Developer (SP)](https://jobr.pro/job/32521552/full-stack-developer-sp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Nov 14 |
-| **[EXL](https://www.exlservice.com/)** | **[Full Stack Engineer-Application Development-Full Stack Developer](https://jobr.pro/job/32461073/full-stack-engineer-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 14 |
 
 ---
 
