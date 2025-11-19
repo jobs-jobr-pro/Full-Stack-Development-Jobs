@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[If P&C Insurance Ltd](https://www.if.lv)** | **[.NET Full-stack Developer for Claims Solutions](https://jobr.pro/job/32776815/net-full-stack-developer-for-claims-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Nov 19 |
 | **[PwC](https://www.pwc.com/)** | **[Senior Associate - Software Development (Full Stack Developer)](https://jobr.pro/job/32737921/senior-associate-software-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur Office, Malaysia | On Site | Nov 19 |
+| **[EY](https://www.ey.com)** | **[TTT - dot NET Full Stack Developer - Tax Senior](https://jobr.pro/job/32768234/ttt-dot-net-full-stack-developer-tax-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 560016 | On Site | Nov 19 |
 | **[Varicent](https://www.varicent.com/)** | **[Full stack Developer(Remote - Mexico Only)](https://jobr.pro/job/32741361/full-stack-developerremote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Guadalajara, Mexico | Remote | Nov 18 |
 | **[Crayon](https://www.crayon.com/)** | **[Full Stack Developer - Trondheim](https://jobr.pro/job/32744724/full-stack-developer-trondheim?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Trondheim | On Site | Nov 18 |
 | **[Delasport](https://www.delasport.com/)** | **[Senior Full stack developer](https://jobr.pro/job/32751942/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 18 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TechBiz Global](https://techbiz.global/)** | **[Full Stack Developer](https://jobr.pro/job/32595612/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Nov 16 |
 | **[Questronix Corporation](https://questronix.com.ph/)** | **[Full Stack Developer](https://jobr.pro/job/32611351/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ortigas Center, Metro Manila, Philippines | On Site | Nov 16 |
 | **[Keyapp](https://keyapp.top/)** | **[Full Stack Developer (Middle+/Senior)](https://jobr.pro/job/32601691/full-stack-developer-middlesenior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 16 |
-| **[Empathy](https://www.empathy.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/32623951/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 16 |
-| **[Version 1](https://www.version1.com)** | **[Full-Stack Developer- Software Engineer](https://jobr.pro/job/32592214/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Nov 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 157k  
+**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 131k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
