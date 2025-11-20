@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Trend Micro](https://www.trendmicro.com/)** | **[Full Stack Developer](https://jobr.pro/job/32835211/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | North Sydney, Australia | On Site | Nov 20 |
+| **[Macquarie University](https://www.mq.edu.au/)** | **[Full Stack Developer](https://jobr.pro/job/32835715/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wallumattagal Campus, North Ryde, Australia | On Site | Nov 20 |
 | **[Team8](https://team8.vc/)** | **[Popai Health- Senior Full Stack Developer](https://jobr.pro/job/32804170/popai-health-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
 | **[Team8](https://team8.vc/)** | **[Panax-Full Stack Developer](https://jobr.pro/job/32804169/panax-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
 | **[People10 Technologies, Inc.](https://people10.com/)** | **[Full Stack Developer (NodeJs + ReactJS)](https://jobr.pro/job/32796616/full-stack-developer-nodejs-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gameloft](https://www.gameloft.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/32666555/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kharkiv, Kharkiv Oblast, Ukraine | On Site | Nov 17 |
 | **[Kolomolo](https://www.kolomolo.com)** | **[Full Stack Developer](https://jobr.pro/job/32612235/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kraków, Poland | On Site | Nov 17 |
 | **[Ovoko](https://about.ovoko.com/)** | **[Full-stack Developer (PrestaShop)](https://jobr.pro/job/32600715/full-stack-developer-prestashop?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | On Site | Nov 17 |
-| **[WNS Global Services](https://www.wns.com)** | **[Senior Full Stack Developer (.NET + Angular + Cloud) ) 5-7 yrs _Pune](https://jobr.pro/job/32600808/senior-full-stack-developer-net-angular-cloud-5-7-yrs-pune?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Nov 17 |
-| **[Chevron](https://www.chevron.com/)** | **[Software Engineer – Full Stack Developer](https://jobr.pro/job/32611583/software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City Chevron 6750 Office, Philippines | On Site | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 46 companies | Avg salary: 107k  
+**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 111k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
