@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Team8](https://team8.vc/)** | **[Bluespine- Senior Full Stack Developer](https://jobr.pro/job/32975692/bluespine-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 21 |
 | **[Chooose](https://www.chooose.today/)** | **[Full-stack Developer](https://jobr.pro/job/32923427/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote US | Remote | Nov 21 |
+| **[FLiiP](https://myfliip.com)** | **[Full Stack Developer](https://jobr.pro/job/32973246/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Quebec, Canada | On Site | Nov 21 |
+| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/32978681/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Bengaluru, India | On Site | Nov 21 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior .Net Full Stack Developer (C#, SQL, Angular, React, JavaScript)](https://jobr.pro/job/32957294/senior-net-full-stack-developer-c-sql-angular-react-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN - AHMEDABAD, India | On Site | Nov 21 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Java Full Stack Developer (SQL, Angular/React, Spring Boot)](https://jobr.pro/job/32957291/senior-java-full-stack-developer-sql-angularreact-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Nov 21 |
 | **[1000heads](https://1000heads.com/)** | **[Full Stack Developer](https://jobr.pro/job/32954940/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Nov 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer @ Thessaloniki](https://jobr.pro/job/32784461/full-stack-developer-thessaloniki?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thessaloniki | On Site | Nov 19 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior – Full Stack Developer – NextHub Bari](https://jobr.pro/job/32784364/junior-full-stack-developer-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Nov 19 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[Full Stack Developer - NodeJS, React (Hybrid)](https://jobr.pro/job/32840566/full-stack-developer-nodejs-react-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Belgrade, Serbia | On Site | Nov 19 |
-| **[WTW](https://www.wtwco.com/)** | **[Cloud full stack developer](https://jobr.pro/job/32781627/cloud-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thane, Maharashtra, India | On Site | Nov 19 |
-| **[Bosch Group](https://www.bosch.com)** | **[Full Stack developer](https://jobr.pro/job/32853687/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | bengaluru, India | On Site | Nov 19 |
-| **[If P&C Insurance Ltd](https://www.if.lv)** | **[.NET Full-stack Developer for Claims Solutions](https://jobr.pro/job/32776815/net-full-stack-developer-for-claims-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 139k  
+**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 152k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
