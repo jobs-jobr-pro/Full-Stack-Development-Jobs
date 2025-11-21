@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -28,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IG Group](https://www.iggroup.com/)** | **[Full Stack Developer - Java + React](https://jobr.pro/job/32913876/full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Nov 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer - TS/SCI with Polygraph](https://jobr.pro/job/32914199/senior-full-stack-developer-tssci-with-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Chantilly - 14675 Lee Rd (VAC018), United States | On Site | Nov 20 |
 | **[If Insurance](https://www.if.se/)** | **[Full-stack Developer, Claims Solutions](https://jobr.pro/job/32909441/full-stack-developer-claims-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Turku, Kalevantie 3, Finland | On Site | Nov 20 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[JAVA- Full Stack Developer](https://jobr.pro/job/32915512/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Nov 20 |
 | **[Skilled Wound Care](https://www.skilledwoundcare.com/)** | **[Full-Stack Developer](https://jobr.pro/job/32845178/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, Philippines | On Site | Nov 19 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Full Stack Developer](https://jobr.pro/job/32874477/lead-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Palo Alto, CA, United States | On Site | Nov 19 |
 | **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Application Development-Full Stack Developer](https://jobr.pro/job/32890468/associate-business-analyst-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 19 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bosch Group](https://www.bosch.com)** | **[Full Stack Developer – Temporary position](https://jobr.pro/job/32750152/full-stack-developer-temporary-position?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Beograd, Serbia | On Site | Nov 18 |
 | **[Altamira](https://altamira.ai/)** | **[Full Stack Developer (PHP + Angular)](https://jobr.pro/job/32745295/full-stack-developer-php-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ukraine | Remote | Nov 18 |
 | **[XM Cyber](https://xmcyber.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/32709970/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 18 |
-| **[Genpact](https://www.genpact.com/)** | **[Principal Consultant - Full stack developer](https://jobr.pro/job/32704699/principal-consultant-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India-Noida | On Site | Nov 18 |
 
 ---
 
