@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Sherwin-Williams](https://www.sherwin-williams.com/)** | **[Full Stack Developer](https://jobr.pro/job/33036366/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cleveland, OH, United States | On Site | Nov 22 |
 | **[Apex - Spacecraft Manufacturing](https://www.apexspace.com/)** | **[Full Stack Developer](https://jobr.pro/job/33013788/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Los Angeles | On Site | Nov 22 |
+| **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/33047619/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 22 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 25705\] Senior Full-Stack developer (Node + React), Brazil](https://jobr.pro/job/33007730/job-25705-senior-full-stack-developer-node-react-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Nov 21 |
 | **[Le'Fant LLC](https://www.lefant.org/)** | **[Full Stack Developer - (BEAGLE)](https://jobr.pro/job/33031928/full-stack-developer-beagle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Nov 21 |
 | **[Haven Studios](https://havenstudios.com/)** | **[Programmeur·euse Fullstack Senior - Télémétrie/ Senior Full Stack Developer - Telemetry](https://jobr.pro/job/33011029/programmeureuse-fullstack-senior-telemetrie-senior-full-stack-developer-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada, Quebec, Montreal | On Site | Nov 21 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ryan](https://www.ryan.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/32885445/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad Atria, India | On Site | Nov 20 |
 | **[Accenture](https://www.accenture.com/)** | **[Full Stack Developer – Java & Angular with Cloud Expertise](https://jobr.pro/job/32896983/full-stack-developer-java-angular-with-cloud-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Nov 20 |
 | **[NTT DATA](https://nttdata.com)** | **[Java Full Stack Developer](https://jobr.pro/job/32863432/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
-| **[IG Group](https://www.iggroup.com/)** | **[Full Stack Developer - Java + React](https://jobr.pro/job/32913876/full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Nov 20 |
 
 ---
 
