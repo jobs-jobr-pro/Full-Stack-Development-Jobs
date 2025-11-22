@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Team8](https://team8.vc/)** | **[Bluespine- Senior Full Stack Developer](https://jobr.pro/job/32975692/bluespine-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 21 |
 | **[Chooose](https://www.chooose.today/)** | **[Full-stack Developer](https://jobr.pro/job/32923427/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote US | Remote | Nov 21 |
+| **[Zoetis](https://www.zoetis.com/)** | **[AI Full Stack Developer Intern](https://jobr.pro/job/32994097/ai-full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Parsippany, United States | On Site | Nov 21 |
+| **[Workday](https://www.workday.com/)** | **[Full-stack Developer](https://jobr.pro/job/32994763/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND.Pune, India | On Site | Nov 21 |
 | **[FLiiP](https://myfliip.com)** | **[Full Stack Developer](https://jobr.pro/job/32973246/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Quebec, Canada | On Site | Nov 21 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Full Stack Developer](https://jobr.pro/job/32978681/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN: Lilly Bengaluru, India | On Site | Nov 21 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior .Net Full Stack Developer (C#, SQL, Angular, React, JavaScript)](https://jobr.pro/job/32957294/senior-net-full-stack-developer-c-sql-angular-react-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN - AHMEDABAD, India | On Site | Nov 21 |
@@ -23,9 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zone IT Solutions](https://zoneitsolutions.com)** | **[Full Stack Developer](https://jobr.pro/job/32950872/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India | On Site | Nov 21 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Gen AI Full-Stack Developer - Consultant - Marketing, Commerce & Product - PH PDC](https://jobr.pro/job/32947542/gen-ai-full-stack-developer-consultant-marketing-commerce-product-ph-pdc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, PH | On Site | Nov 21 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://jobr.pro/job/32996345/full-stack-developer-sr-analyst-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Nov 21 |
-| **[Zoetis](https://www.zoetis.com/)** | **[AI Full Stack Developer Intern](https://jobr.pro/job/32994097/ai-full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Parsippany, United States | On Site | Nov 21 |
-| **[Workday](https://www.workday.com/)** | **[Full-stack Developer](https://jobr.pro/job/32994763/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND.Pune, India | On Site | Nov 21 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Agile Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/32998792/agile-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Nov 21 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Full Stack Developer](https://jobr.pro/job/32998185/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid HQ (KES51610), Spain | On Site | Nov 21 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6208)](https://jobr.pro/job/32936421/sr-full-stack-developer-iii-6208?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Nov 20 |
 | **[Varicent](https://www.varicent.com/)** | **[Full stack Developer (Remote - Mexico Only)](https://jobr.pro/job/32933001/full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tijuana, Mexico | Remote | Nov 20 |
 | **[T-Rex Solutions, LLC](https://www.trexsolutionsllc.com/)** | **[Full Stack Developer 4](https://jobr.pro/job/32938900/full-stack-developer-4?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Fort Meade, MD | On Site | Nov 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Team8](https://team8.vc/)** | **[Popai Health- Senior Full Stack Developer](https://jobr.pro/job/32804170/popai-health-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
 | **[one.com](https://www.one.com/)** | **[Full-stack Developer (PHP, Laravel, Vue.js)](https://jobr.pro/job/32877819/full-stack-developer-php-laravel-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram, India | On Site | Nov 19 |
 | **[BrainPOP](https://www.brainpop.com/)** | **[Full Stack Developer](https://jobr.pro/job/32850747/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv | On Site | Nov 19 |
-| **[Team8](https://team8.vc/)** | **[Panax-Full Stack Developer](https://jobr.pro/job/32804169/panax-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
 
 ---
 
