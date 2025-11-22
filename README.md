@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -22,9 +22,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[1000heads](https://1000heads.com/)** | **[Full Stack Developer](https://jobr.pro/job/32954940/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Nov 21 |
 | **[Zone IT Solutions](https://zoneitsolutions.com)** | **[Full Stack Developer](https://jobr.pro/job/32950872/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India | On Site | Nov 21 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Gen AI Full-Stack Developer - Consultant - Marketing, Commerce & Product - PH PDC](https://jobr.pro/job/32947542/gen-ai-full-stack-developer-consultant-marketing-commerce-product-ph-pdc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, PH | On Site | Nov 21 |
+| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://jobr.pro/job/32996345/full-stack-developer-sr-analyst-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Nov 21 |
 | **[Zoetis](https://www.zoetis.com/)** | **[AI Full Stack Developer Intern](https://jobr.pro/job/32994097/ai-full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Parsippany, United States | On Site | Nov 21 |
 | **[Workday](https://www.workday.com/)** | **[Full-stack Developer](https://jobr.pro/job/32994763/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND.Pune, India | On Site | Nov 21 |
-| **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://jobr.pro/job/32996345/full-stack-developer-sr-analyst-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Nov 21 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Agile Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/32998792/agile-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Nov 21 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6208)](https://jobr.pro/job/32936421/sr-full-stack-developer-iii-6208?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Nov 20 |
 | **[Varicent](https://www.varicent.com/)** | **[Full stack Developer (Remote - Mexico Only)](https://jobr.pro/job/32933001/full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tijuana, Mexico | Remote | Nov 20 |
 | **[T-Rex Solutions, LLC](https://www.trexsolutionsllc.com/)** | **[Full Stack Developer 4](https://jobr.pro/job/32938900/full-stack-developer-4?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Fort Meade, MD | On Site | Nov 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[one.com](https://www.one.com/)** | **[Full-stack Developer (PHP, Laravel, Vue.js)](https://jobr.pro/job/32877819/full-stack-developer-php-laravel-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram, India | On Site | Nov 19 |
 | **[BrainPOP](https://www.brainpop.com/)** | **[Full Stack Developer](https://jobr.pro/job/32850747/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv | On Site | Nov 19 |
 | **[Team8](https://team8.vc/)** | **[Panax-Full Stack Developer](https://jobr.pro/job/32804169/panax-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
-| **[People10 Technologies, Inc.](https://people10.com/)** | **[Full Stack Developer (NodeJs + ReactJS)](https://jobr.pro/job/32796616/full-stack-developer-nodejs-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 19 |
 
 ---
 
