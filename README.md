@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sherwin-Williams](https://www.sherwin-williams.com/)** | **[Full Stack Developer](https://jobr.pro/job/33036366/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cleveland, OH, United States | On Site | Nov 22 |
 | **[Apex - Spacecraft Manufacturing](https://www.apexspace.com/)** | **[Full Stack Developer](https://jobr.pro/job/33013788/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Los Angeles | On Site | Nov 22 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 25705\] Senior Full-Stack developer (Node + React), Brazil](https://jobr.pro/job/33007730/job-25705-senior-full-stack-developer-node-react-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Nov 21 |
+| **[Le'Fant LLC](https://www.lefant.org/)** | **[Full Stack Developer - (BEAGLE)](https://jobr.pro/job/33031928/full-stack-developer-beagle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Nov 21 |
 | **[Haven Studios](https://havenstudios.com/)** | **[Programmeur·euse Fullstack Senior - Télémétrie/ Senior Full Stack Developer - Telemetry](https://jobr.pro/job/33011029/programmeureuse-fullstack-senior-telemetrie-senior-full-stack-developer-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada, Quebec, Montreal | On Site | Nov 21 |
 | **[PlayStation Global](https://www.playstation.com/)** | **[Programmeur·euse Fullstack Senior - Télémétrie/ Senior Full Stack Developer - Telemetry](https://jobr.pro/job/33021190/programmeureuse-fullstack-senior-telemetrie-senior-full-stack-developer-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada, Montreal, QC | On Site | Nov 21 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[.Net Full Stack Developer](https://jobr.pro/job/33012810/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montvale, New Jersey, United States | On Site | Nov 21 |
@@ -23,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Walrus](https://walrusfi.com/)** | **[Full Stack Developer Intern](https://jobr.pro/job/33015096/full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote (US) | Remote | Nov 21 |
 | **[Universe Group](https://uni.tech/)** | **[Full-Stack Developer (S&G)](https://jobr.pro/job/33008660/full-stack-developer-sg?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 21 |
 | **[Varicent](https://www.varicent.com/)** | **[Jr .NET Full Stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33011500/jr-net-full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Queretaro, Mexico | Remote | Nov 21 |
+| **[Clue Software](https://www.cluesoftware.com/)** | **[Full Stack Developer - C#](https://jobr.pro/job/33035806/full-stack-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bristol, United Kingdom | On Site | Nov 21 |
 | **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/33019265/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Florianópolis, SC, Brazil | Remote | Nov 21 |
 | **[Team8](https://team8.vc/)** | **[Bluespine- Senior Full Stack Developer](https://jobr.pro/job/32975692/bluespine-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 21 |
 | **[Chooose](https://www.chooose.today/)** | **[Full-stack Developer](https://jobr.pro/job/32923427/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote US | Remote | Nov 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture](https://www.accenture.com/)** | **[Full Stack Developer – Java & Angular with Cloud Expertise](https://jobr.pro/job/32896983/full-stack-developer-java-angular-with-cloud-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Nov 20 |
 | **[NTT DATA](https://nttdata.com)** | **[Java Full Stack Developer](https://jobr.pro/job/32863432/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
 | **[IG Group](https://www.iggroup.com/)** | **[Full Stack Developer - Java + React](https://jobr.pro/job/32913876/full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Nov 20 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer - TS/SCI with Polygraph](https://jobr.pro/job/32914199/senior-full-stack-developer-tssci-with-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Chantilly - 14675 Lee Rd (VAC018), United States | On Site | Nov 20 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[JAVA- Full Stack Developer](https://jobr.pro/job/32915512/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Nov 20 |
-| **[If Insurance](https://www.if.se/)** | **[Full-stack Developer, Claims Solutions](https://jobr.pro/job/32909441/full-stack-developer-claims-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Turku, Kalevantie 3, Finland | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 167k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
