@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Michael Baker International](https://mbakerintl.com/)** | **[Lead Full Stack Developer - AI/ML Focus](https://jobr.pro/job/33077397/lead-full-stack-developer-aiml-focus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, WA, United States | Remote | Nov 24 |
 | **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Full Stack Developer](https://jobr.pro/job/33068235/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City, Metro Manila, Philippines | On Site | Nov 24 |
 | **[Lytegen](https://lytegen.com)** | **[Full Stack Developer](https://jobr.pro/job/33074851/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Nov 24 |
+| **[Synechron](https://www.synechron.com/)** | **[Senior Full Stack Developer (Node.js & React.js)](https://jobr.pro/job/33095743/senior-full-stack-developer-nodejs-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru - GTP, India | On Site | Nov 24 |
 | **[UBS](https://www.ubs.com/)** | **[Typescript Full Stack Developer](https://jobr.pro/job/33083177/typescript-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 24 |
 | **[EXL](https://www.exlservice.com/)** | **[Sr Full Stack Developer](https://jobr.pro/job/33074992/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Nov 23 |
 | **[EXL](https://www.exlservice.com/)** | **[Full Stack Developer](https://jobr.pro/job/33074994/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Nov 23 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Bank](https://www.db.com/)** | **[Agile Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/32998792/agile-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Nov 21 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Full Stack Developer](https://jobr.pro/job/32998185/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid HQ (KES51610), Spain | On Site | Nov 21 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6208)](https://jobr.pro/job/32936421/sr-full-stack-developer-iii-6208?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Nov 20 |
-| **[Varicent](https://www.varicent.com/)** | **[Full stack Developer (Remote - Mexico Only)](https://jobr.pro/job/32933001/full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tijuana, Mexico | Remote | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 142k  
+**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 142k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
