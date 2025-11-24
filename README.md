@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -58,11 +58,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Polymer Capital](https://www.polymercapital.com/)** | **[Full Stack Developer (Analyst, Risk & Quant Analytics)](https://jobr.pro/job/32891136/full-stack-developer-analyst-risk-quant-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong, Hong Kong | On Site | Nov 20 |
 | **[Corning](https://www.corning.com)** | **[Full Stack Developer (Corning, NY)](https://jobr.pro/job/32858564/full-stack-developer-corning-ny?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Painted Post, NY, US, 14830 | On Site | Nov 20 |
 | **[WNS Global Services](https://www.wns.com)** | **[Full stack Developer Angular + Node.js](https://jobr.pro/job/32938370/full-stack-developer-angular-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, MH, India | On Site | Nov 20 |
+| **[If Insurance](https://www.if.se/)** | **[Full-stack Developer, Claims Solutions](https://jobr.pro/job/32909441/full-stack-developer-claims-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Turku, Kalevantie 3, Finland | On Site | Nov 20 |
 | **[Trend Micro](https://www.trendmicro.com/)** | **[Full Stack Developer](https://jobr.pro/job/32835211/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | North Sydney, Australia | On Site | Nov 20 |
 | **[Macquarie University](https://www.mq.edu.au/)** | **[Full Stack Developer](https://jobr.pro/job/32835715/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wallumattagal Campus, North Ryde, Australia | On Site | Nov 20 |
 | **[Ryan](https://www.ryan.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/32885445/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad Atria, India | On Site | Nov 20 |
 | **[Accenture](https://www.accenture.com/)** | **[Full Stack Developer – Java & Angular with Cloud Expertise](https://jobr.pro/job/32896983/full-stack-developer-java-angular-with-cloud-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Nov 20 |
-| **[NTT DATA](https://nttdata.com)** | **[Java Full Stack Developer](https://jobr.pro/job/32863432/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
 
 ---
 
