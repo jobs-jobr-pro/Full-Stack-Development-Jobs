@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -22,6 +22,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lytegen](https://lytegen.com)** | **[Full Stack Developer](https://jobr.pro/job/33074851/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Nov 24 |
 | **[Synechron](https://www.synechron.com/)** | **[Senior Full Stack Developer (Node.js & React.js)](https://jobr.pro/job/33095743/senior-full-stack-developer-nodejs-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru - GTP, India | On Site | Nov 24 |
 | **[UBS](https://www.ubs.com/)** | **[Typescript Full Stack Developer](https://jobr.pro/job/33083177/typescript-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 24 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Senior Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/33112302/senior-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Nov 24 |
+| **[Equifax](https://www.equifax.com/)** | **[Full Stack Developer](https://jobr.pro/job/33114633/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND-Pune-Equifax Analytics-PTEC, India | On Site | Nov 24 |
 | **[EXL](https://www.exlservice.com/)** | **[Sr Full Stack Developer](https://jobr.pro/job/33074992/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Nov 23 |
 | **[EXL](https://www.exlservice.com/)** | **[Full Stack Developer](https://jobr.pro/job/33074994/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Nov 23 |
 | **[Darson Industries](https://darson-industries.com/)** | **[Full Stack Developer](https://jobr.pro/job/33082792/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wazirabad, Punjab, Pakistan | On Site | Nov 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www.deloitte.com/)** | **[Gen AI Full-Stack Developer - Consultant - Marketing, Commerce & Product - PH PDC](https://jobr.pro/job/32947542/gen-ai-full-stack-developer-consultant-marketing-commerce-product-ph-pdc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, PH | On Site | Nov 21 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer Sr Analyst - Assistant Vice President](https://jobr.pro/job/32996345/full-stack-developer-sr-analyst-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 480 WASHINGTON BOULEVARD JERSEY CITY, United States | On Site | Nov 21 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Agile Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/32998792/agile-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Nov 21 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Full Stack Developer](https://jobr.pro/job/32998185/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid HQ (KES51610), Spain | On Site | Nov 21 |
-| **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6208)](https://jobr.pro/job/32936421/sr-full-stack-developer-iii-6208?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 142k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
