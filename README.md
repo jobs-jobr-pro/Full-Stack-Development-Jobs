@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SOFTSWISS](https://www.softswiss.com/)** | **[Full-Stack Developer – Team Lead](https://jobr.pro/job/33154654/full-stack-developer-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poznań, Poland | On Site | Nov 25 |
+| **[Photon](https://www.photon.com/)** | **[Java Full Stack Developer (Advanced) - JPMC - Chennai, India](https://jobr.pro/job/33155414/java-full-stack-developer-advanced-jpmc-chennai-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 25 |
+| **[JobRack](https://jobrack.eu)** | **[KURABU - Full Stack Developer (Elixir/React)](https://jobr.pro/job/33159691/kurabu-full-stack-developer-elixirreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ukraine - Remote | Remote | Nov 25 |
+| **[Employment Hero](https://www.employmenthero.com/)** | **[APAC Lead Full Stack Developer (New Taiwan Tech Hub. Remote Work)](https://jobr.pro/job/33151031/apac-lead-full-stack-developer-new-taiwan-tech-hub-remote-work?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Taiwan - Remote | Remote | Nov 25 |
+| **[Employment Hero](https://www.employmenthero.com/)** | **[APAC Lead Full Stack Developer (New Indonesia Tech Hub. Remote Work)](https://jobr.pro/job/33151030/apac-lead-full-stack-developer-new-indonesia-tech-hub-remote-work?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Indonesia - Remote | Remote | Nov 25 |
 | **[Millennium Insurance Corporation](https://www.millenniuminsurance.ca/)** | **[Full-Stack Developer](https://jobr.pro/job/33132335/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sherwood Park, Alberta, Canada | On Site | Nov 24 |
 | **[ADGA Group Consultants Inc](https://www.adga.ca)** | **[Full Stack Developer](https://jobr.pro/job/33128065/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, Canada | On Site | Nov 24 |
 | **[Varicent](https://www.varicent.com/)** | **[Full Stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33127240/full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monterrey, Mexico | Remote | Nov 24 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Full Stack Developer (Python/React)](https://jobr.pro/job/33020914/senior-full-stack-developer-pythonreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brasil | Remote | Nov 21 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Sr. Full Stack Developer](https://jobr.pro/job/33007347/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Aberdeen, MD | Remote | Nov 21 |
 | **[Walrus](https://walrusfi.com/)** | **[Full Stack Developer Intern](https://jobr.pro/job/33015096/full-stack-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote (US) | Remote | Nov 21 |
-| **[Universe Group](https://uni.tech/)** | **[Full-Stack Developer (S&G)](https://jobr.pro/job/33008660/full-stack-developer-sg?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 21 |
-| **[Varicent](https://www.varicent.com/)** | **[Jr .NET Full Stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33011500/jr-net-full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Queretaro, Mexico | Remote | Nov 21 |
-| **[Clue Software](https://www.cluesoftware.com/)** | **[Full Stack Developer - C#](https://jobr.pro/job/33035806/full-stack-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bristol, United Kingdom | On Site | Nov 21 |
-| **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/33019265/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Florianópolis, SC, Brazil | Remote | Nov 21 |
-| **[Team8](https://team8.vc/)** | **[Bluespine- Senior Full Stack Developer](https://jobr.pro/job/32975692/bluespine-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 136k  
+**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
