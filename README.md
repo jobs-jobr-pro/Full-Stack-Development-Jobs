@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Stacktics Inc.](https://stacktics.com/)** | **[Full Stack Developer](https://jobr.pro/job/33254264/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Canada | On Site | Nov 26 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Full Stack Developer(E3)](https://jobr.pro/job/33254914/full-stack-developere3?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Nov 26 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/33246800/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 26 |
+| **[National Residential Landlords Association](https://www.nrla.org.uk/)** | **[Full Stack Developer](https://jobr.pro/job/33271537/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | England, WC1, United Kingdom | On Site | Nov 26 |
 | **[Incredibuild](https://www.incredibuild.com/)** | **[Full-Stack Developer](https://jobr.pro/job/33260207/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv, Central, IL | On Site | Nov 26 |
 | **[Horizon Industries](https://hil.us/)** | **[Full Stack Developer(DISA)](https://jobr.pro/job/33204910/full-stack-developerdisa?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | REMOTE | Remote | Nov 26 |
 | **[UBS](https://www.ubs.com/)** | **[Python Full Stack Developer](https://jobr.pro/job/33250567/python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 26 |
@@ -28,7 +29,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fortinet](https://www.fortinet.com/)** | **[Full Stack Developer - Frankfurt](https://jobr.pro/job/33252730/full-stack-developer-frankfurt?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Frankfurt, Hessen, Germany | On Site | Nov 25 |
 | **[Exotrail](https://www.exotrail.com)** | **[Full-stack developer internship](https://jobr.pro/job/33242350/full-stack-developer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toulouse, France | On Site | Nov 25 |
 | **[Alice & Bob](https://alice-bob.com/)** | **[Full Stack Developer - Internship](https://jobr.pro/job/33208200/full-stack-developer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Paris | On Site | Nov 25 |
-| **[National Residential Landlords Association](https://www.nrla.org.uk/)** | **[Full Stack Developer](https://jobr.pro/job/33179236/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | England, WC1, United Kingdom | On Site | Nov 25 |
 | **[Cyberark](https://www.cyberark.com)** | **[Full stack developer on AWS Infra](https://jobr.pro/job/33215014/full-stack-developer-on-aws-infra?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Petah Tikva, Central District, Israel | On Site | Nov 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Full Stack Developer (Remsoft)](https://jobr.pro/job/33164428/full-stack-developer-remsoft?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore - Karnataka, India - Manyata Park Outer Ring Road | On Site | Nov 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Full stack developer](https://jobr.pro/job/33164426/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore - Karnataka, India - Manyata Park Outer Ring Road | On Site | Nov 25 |
