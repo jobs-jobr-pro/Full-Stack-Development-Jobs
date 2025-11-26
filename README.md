@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -31,6 +31,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Synechron](https://www.synechron.com/)** | **[Java Lead Full Stack Developer](https://jobr.pro/job/33182828/java-lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pittsburgh, PA, United States | On Site | Nov 25 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/33195388/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Nov 25 |
 | **[State Street](https://www.statestreet.com/)** | **[Java Full Stack Developer - Senior Associate](https://jobr.pro/job/33194802/java-full-stack-developer-senior-associate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Nov 25 |
+| **[DXC Technology](https://dxc.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33197290/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MX446 - DXC Mexico City Lago Alberto Wework (MX446) | On Site | Nov 25 |
 | **[Millennium Insurance Corporation](https://www.millenniuminsurance.ca/)** | **[Full-Stack Developer](https://jobr.pro/job/33132335/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sherwood Park, Alberta, Canada | On Site | Nov 24 |
 | **[ADGA Group Consultants Inc](https://www.adga.ca)** | **[Full Stack Developer](https://jobr.pro/job/33128065/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, Canada | On Site | Nov 24 |
 | **[Varicent](https://www.varicent.com/)** | **[Full Stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33127240/full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monterrey, Mexico | Remote | Nov 24 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Quantrics Enterprises Inc.](https://quantrics.com)** | **[Full Stack Developer (.NET, Java and JavaScript)](https://jobr.pro/job/33071010/full-stack-developer-net-java-and-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philippines | On Site | Nov 23 |
 | **[Allocator One](https://www.allocator.one)** | **[Senior Full Stack Developer \| Elixir, Phoenix, LiveView \| Remote](https://jobr.pro/job/33070202/senior-full-stack-developer-elixir-phoenix-liveview-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philippines - Remote | Remote | Nov 23 |
 | **[Datakrew Pvt. Ltd.](https://www.datakrew.com/)** | **[Full Stack Developer (C# and Blazor)](https://jobr.pro/job/33064681/full-stack-developer-c-and-blazor?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Nov 23 |
-| **[Master-Works](https://master-works.sa)** | **[Full Stack Developer (Vue.js)](https://jobr.pro/job/33085165/full-stack-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Nov 23 |
 
 ---
 
