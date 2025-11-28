@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kitron](https://www.kitron.com/)** | **[Full-Stack Developer](https://jobr.pro/job/33379791/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Nov 28 |
 | **[Nixxis Vietnam](https://bigin.vn/)** | **[Full-stack Developer (Middle)](https://jobr.pro/job/33368389/full-stack-developer-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Nov 28 |
 | **[Creatio](https://www.creatio.com/)** | **[Full-stack Developer (Creatio Platform) (Middle)](https://jobr.pro/job/33368843/full-stack-developer-creatio-platform-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland | Remote | Nov 27 |
 | **[Viseven](https://viseven.com/)** | **[Full Stack Developer (Node.js and Vue.js + AI experience)](https://jobr.pro/job/33362197/full-stack-developer-nodejs-and-vuejs-ai-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ukraine | On Site | Nov 27 |
@@ -24,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IQ-EQ](https://iqeq.com)** | **[Senior Full Stack Developer (with MS SQL 2019, .NET 8.0 and C#)](https://jobr.pro/job/33366302/senior-full-stack-developer-with-ms-sql-2019-net-80-and-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Nov 27 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Full-Stack Developer with Java & Vue.js - Tietoevry Create (m/f/d)](https://jobr.pro/job/33365896/full-stack-developer-with-java-vuejs-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sofia, Bulgaria | On Site | Nov 27 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Full-stack Developer – Tietoevry Create (m/f/d)](https://jobr.pro/job/33365901/full-stack-developer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tampere, Pirkanmaa, Finland | On Site | Nov 27 |
+| **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Full Stack Developer ( Angular/ .Net )](https://jobr.pro/job/33377005/senior-full-stack-developer-angular-net-?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Egypt - Remote | Remote | Nov 27 |
 | **[HAMMOQ](https://www.datapure.co)** | **[Senior Full Stack Developer (Remote)](https://jobr.pro/job/33366749/senior-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Indore, MP, India | Remote | Nov 27 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/33362470/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Nov 27 |
 | **[Konrad Group](https://www.konrad.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33293854/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San José, Costa Rica | On Site | Nov 27 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Global Blue](https://www.globalblue.com/)** | **[Full Stack Developer](https://jobr.pro/job/33285074/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Malaysia - Kuala Lumpur | On Site | Nov 26 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33281716/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 26 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[Intermediate Full Stack Developer (Angular)](https://jobr.pro/job/33213291/intermediate-full-stack-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada | On Site | Nov 25 |
-| **[Santex](https://santexgroup.com/)** | **[Senior Full-Stack Developer (Golang + React)](https://jobr.pro/job/33210952/senior-full-stack-developer-golang-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | México City | On Site | Nov 25 |
-| **[Pelmorex](https://www.pelmorex.com/)** | **[Full Stack Developer - Automated Products](https://jobr.pro/job/33211461/full-stack-developer-automated-products?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Oakville, Canada | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 244k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 244k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
