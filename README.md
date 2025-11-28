@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -18,9 +18,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Maersk](https://www.maersk.com/)** | **[Senior .NET Core Full Stack Developer](https://jobr.pro/job/33321508/senior-net-core-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USCNC05 - Charlotte - 9300 Arrowpoint Boulevard, United States | On Site | Nov 27 |
 | **[Abtrace](https://www.abtrace.co)** | **[Full Stack Developer PT](https://jobr.pro/job/33313841/full-stack-developer-pt?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Porto, Porto District, Portugal | On Site | Nov 27 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33329551/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Nov 27 |
-| **[OneMagnify](https://www.onemagnify.com/)** | **[Full Stack Developer- (ReactJS, Core Java & Springboot)](https://jobr.pro/job/33343974/full-stack-developer-reactjs-core-java-springboot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Nov 27 |
-| **[SimCorp](https://www.simcorp.com/)** | **[Full Stack Developer](https://jobr.pro/job/33344682/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Poland | On Site | Nov 27 |
 | **[Aurecon](https://www.aurecongroup.com/)** | **[Senior Full Stack Developer (Computational Design)](https://jobr.pro/job/33352643/senior-full-stack-developer-computational-design?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, Philippines | On Site | Nov 27 |
+| **[SimCorp](https://www.simcorp.com/)** | **[Full Stack Developer](https://jobr.pro/job/33344682/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Poland | On Site | Nov 27 |
+| **[OneMagnify](https://www.onemagnify.com/)** | **[Full Stack Developer- (ReactJS, Core Java & Springboot)](https://jobr.pro/job/33343974/full-stack-developer-reactjs-core-java-springboot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Nov 27 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33355582/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid HQ (KES51610), Spain | On Site | Nov 27 |
 | **[Gulf & Fraser](https://www.gffg.com)** | **[Full Stack Developer](https://jobr.pro/job/33308641/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | British Columbia, Canada | On Site | Nov 26 |
 | **[CU*Answers](https://www.cuanswers.com/)** | **[Full Stack Developer](https://jobr.pro/job/33317810/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Grand Rapids, MI, US | On Site | Nov 26 |
 | **[Derex Technologies](https://www.derextech.com)** | **[Full Stack Developer (Node.js, React.js)](https://jobr.pro/job/33296956/full-stack-developer-nodejs-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Erie, PA, United States | On Site | Nov 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Photon](https://www.photon.com/)** | **[Java Full Stack Developer (Advanced) - JPMC - Chennai, India](https://jobr.pro/job/33155414/java-full-stack-developer-advanced-jpmc-chennai-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Nov 25 |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[Full-Stack Developer, Platform Operations](https://jobr.pro/job/33220378/full-stack-developer-platform-operations?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ho Chi Minh City | On Site | Nov 25 |
 | **[DXC Technology](https://dxc.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33197290/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MX446 - DXC Mexico City Lago Alberto Wework (MX446) | On Site | Nov 25 |
-| **[epay, a Euronet Worldwide Company](https://www.epayworldwide.com)** | **[Java Full Stack Developer (m/f/d)](https://jobr.pro/job/33165542/java-full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Martinsried, Bayern, Germany | On Site | Nov 25 |
 
 ---
 
