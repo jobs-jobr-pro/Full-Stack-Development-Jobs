@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Citco](https://www.citco.com/)** | **[Senior Full Stack Developer - 6 month (Fixed Term Contract)](https://jobr.pro/job/33424713/senior-full-stack-developer-6-month-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, ON, Canada | On Site | Nov 28 |
+| **[Charles Stanley](https://www.charles-stanley.co.uk/)** | **[.NET Full Stack Developer](https://jobr.pro/job/33423961/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United Kingdom | On Site | Nov 28 |
 | **[Martell Media](https://martellmedia.com/)** | **[Full Stack Developer](https://jobr.pro/job/33411513/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kelowna, BC | On Site | Nov 28 |
 | **[Encora](https://www.encora.com/)** | **[JavaScript/NodeJS Full Stack Developer](https://jobr.pro/job/33408133/javascriptnodejs-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Nov 28 |
 | **[Apply Digital](https://www.applydigital.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33408714/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi NCR | On Site | Nov 28 |
@@ -22,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cytel](https://cytel.com/)** | **[Full Stack Developer (React and C#)](https://jobr.pro/job/33385094/full-stack-developer-react-and-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Nov 28 |
 | **[Nixxis Vietnam](https://bigin.vn/)** | **[Full-stack Developer (Middle)](https://jobr.pro/job/33381987/full-stack-developer-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Nov 28 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Full Stack Developer (Node.js & React) – Fintech Solution (Cyprus)](https://jobr.pro/job/33411194/senior-full-stack-developer-nodejs-react-fintech-solution-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Limassol, Cyprus | On Site | Nov 28 |
+| **[Steampunk](https://steampunk.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/33421227/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | McLean, VA, United States | On Site | Nov 28 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/33387049/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | DLF IT Park, Chennai, India | On Site | Nov 28 |
 | **[DXC Technology](https://dxc.com/)** | **[HPE MDCP-C FY26 Plan - Full Stack Developer-1](https://jobr.pro/job/33401283/hpe-mdcp-c-fy26-plan-full-stack-developer-1?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN319 - IND Bangalore Electronic City - INA7, INES, INET (IN319), India | On Site | Nov 28 |
 | **[DXC Technology](https://dxc.com/)** | **[HPE MDCP-C FY26 Plan - Full Stack Developer-2](https://jobr.pro/job/33401281/hpe-mdcp-c-fy26-plan-full-stack-developer-2?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN319 - IND Bangalore Electronic City - INA7, INES, INET (IN319), India | On Site | Nov 28 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ADGA Group Consultants Inc](https://www.adga.ca)** | **[Full Stack Developer - Biometric Systems](https://jobr.pro/job/33304049/full-stack-developer-biometric-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, Canada | On Site | Nov 26 |
 | **[Le'Fant LLC](https://www.lefant.org/)** | **[Full Stack Developer - (BEAGLE)](https://jobr.pro/job/33315854/full-stack-developer-beagle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Nov 26 |
 | **[Altamira](https://altamira.ai/)** | **[Full Stack Developer (PHP&Angular)](https://jobr.pro/job/33299305/full-stack-developer-phpangular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greece | Remote | Nov 26 |
-| **[SEB](https://sebgroup.com/)** | **[Azure Full Stack Developer - Shape the Future of Corporate Payments \| SEB Kort, Solna](https://jobr.pro/job/33302830/azure-full-stack-developer-shape-the-future-of-corporate-payments-seb-kort-solna?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Solna | On Site | Nov 26 |
-| **[Everbridge](https://www.everbridge.com/)** | **[Staff Full Stack Developer (.NET + React))](https://jobr.pro/job/33294884/staff-full-stack-developer-net-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru | On Site | Nov 26 |
-| **[Stacktics Inc.](https://stacktics.com/)** | **[Full Stack Developer](https://jobr.pro/job/33254264/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Canada | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 291k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 268k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
