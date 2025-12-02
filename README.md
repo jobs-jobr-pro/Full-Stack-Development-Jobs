@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -27,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Centific](https://centific.com/)** | **[Full Stack Developer - Autotagger - Bkp-4](https://jobr.pro/job/33455519/full-stack-developer-autotagger-bkp-4?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India Office - Hyderabad | On Site | Dec 01 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/33471332/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Dec 01 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Delivery & Testing Platforms Full Stack Developer](https://jobr.pro/job/33470192/delivery-testing-platforms-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Dec 01 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Senior Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/33494014/senior-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Dec 01 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Full Stack Developer](https://jobr.pro/job/33490995/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 01 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33488687/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Headquarters 3, United States | On Site | Dec 01 |
 | **[FrontStory](https://www.frontstory.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33472450/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel aviv, IL | On Site | Nov 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Full-Stack Developer with Java & Vue.js - Tietoevry Create (m/f/d)](https://jobr.pro/job/33365896/full-stack-developer-with-java-vuejs-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sofia, Bulgaria | On Site | Nov 27 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Full-stack Developer – Tietoevry Create (m/f/d)](https://jobr.pro/job/33365901/full-stack-developer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tampere, Pirkanmaa, Finland | On Site | Nov 27 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Full Stack Developer ( Angular/ .Net )](https://jobr.pro/job/33377005/senior-full-stack-developer-angular-net-?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Egypt - Remote | Remote | Nov 27 |
-| **[HAMMOQ](https://www.datapure.co)** | **[Senior Full Stack Developer (Remote)](https://jobr.pro/job/33366749/senior-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Indore, MP, India | Remote | Nov 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 338k  
+**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 338k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
