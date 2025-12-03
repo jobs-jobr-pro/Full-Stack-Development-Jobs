@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nimble](https://nimblehq.co/)** | **[Senior Full Stack Developer (Ruby/NodeJS/Go/PHP/Python) (HCMC, Hybrid) (Visa and Relocation Package Provided)](https://jobr.pro/job/33598339/senior-full-stack-developer-rubynodejsgophppython-hcmc-hybrid-visa-and-relocation-package-provided?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ho Chi Minh City, Hồ Chí Minh, Vietnam | On Site | Dec 03 |
 | **[Nimble](https://nimblehq.co/)** | **[Senior Full Stack Developer (Ruby/NodeJS/Go/PHP/Python) (Da Nang, Hybrid) (Visa and Relocation Package Provided)](https://jobr.pro/job/33598345/senior-full-stack-developer-rubynodejsgophppython-da-nang-hybrid-visa-and-relocation-package-provided?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Đà Nẵng, Vietnam | On Site | Dec 03 |
 | **[C3.ai](https://c3.ai/)** | **[Senior Software Engineer, Full-Stack - Developer Experience](https://jobr.pro/job/33606227/senior-software-engineer-full-stack-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Redwood City, CA | On Site | Dec 03 |
+| **[EY](https://www.ey.com)** | **[TTT-.NET Full Stack Developer-Staff](https://jobr.pro/job/33627403/ttt-net-full-stack-developer-staff?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 560016 | On Site | Dec 03 |
 | **[FeedbackFruits](https://feedbackfruits.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/33605192/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam | On Site | Dec 02 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job 26156\] Platform Engineer Full Stack - Developer Master](https://jobr.pro/job/33599533/job-26156-platform-engineer-full-stack-developer-master?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Dec 02 |
 | **[Varicent](https://www.varicent.com/)** | **[Jr Full stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33598886/jr-full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tijuana, Mexico | Remote | Dec 02 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Bank](https://www.db.com/)** | **[Senior Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/33494014/senior-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Dec 01 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/33471332/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Dec 01 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Full Stack Developer](https://jobr.pro/job/33490995/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 01 |
-| **[Freddie Mac](https://www.freddiemac.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33488687/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Headquarters 3, United States | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
