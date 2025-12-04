@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -22,7 +22,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nimble](https://nimblehq.co/)** | **[Senior Full Stack Developer (Ruby/NodeJS/Go/PHP/Python) (Da Nang, Hybrid) (Visa and Relocation Package Provided)](https://jobr.pro/job/33598345/senior-full-stack-developer-rubynodejsgophppython-da-nang-hybrid-visa-and-relocation-package-provided?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Đà Nẵng, Vietnam | On Site | Dec 03 |
 | **[C3.ai](https://c3.ai/)** | **[Senior Software Engineer, Full-Stack - Developer Experience](https://jobr.pro/job/33606227/senior-software-engineer-full-stack-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Redwood City, CA | On Site | Dec 03 |
 | **[EY](https://www.ey.com)** | **[TTT-.NET Full Stack Developer-Staff](https://jobr.pro/job/33627403/ttt-net-full-stack-developer-staff?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, IN, 560016 | On Site | Dec 03 |
+| **[BlackBerry](https://www.blackberry.com/)** | **[BlackBerry Radar- Senior Full Stack Developer](https://jobr.pro/job/33662067/blackberry-radar-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, Ontario, Canada | On Site | Dec 03 |
 | **[Chevron](https://www.chevron.com/)** | **[Software Engineer – Full Stack Developer](https://jobr.pro/job/33640468/software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City Chevron 6750 Office, Philippines | On Site | Dec 03 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33660861/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Dec 03 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Application Full Stack Developer](https://jobr.pro/job/33660886/senior-application-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 5900 HURONTARIO STREET MISSISSAUGA, Canada | On Site | Dec 03 |
 | **[FeedbackFruits](https://feedbackfruits.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/33605192/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam | On Site | Dec 02 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job 26156\] Platform Engineer Full Stack - Developer Master](https://jobr.pro/job/33599533/job-26156-platform-engineer-full-stack-developer-master?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Dec 02 |
 | **[Varicent](https://www.varicent.com/)** | **[Jr Full stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33598886/jr-full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tijuana, Mexico | Remote | Dec 02 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Playtech](https://www.playtech.com/)** | **[Full Stack Developer](https://jobr.pro/job/33514226/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sofia, Bulgaria | On Site | Dec 01 |
 | **[EXL](https://www.exlservice.com/)** | **[Developer (IC)-Application Development-Full Stack Developer](https://jobr.pro/job/33458725/developer-ic-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 01 |
 | **[Nordic Semiconductor](https://www.nordicsemi.com)** | **[Graduate Full Stack Developer](https://jobr.pro/job/33456959/graduate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Muntinlupa, Philippines | On Site | Dec 01 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[Full Stack Developer](https://jobr.pro/job/33456970/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 01 |
-| **[Centific](https://centific.com/)** | **[Full Stack Developer - Autotagger - Bkp-4](https://jobr.pro/job/33455519/full-stack-developer-autotagger-bkp-4?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India Office - Hyderabad | On Site | Dec 01 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Senior Full Stack Developer (Kotlin, TypeScript)](https://jobr.pro/job/33494014/senior-full-stack-developer-kotlin-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 169k  
+**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
