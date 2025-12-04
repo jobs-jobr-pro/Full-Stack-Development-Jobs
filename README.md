@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EXL](https://www.exlservice.com/)** | **[Developer (IC)-Application Development-Full Stack Developer](https://jobr.pro/job/33669765/developer-ic-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 03 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/33642393/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Dec 03 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer - TS/SCI Polygraph - Chantilly, VA](https://jobr.pro/job/33642392/full-stack-developer-tssci-polygraph-chantilly-va?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States; McLean, Virginia, United States | On Site | Dec 03 |
+| **[EXL](https://www.exlservice.com/)** | **[Full Stack Developer](https://jobr.pro/job/33669773/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 03 |
 | **[Hitachi Solutions](https://global.hitachi-solutions.com/)** | **[Adobe Commerce Full Stack Developer - APAC](https://jobr.pro/job/33609139/adobe-commerce-full-stack-developer-apac?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, PUNE, India | On Site | Dec 03 |
 | **[Bosch Group](https://www.bosch.com)** | **[Java Full Stack Developer - Azure](https://jobr.pro/job/33616228/java-full-stack-developer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | telengana, India | On Site | Dec 03 |
 | **[Bosch Group](https://www.bosch.com)** | **[Senior .NET Full Stack Developer – Azure](https://jobr.pro/job/33616229/senior-net-full-stack-developer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | telengana, India | On Site | Dec 03 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DATAECONOMY](https://www.dataeconomy.io/)** | **[Full Stack Developer](https://jobr.pro/job/33466607/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune City, India | On Site | Dec 01 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Full Stack Developer](https://jobr.pro/job/33465456/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Egypt | On Site | Dec 01 |
 | **[Playtech](https://www.playtech.com/)** | **[Full Stack Developer](https://jobr.pro/job/33514226/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sofia, Bulgaria | On Site | Dec 01 |
-| **[EXL](https://www.exlservice.com/)** | **[Developer (IC)-Application Development-Full Stack Developer](https://jobr.pro/job/33458725/developer-ic-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 01 |
-| **[Nordic Semiconductor](https://www.nordicsemi.com)** | **[Graduate Full Stack Developer](https://jobr.pro/job/33456959/graduate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Muntinlupa, Philippines | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 163k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
