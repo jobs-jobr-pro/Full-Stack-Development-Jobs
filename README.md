@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -23,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/33687283/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 04 |
 | **[Barclays](https://home.barclays/)** | **[Salesforce Full Stack Developer](https://jobr.pro/job/33687102/salesforce-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 04 |
 | **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33698038/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | ARNHEM, Netherlands | On Site | Dec 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Java Full Stack Developer, Associate](https://jobr.pro/job/33713083/java-full-stack-developer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Margarpatta, India | On Site | Dec 04 |
 | **[Push Gaming](https://www.pushgaming.com/)** | **[Senior Full-Stack Developer (Next.js & Data Architecture)](https://jobr.pro/job/33671363/senior-full-stack-developer-nextjs-data-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Poland | On Site | Dec 03 |
 | **[EXL](https://www.exlservice.com/)** | **[Developer (IC)-Application Development-Full Stack Developer](https://jobr.pro/job/33669765/developer-ic-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 03 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/33642393/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Dec 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Santex](https://santexgroup.com/)** | **[Senior Full Stack Developer (React & Node)](https://jobr.pro/job/33503389/senior-full-stack-developer-react-node?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Argentina / Perú | On Site | Dec 01 |
 | **[NirYu](https://www.nir-yu.com/)** | **[Full Stack Developer](https://jobr.pro/job/33541260/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Mexico | Remote | Dec 01 |
 | **[Nagarro](https://www.nagarro.com)** | **[Senior Staff Engineer / Full Stack Developer](https://jobr.pro/job/33521767/senior-staff-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Remote United States, United States | Remote | Dec 01 |
-| **[Varicent](https://www.varicent.com/)** | **[Lead Full Stack Developer (Remote - Mexico Only)](https://jobr.pro/job/33504544/lead-full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monterrey, Mexico | Remote | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 192k  
+**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
