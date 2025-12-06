@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AnswerNet](https://answernet.com/)** | **[Sr Full Stack Developer- REMOTE](https://jobr.pro/job/33854042/sr-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Canada; Toronto, Ontario, Canada; Winnipeg, Manitoba, Canada; Canada; Halifax, Nova Scotia, Canada; Canada | Remote | Dec 05 |
 | **[Sauce](https://www.getsauce.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/33839571/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | Remote | Dec 05 |
 | **[Alliance Technical Group](https://alliancetg.com/)** | **[Mid-Level .NET Full-Stack Developer](https://jobr.pro/job/33853714/mid-level-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, United States | Remote | Dec 05 |
+| **[Leadinfo](https://www.leadinfo.com/)** | **[Full Stack Developer](https://jobr.pro/job/33870256/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Capelle aan den IJssel, Netherlands | On Site | Dec 05 |
 | **[team.blue](https://team.blue/)** | **[Full Stack Developer](https://jobr.pro/job/33868699/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Capelle aan den IJssel, Netherlands | On Site | Dec 05 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/33798817/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | US-CA-Burbank | On Site | Dec 05 |
 | **[Appex Innovation](https://www.appexinnovation.com)** | **[Python Full stack Developer](https://jobr.pro/job/33798131/python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | West Mclean, United States | On Site | Dec 05 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thetaray](https://www.thetaray.com)** | **[Full Stack Developer](https://jobr.pro/job/33684322/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, ES | On Site | Dec 03 |
 | **[Hitachi Solutions](https://global.hitachi-solutions.com/)** | **[Adobe Commerce Full Stack Developer - APAC](https://jobr.pro/job/33609139/adobe-commerce-full-stack-developer-apac?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, PUNE, India | On Site | Dec 03 |
 | **[Bosch Group](https://www.bosch.com)** | **[Java Full Stack Developer - Azure](https://jobr.pro/job/33616228/java-full-stack-developer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | telengana, India | On Site | Dec 03 |
-| **[Bosch Group](https://www.bosch.com)** | **[Senior .NET Full Stack Developer – Azure](https://jobr.pro/job/33616229/senior-net-full-stack-developer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | telengana, India | On Site | Dec 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 40 companies | Avg salary: 136k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
