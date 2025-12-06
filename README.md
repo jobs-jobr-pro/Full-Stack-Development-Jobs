@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PwC](https://www.pwc.com/)** | **[Senior Full Stack Developer \| Director](https://jobr.pro/job/33773698/senior-full-stack-developer-director?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, Australia | On Site | Dec 05 |
 | **[The Mobility House](https://www.mobilityhouse.com/)** | **[Senior Full Stack Developer - Vehicle Grid Integration (Quebec)](https://jobr.pro/job/33777727/senior-full-stack-developer-vehicle-grid-integration-quebec?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Quebec, Canada | On Site | Dec 05 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/33829283/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Dec 05 |
+| **[MSD](https://www.msd.com/)** | **[Manager, Full Stack Developer](https://jobr.pro/job/33833040/manager-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Telangana - Hyderabad (HITEC City), India | On Site | Dec 05 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6249)](https://jobr.pro/job/33733229/sr-full-stack-developer-iii-6249?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid - Local to D.C. metro area | On Site | Dec 04 |
 | **[TMS, LLC](https://www.linktms.com/)** | **[.Net Full Stack Developer (Angular) - 10+ years (USC/GC)](https://jobr.pro/job/33737342/net-full-stack-developer-angular-10-years-uscgc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dallas, TX, United States | On Site | Dec 04 |
 | **[Nexite](https://nexite.io/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33684470/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wing Assistant](https://wingassistant.com)** | **[Full Stack Developer](https://jobr.pro/job/33599265/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, Philippines | On Site | Dec 02 |
 | **[Louis Dreyfus Company](https://www.ldc.com)** | **[Senior Full-stack Developer](https://jobr.pro/job/33606825/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Budapest, Hungary | On Site | Dec 02 |
 | **[TechBiz Global](https://techbiz.global/)** | **[Full Stack Developer – AI](https://jobr.pro/job/33597824/full-stack-developer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Dec 02 |
-| **[Tailor Brands](https://www.tailorbrands.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33562900/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 40 companies | Avg salary: 165k  
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
