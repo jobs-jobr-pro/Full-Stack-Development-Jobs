@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant-Manager (Full Stack Developer)!](https://jobr.pro/job/33924443/principal-consultant-manager-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India-Bangalore | On Site | Dec 08 |
 | **[Bupa](https://www.bupa.com.au/)** | **[Senior Full Stack Developer](https://jobr.pro/job/33923671/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Melbourne Office (33X) | On Site | Dec 08 |
 | **[BioCatch](https://www.biocatch.com/)** | **[Full Stack Developer](https://jobr.pro/job/33931742/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 08 |
+| **[Loihde](https://www.loihde.com/)** | **[Full-Stack Developer](https://jobr.pro/job/33938317/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Helsinki; Oulu | On Site | Dec 08 |
 | **[Sana Commerce](https://www.sana-commerce.com)** | **[Senior Full-Stack Developer](https://jobr.pro/job/33922827/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Utrecht, UT, Netherlands | On Site | Dec 08 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/33931898/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 08 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer/Lead](https://jobr.pro/job/33931835/full-stack-developerlead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Dec 08 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CodeValue](https://codevalue.net/)** | **[Full Stack Developer (.Net) - Yokn'eam](https://jobr.pro/job/33685129/full-stack-developer-net-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 04 |
 | **[Copenhagen Merchants](https://copmer.com/)** | **[Full Stack Developer](https://jobr.pro/job/33670428/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | København, Denmark | On Site | Dec 04 |
 | **[Verbit](https://verbit.ai/)** | **[Full Stack developer](https://jobr.pro/job/33685397/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, UA | On Site | Dec 04 |
-| **[Jomablue](https://jomablue.com/)** | **[Senior Laravel Full Stack Developer - Remote](https://jobr.pro/job/33702251/senior-laravel-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, New South Wales 2000, Australia | Remote | Dec 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 217k  
+**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
