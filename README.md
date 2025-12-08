@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -14,9 +14,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Bosch Group](https://www.bosch.com)** | **[.Net Full stack Developer](https://jobr.pro/job/33906455/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | bangalore, India | On Site | Dec 07 |
+| **[Tonic3](https://tonic3.com/)** | **[Full Stack Developer (Oracle NetSuite Specialist)](https://jobr.pro/job/33918168/full-stack-developer-oracle-netsuite-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Dec 07 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/33903493/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Dec 07 |
 | **[NFF Inc](https://www.nffinc.com)** | **[Full Stack Developer (Hybrid)](https://jobr.pro/job/33907221/full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Alexandria, VA, United States | On Site | Dec 06 |
 | **[Weekday](https://www.weekday.works)** | **[Senior Full Stack Developer (SDE-3) - IS Category](https://jobr.pro/job/33866421/senior-full-stack-developer-sde-3-is-category?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brisbane City, Queensland, Australia | On Site | Dec 06 |
+| **[Borrowell](https://borrowell.com/)** | **[Full Stack Developer](https://jobr.pro/job/33916639/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada - Remote | Remote | Dec 06 |
 | **[Apex - Spacecraft Manufacturing](https://www.apexspace.com/)** | **[Full Stack Developer](https://jobr.pro/job/33844378/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Los Angeles | On Site | Dec 05 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer I (6253)](https://jobr.pro/job/33843713/sr-full-stack-developer-i-6253?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid - Local to D.C. metro area | On Site | Dec 05 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Full Stack Developer (6252)](https://jobr.pro/job/33843711/full-stack-developer-6252?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid - Local to D.C. metro area | On Site | Dec 05 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Push Gaming](https://www.pushgaming.com/)** | **[Senior Full-Stack Developer (Next.js & Data Architecture)](https://jobr.pro/job/33671363/senior-full-stack-developer-nextjs-data-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Poland | On Site | Dec 03 |
 | **[EXL](https://www.exlservice.com/)** | **[Developer (IC)-Application Development-Full Stack Developer](https://jobr.pro/job/33669765/developer-ic-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 03 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/33642393/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Dec 03 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer - TS/SCI Polygraph - Chantilly, VA](https://jobr.pro/job/33642392/full-stack-developer-tssci-polygraph-chantilly-va?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States; McLean, Virginia, United States | On Site | Dec 03 |
-| **[EXL](https://www.exlservice.com/)** | **[Full Stack Developer](https://jobr.pro/job/33669773/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 217k  
+**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
