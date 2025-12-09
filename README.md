@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer/Lead](https://jobr.pro/job/33931835/full-stack-developerlead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Dec 08 |
 | **[PwC](https://www.pwc.com/)** | **[Senior Full Stack Developer \| Director](https://jobr.pro/job/33921430/senior-full-stack-developer-director?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, Australia | On Site | Dec 08 |
 | **[UBS](https://www.ubs.com/)** | **[Software Engineer - Full Stack Developer](https://jobr.pro/job/33925792/software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Dec 08 |
+| **[BlackRock](https://www.blackrock.com/)** | **[Full Stack Developer, Aladdin Engineering, Vice President](https://jobr.pro/job/33950915/full-stack-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Dec 08 |
 | **[Bosch Group](https://www.bosch.com)** | **[.Net Full stack Developer](https://jobr.pro/job/33906455/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | bangalore, India | On Site | Dec 07 |
 | **[Tonic3](https://tonic3.com/)** | **[Full Stack Developer (Oracle NetSuite Specialist)](https://jobr.pro/job/33918168/full-stack-developer-oracle-netsuite-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Dec 07 |
 | **[FrontStory](https://www.frontstory.com/)** | **[Full Stack Developer - Uruguay](https://jobr.pro/job/33932404/full-stack-developer-uruguay?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montevideo, Uruguay, UY | On Site | Dec 07 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tailor Brands](https://www.tailorbrands.com/)** | **[Full Stack Developer (Core Team)](https://jobr.pro/job/33685671/full-stack-developer-core-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
 | **[CodeValue](https://codevalue.net/)** | **[Full Stack Developer (.Net) - Yokn'eam](https://jobr.pro/job/33685129/full-stack-developer-net-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 04 |
 | **[Copenhagen Merchants](https://copmer.com/)** | **[Full Stack Developer](https://jobr.pro/job/33670428/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | København, Denmark | On Site | Dec 04 |
-| **[Verbit](https://verbit.ai/)** | **[Full Stack developer](https://jobr.pro/job/33685397/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, UA | On Site | Dec 04 |
 
 ---
 
