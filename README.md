@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visma](https://www.visma.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34251687/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Dec 12 |
 | **[Celestica](https://www.celestica.com)** | **[Junior Full Stack Developer](https://jobr.pro/job/34223288/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Laem Chabang, 20, TH | On Site | Dec 12 |
+| **[Lytegen](https://lytegen.com)** | **[Senior Full-Stack Developer](https://jobr.pro/job/34235746/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 12 |
 | **[MEDFAR](https://www.medfarsolutions.com)** | **[Senior Full Stack Developer (Product Squad)](https://jobr.pro/job/34229406/senior-full-stack-developer-product-squad?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Quebec, Canada | On Site | Dec 11 |
 | **[Reinventing Geospatial (RGi)](https://rgi-corp.com/)** | **[Full Stack Developer](https://jobr.pro/job/34216831/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | McLean, VA | On Site | Dec 11 |
 | **[Latitude](https://www.latitudeinc.net)** | **[Full-Stack Developer (.Net Developer)](https://jobr.pro/job/34215613/full-stack-developer-net-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Annapolis, MD | On Site | Dec 11 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Web and Full Stack Developer - Associate- Software Engineering](https://jobr.pro/job/34080111/web-and-full-stack-developer-associate-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore - IN, India | On Site | Dec 10 |
 | **[IG Group](https://www.iggroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/34124150/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Dec 10 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/34127877/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Dec 10 |
-| **[ICF](https://www.icf.com/)** | **[Full Stack Developer (Top Secret clearance)](https://jobr.pro/job/34125543/full-stack-developer-top-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nationwide Remote Office (US99), United States | Remote | Dec 10 |
-| **[PwC](https://www.pwc.com/)** | **[Senior Full Stack Developer \| Director](https://jobr.pro/job/34085234/senior-full-stack-developer-director?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, Australia | On Site | Dec 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 167k  
+**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
