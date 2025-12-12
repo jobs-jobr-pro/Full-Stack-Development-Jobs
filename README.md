@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -22,12 +22,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/)** | **[Senior Full Stack Developer – GBS Intelligent Automation – Digital Enablement](https://jobr.pro/job/34158026/senior-full-stack-developer-gbs-intelligent-automation-digital-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philippines - Quezon City - E. Rodriguez Jr. Ave., 27th Floor, Bridgetowne GBF Center 1 | On Site | Dec 11 |
 | **[Weekday](https://www.weekday.works)** | **[.NET Full Stack Developer](https://jobr.pro/job/34176302/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
 | **[EY](https://www.ey.com)** | **[EY - GDS Consulting - AI And DATA - Full Stack Developer - Senior](https://jobr.pro/job/34164288/ey-gds-consulting-ai-and-data-full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Coimbatore, TN, IN, 641049 | On Site | Dec 11 |
-| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Full Stack Developer](https://jobr.pro/job/34182651/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City, Metro Manila, Philippines | On Site | Dec 11 |
-| **[IRIUM](https://www.irium.es/)** | **[Full Stack Developer](https://jobr.pro/job/34181923/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain - Remote | Remote | Dec 11 |
-| **[Telia](https://www.teliacompany.com/)** | **[Full-stack Developer](https://jobr.pro/job/34191514/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Lithuania | On Site | Dec 11 |
 | **[Synechron](https://www.synechron.com/)** | **[Full-Stack Developer \| Java & Angular](https://jobr.pro/job/34209863/full-stack-developer-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Dec 11 |
 | **[Synechron](https://www.synechron.com/)** | **[.NET Full-Stack Developer \| Financial Services & Trading Systems](https://jobr.pro/job/34209854/net-full-stack-developer-financial-services-trading-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Dec 11 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - Assistant Vice President](https://jobr.pro/job/34209616/full-stack-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 3 CHANGI BUSINESS PARK CRESCENT CHANGI BUSINESS PARK SINGAPORE, Singapore | On Site | Dec 11 |
+| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Full Stack Developer](https://jobr.pro/job/34182651/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City, Metro Manila, Philippines | On Site | Dec 11 |
+| **[IRIUM](https://www.irium.es/)** | **[Full Stack Developer](https://jobr.pro/job/34181923/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain - Remote | Remote | Dec 11 |
+| **[Telia](https://www.teliacompany.com/)** | **[Full-stack Developer](https://jobr.pro/job/34191514/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Lithuania | On Site | Dec 11 |
 | **[Hub Group](https://hubgroup.com/)** | **[Associate Full Stack Developer](https://jobr.pro/job/34185555/associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Oak Brook, IL, United States | On Site | Dec 10 |
 | **[Hertz](https://www.hertz.com/)** | **[Principal Full Stack Developer - TNC](https://jobr.pro/job/34179679/principal-full-stack-developer-tnc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, GA, United States | On Site | Dec 10 |
 | **[Hertz](https://www.hertz.com/)** | **[Sr Full Stack Developer - TNC](https://jobr.pro/job/34179680/sr-full-stack-developer-tnc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, GA, United States | On Site | Dec 10 |
