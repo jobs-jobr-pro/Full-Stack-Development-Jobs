@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,23 +13,32 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Celestica](https://www.celestica.com)** | **[Junior Full Stack Developer](https://jobr.pro/job/34223288/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Laem Chabang, 20, TH | On Site | Dec 12 |
+| **[MEDFAR](https://www.medfarsolutions.com)** | **[Senior Full Stack Developer (Product Squad)](https://jobr.pro/job/34229406/senior-full-stack-developer-product-squad?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Quebec, Canada | On Site | Dec 11 |
+| **[Reinventing Geospatial (RGi)](https://rgi-corp.com/)** | **[Full Stack Developer](https://jobr.pro/job/34216831/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | McLean, VA | On Site | Dec 11 |
+| **[Latitude](https://www.latitudeinc.net)** | **[Full-Stack Developer (.Net Developer)](https://jobr.pro/job/34215613/full-stack-developer-net-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Annapolis, MD | On Site | Dec 11 |
 | **[Hitachi Solutions](https://global.hitachi-solutions.com/)** | **[Senior Full Stack Developer (.NET/Azure)](https://jobr.pro/job/34213147/senior-full-stack-developer-netazure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sofia, Sofia City Province, Bulgaria | On Site | Dec 11 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Full Stack Developer](https://jobr.pro/job/34187577/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Dec 11 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer @ Thessaloniki, Patra, Ioannina & Crete](https://jobr.pro/job/34181738/full-stack-developer-thessaloniki-patra-ioannina-crete?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Heraklion, Ioannina, Patras, Thessaloniki | On Site | Dec 11 |
 | **[Fuelfinance](https://fuelfinance.me/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/34199909/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 11 |
 | **[CodeValue](https://codevalue.net/)** | **[Full Stack Developer (Nodejs & React)](https://jobr.pro/job/34193429/full-stack-developer-nodejs-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herzliya, Israel, IL | On Site | Dec 11 |
+| **[AUMOVIO](https://www.continental-automotive.com/)** | **[Full-Stack Developer Intern \[IDA: 00067\]](https://jobr.pro/job/34225677/full-stack-developer-intern-ida-00067?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore, Singapore | On Site | Dec 11 |
 | **[Abstrabit Technologies Pvt Ltd](https://abstrabit.com)** | **[Full Stack Developer Intern (AI Focus \| Class of 2025 \| Conversion Opportunity)](https://jobr.pro/job/34181799/full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Dec 11 |
+| **[Mobileye](https://www.mobileye.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34228631/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Jerusalem, Israel | On Site | Dec 11 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[GUI Full Stack Developer](https://jobr.pro/job/34163712/gui-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN, 560100 | On Site | Dec 11 |
+| **[CVP](https://www.cvpcorp.com/)** | **[Full Stack Developer](https://jobr.pro/job/34232530/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Dec 11 |
+| **[Sev1Tech](https://www.sev1tech.com)** | **[Lead Azure Full-Stack Developer](https://jobr.pro/job/34218083/lead-azure-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Dec 11 |
+| **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Full Stack Developer](https://jobr.pro/job/34215966/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latin America, worldwide | Remote | Dec 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/)** | **[Senior Full Stack Developer – GBS Intelligent Automation – Digital Enablement](https://jobr.pro/job/34158026/senior-full-stack-developer-gbs-intelligent-automation-digital-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philippines - Quezon City - E. Rodriguez Jr. Ave., 27th Floor, Bridgetowne GBF Center 1 | On Site | Dec 11 |
 | **[Weekday](https://www.weekday.works)** | **[.NET Full Stack Developer](https://jobr.pro/job/34176302/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
 | **[EY](https://www.ey.com)** | **[EY - GDS Consulting - AI And DATA - Full Stack Developer - Senior](https://jobr.pro/job/34164288/ey-gds-consulting-ai-and-data-full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Coimbatore, TN, IN, 641049 | On Site | Dec 11 |
+| **[CIBC](https://www.cibc.com/)** | **[Full Stack Developer](https://jobr.pro/job/34213887/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto-81 Bay, 22nd Floor, Canada | On Site | Dec 11 |
 | **[Synechron](https://www.synechron.com/)** | **[Full-Stack Developer \| Java & Angular](https://jobr.pro/job/34209863/full-stack-developer-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Dec 11 |
 | **[Synechron](https://www.synechron.com/)** | **[.NET Full-Stack Developer \| Financial Services & Trading Systems](https://jobr.pro/job/34209854/net-full-stack-developer-financial-services-trading-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Dec 11 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - Assistant Vice President](https://jobr.pro/job/34209616/full-stack-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 3 CHANGI BUSINESS PARK CRESCENT CHANGI BUSINESS PARK SINGAPORE, Singapore | On Site | Dec 11 |
 | **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Full Stack Developer](https://jobr.pro/job/34182651/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City, Metro Manila, Philippines | On Site | Dec 11 |
 | **[IRIUM](https://www.irium.es/)** | **[Full Stack Developer](https://jobr.pro/job/34181923/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain - Remote | Remote | Dec 11 |
 | **[Telia](https://www.teliacompany.com/)** | **[Full-stack Developer](https://jobr.pro/job/34191514/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Lithuania | On Site | Dec 11 |
-| **[CIBC](https://www.cibc.com/)** | **[Full Stack Developer](https://jobr.pro/job/34213887/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto-81 Bay, 22nd Floor, Canada | On Site | Dec 11 |
 | **[Hub Group](https://hubgroup.com/)** | **[Associate Full Stack Developer](https://jobr.pro/job/34185555/associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Oak Brook, IL, United States | On Site | Dec 10 |
 | **[Hertz](https://www.hertz.com/)** | **[Principal Full Stack Developer - TNC](https://jobr.pro/job/34179679/principal-full-stack-developer-tnc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, GA, United States | On Site | Dec 10 |
 | **[Hertz](https://www.hertz.com/)** | **[Sr Full Stack Developer - TNC](https://jobr.pro/job/34179680/sr-full-stack-developer-tnc?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, GA, United States | On Site | Dec 10 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DXC Technology](https://dxc.com/)** | **[Senior Full Stack Developer (Hybrid)](https://jobr.pro/job/34127877/senior-full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA DE Newark - 645 Papermill Rd. (CSC Location), United States | On Site | Dec 10 |
 | **[ICF](https://www.icf.com/)** | **[Full Stack Developer (Top Secret clearance)](https://jobr.pro/job/34125543/full-stack-developer-top-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nationwide Remote Office (US99), United States | Remote | Dec 10 |
 | **[PwC](https://www.pwc.com/)** | **[Senior Full Stack Developer \| Director](https://jobr.pro/job/34085234/senior-full-stack-developer-director?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, Australia | On Site | Dec 10 |
-| **[UBS](https://www.ubs.com/)** | **[Full Stack Developer](https://jobr.pro/job/34096292/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Dec 10 |
-| **[Armanino](https://www.armanino.com/)** | **[Consultant - Full stack Developer](https://jobr.pro/job/34095688/consultant-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND GJ Ahmedabad - Navratna, India | On Site | Dec 10 |
-| **[Armanino](https://www.armanino.com/)** | **[Senior Consultant, Full Stack Developer – AI Enablement](https://jobr.pro/job/34095685/senior-consultant-full-stack-developer-ai-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND GJ Ahmedabad - Navratna, India | On Site | Dec 10 |
-| **[Spatial Front, Inc](https://www.spatialfront.com)** | **[Full Stack Developer](https://jobr.pro/job/34078736/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC, US | On Site | Dec 09 |
-| **[Derex Technologies](https://www.derextech.com)** | **[Full Stack Developer](https://jobr.pro/job/34055235/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC, United States | On Site | Dec 09 |
-| **[Daisy Group](https://daisygroup.co.uk/)** | **[Full Stack Developer](https://jobr.pro/job/34065056/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Solihull, England, United Kingdom | On Site | Dec 09 |
-| **[neumeier AG](https://www.neumeier-edv.de/)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/34072456/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mallersdorf-Pfaffenberg | On Site | Dec 09 |
-| **[Santex](https://santexgroup.com/)** | **[Senior Full-Stack Developer (Must: Python & React)](https://jobr.pro/job/34049164/senior-full-stack-developer-must-python-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Argentina | On Site | Dec 09 |
-| **[Visa](https://visa.com)** | **[Staff Software Engineer (6 - 9 years of experience in Full stack developer, Java, Angular, Spring Boot, Gen AI)](https://jobr.pro/job/34040560/staff-software-engineer-6-9-years-of-experience-in-full-stack-developer-java-angular-spring-boot-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, INDIA, India | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: 153k  
+**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
