@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -14,8 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[eTelligent Group](https://etelligent-group.com/)** | **[Mid-Level Full Stack Developer](https://jobr.pro/job/34308239/mid-level-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Farmers Branch, Texas, United States | On Site | Dec 13 |
+| **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer JAVA](https://jobr.pro/job/34322461/full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 13 |
 | **[Spire](https://spire.com/)** | **[Full Stack Developer](https://jobr.pro/job/34306316/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Glasgow, Scotland, United Kingdom | On Site | Dec 12 |
 | **[Schrödinger](https://www.schrodinger.com/)** | **[Machine Learning Full Stack Developer - Hyderabad](https://jobr.pro/job/34306268/machine-learning-full-stack-developer-hyderabad?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad | On Site | Dec 12 |
+| **[Codec](https://www.codec.ie/)** | **[Intermediate Full-Stack Developer (Azure Cloud)](https://jobr.pro/job/34316911/intermediate-full-stack-developer-azure-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Belfast | On Site | Dec 12 |
 | **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[Senior Java Full Stack Developer - Financial & Accounting Solutions (m/w/x)](https://jobr.pro/job/34302500/senior-java-full-stack-developer-financial-accounting-solutions-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wiener Neudorf, Niederösterreich, Austria | On Site | Dec 12 |
 | **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[Web Full Stack Developer - Intranet Platform & Inhouse Apps (m/w/x)](https://jobr.pro/job/34302510/web-full-stack-developer-intranet-platform-inhouse-apps-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wien, Austria | On Site | Dec 12 |
 | **[Visma](https://www.visma.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34251687/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Dec 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Synechron](https://www.synechron.com/)** | **[Full-Stack Developer \| Java & Angular](https://jobr.pro/job/34209863/full-stack-developer-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Dec 11 |
 | **[Synechron](https://www.synechron.com/)** | **[.NET Full-Stack Developer \| Financial Services & Trading Systems](https://jobr.pro/job/34209854/net-full-stack-developer-financial-services-trading-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, India | On Site | Dec 11 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - Assistant Vice President](https://jobr.pro/job/34209616/full-stack-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 3 CHANGI BUSINESS PARK CRESCENT CHANGI BUSINESS PARK SINGAPORE, Singapore | On Site | Dec 11 |
-| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Full Stack Developer](https://jobr.pro/job/34182651/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City, Metro Manila, Philippines | On Site | Dec 11 |
-| **[IRIUM](https://www.irium.es/)** | **[Full Stack Developer](https://jobr.pro/job/34181923/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain - Remote | Remote | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 152k  
+**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 152k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
