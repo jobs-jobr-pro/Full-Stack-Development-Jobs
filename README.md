@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/34378920/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Dec 15 |
 | **[Rhino Partners](https://www.rhino-partners.com/)** | **[Full Stack Developer (Python / Django / Next.js / Kubernetes) (Remote)](https://jobr.pro/job/34375455/full-stack-developer-python-django-nextjs-kubernetes-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore, Singapore | Remote | Dec 15 |
+| **[Abstrabit Technologies Pvt Ltd](https://abstrabit.com)** | **[Full Stack Developer Intern (AI Focus \| Class of 2025 \| Conversion Opportunity)](https://jobr.pro/job/34402788/full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Dec 15 |
 | **[MedNet](https://www.mednet-global.com/)** | **[Full Stack Developer](https://jobr.pro/job/34371611/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | JO-JO-Amman | On Site | Dec 15 |
 | **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-PLSQL /Java](https://jobr.pro/job/34368947/full-stack-developer-plsql-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 15 |
 | **[Integrity Asia](https://integrity-asia.com/)** | **[Junior Full Stack Developer](https://jobr.pro/job/34376081/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Jakarta, Indonesia | On Site | Dec 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Transifex](https://www.transifex.com/)** | **[Full-Stack Developer (Rigi)](https://jobr.pro/job/34259747/full-stack-developer-rigi?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Athens, Attica, Greece | On Site | Dec 12 |
 | **[Absa Group](https://www.absa.africa/)** | **[Full Stack Developer](https://jobr.pro/job/34271346/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 15 Alice Lane, South Africa | On Site | Dec 12 |
 | **[Lytegen](https://lytegen.com)** | **[Senior Full-Stack Developer](https://jobr.pro/job/34235746/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 12 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Full-Stack Developer](https://jobr.pro/job/34285706/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA - CA - Studio Lot - Feat Anim South, United States | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 276k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 300k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
