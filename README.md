@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,9 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Crimson Education](https://www.crimsoneducation.org)** | **[Full-Stack Developer](https://jobr.pro/job/34442035/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Beijing, China | On Site | Dec 16 |
 | **[Nixxis Vietnam](https://bigin.vn/)** | **[Full-stack Developer (Middle)](https://jobr.pro/job/34413801/full-stack-developer-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Dec 16 |
+| **[Meyer Distributing](https://www.meyerdistributing.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34438863/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Indianapolis, IN, US | On Site | Dec 15 |
 | **[AnaVation](https://anavationllc.com/)** | **[Junior Full Stack Developer (Java/Spring)](https://jobr.pro/job/34405143/junior-full-stack-developer-javaspring?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chantilly, VA | On Site | Dec 15 |
 | **[Capco](https://www.capco.com/)** | **[Senior Full Stack Developer - COM INGLÊS - Remoto](https://jobr.pro/job/34409053/senior-full-stack-developer-com-ingles-remoto?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil - Sao Paulo | Remote | Dec 15 |
+| **[CORSAIR](https://www.corsair.com/)** | **[Full Stack Developer Data/AI Intern](https://jobr.pro/job/34443598/full-stack-developer-dataai-intern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Milpitas, CA, United States | On Site | Dec 15 |
 | **[Klick](https://www.klick.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/34417291/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | Dec 15 |
 | **[Gcore](https://gcore.com)** | **[Senior Full-Stack Developer (AI-Native)](https://jobr.pro/job/34416064/senior-full-stack-developer-ai-native?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland, Serbia, Lithuania, Cyprus, Luxembourg | On Site | Dec 15 |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/34378920/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Dec 15 |
@@ -60,16 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Codec](https://www.codec.ie/)** | **[Intermediate Full-Stack Developer (Azure Cloud)](https://jobr.pro/job/34316911/intermediate-full-stack-developer-azure-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Belfast | On Site | Dec 12 |
 | **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[Senior Java Full Stack Developer - Financial & Accounting Solutions (m/w/x)](https://jobr.pro/job/34302500/senior-java-full-stack-developer-financial-accounting-solutions-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wiener Neudorf, Niederösterreich, Austria | On Site | Dec 12 |
 | **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[Web Full Stack Developer - Intranet Platform & Inhouse Apps (m/w/x)](https://jobr.pro/job/34302510/web-full-stack-developer-intranet-platform-inhouse-apps-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wien, Austria | On Site | Dec 12 |
-| **[Visma](https://www.visma.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34251687/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Dec 12 |
-| **[Bosch Group](https://www.bosch.com)** | **[Senior .NET Full Stack Developer – Azure](https://jobr.pro/job/34254488/senior-net-full-stack-developer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | telengana, India | On Site | Dec 12 |
-| **[Hitachi Digital Services](https://hitachids.com)** | **[Internship Full-stack Developer (NodeJS, AWS)](https://jobr.pro/job/34309581/internship-full-stack-developer-nodejs-aws?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Vietnam | On Site | Dec 12 |
 
 ---
 
 **Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 300k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, nodejs, javascript, python, typescript  
+**Trending Skills:** react, javascript, python, typescript, mongodb  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
