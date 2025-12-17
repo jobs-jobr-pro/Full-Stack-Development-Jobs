@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -21,6 +21,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/34446799/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Dec 16 |
 | **[Crimson Education](https://www.crimsoneducation.org)** | **[Full-Stack Developer](https://jobr.pro/job/34442035/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Beijing, China | On Site | Dec 16 |
 | **[Nixxis Vietnam](https://bigin.vn/)** | **[Full-stack Developer (Middle)](https://jobr.pro/job/34413801/full-stack-developer-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Dec 16 |
+| **[Freshfields Bruckhaus Deringer](https://www.freshfields.com/)** | **[Full Stack Developer](https://jobr.pro/job/34485844/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bratislava, Slovakia | On Site | Dec 16 |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Back-End / Full-Stack Developer (C++, TypeScript, JavaScript)](https://jobr.pro/job/34484180/back-end-full-stack-developer-c-typescript-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Krakow, Poland | On Site | Dec 16 |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Junior Front-End / Full-Stack Developer (TypeScript, JavaScript, C++)](https://jobr.pro/job/34484181/junior-front-end-full-stack-developer-typescript-javascript-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Krakow, Poland | On Site | Dec 16 |
 | **[DIRINGER & SCHEIDEL Unternehmensgruppe](https://www.dus.de/)** | **[Full-Stack Developer (m/w/d) – Vue.js / .NET](https://jobr.pro/job/34454278/full-stack-developer-mwd-vuejs-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mannheim, Germany | On Site | Dec 16 |
 | **[Momentive](https://www.momentive.com/)** | **[Sr. Java Full Stack Developer](https://jobr.pro/job/34457193/sr-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN Bangalore MBS, India | On Site | Dec 16 |
 | **[DXC Technology](https://dxc.com/)** | **[Full Stack Developer (.Net, Azure, React)](https://jobr.pro/job/34445352/full-stack-developer-net-azure-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | AU322 - AUS NSW Client site (AU322), Australia | On Site | Dec 16 |
@@ -31,8 +34,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boeing](https://www.boeing.com/)** | **[Associate DotNet Full-Stack Developer](https://jobr.pro/job/34472194/associate-dotnet-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Dec 16 |
 | **[Broadridge](https://www.broadridge.com/)** | **[Senior Full Stack Developer – Cloud & AI](https://jobr.pro/job/34470803/senior-full-stack-developer-cloud-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru-EPIP Industrial Area, India | On Site | Dec 16 |
 | **[Ryan](https://www.ryan.com/)** | **[Senior Full Stack Developer, Software Development](https://jobr.pro/job/34470627/senior-full-stack-developer-software-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Braga, Portugal | On Site | Dec 16 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Back-End / Full-Stack Developer (C++, TypeScript, JavaScript)](https://jobr.pro/job/34484180/back-end-full-stack-developer-c-typescript-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Krakow, Poland | On Site | Dec 16 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Junior Front-End / Full-Stack Developer (TypeScript, JavaScript, C++)](https://jobr.pro/job/34484181/junior-front-end-full-stack-developer-typescript-javascript-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Krakow, Poland | On Site | Dec 16 |
 | **[Meyer Distributing](https://www.meyerdistributing.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34438863/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Indianapolis, IN, US | On Site | Dec 15 |
 | **[AnaVation](https://anavationllc.com/)** | **[Junior Full Stack Developer (Java/Spring)](https://jobr.pro/job/34405143/junior-full-stack-developer-javaspring?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chantilly, VA | On Site | Dec 15 |
 | **[Capco](https://www.capco.com/)** | **[Senior Full Stack Developer - COM INGLÊS - Remoto](https://jobr.pro/job/34409053/senior-full-stack-developer-com-ingles-remoto?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil - Sao Paulo | Remote | Dec 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CIBC](https://www.cibc.com/)** | **[Full Stack Developer](https://jobr.pro/job/34393819/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto-81 Bay, 32nd Floor, Canada | On Site | Dec 15 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack developer with Angular](https://jobr.pro/job/34395602/java-full-stack-developer-with-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Dec 15 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Full Stack Developer, Lead](https://jobr.pro/job/34401905/full-stack-developer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA, VA, McLean (8285 Greensboro Dr, Booz), United States | On Site | Dec 15 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Full Stack Developer, Senior](https://jobr.pro/job/34401915/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA, VA, Chantilly (15059 Conference Ctr Dr), United States | On Site | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 47 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
