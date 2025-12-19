@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -17,7 +17,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DoorDash](https://www.doordash.com/)** | **[Software Engineer, Full Stack - Developer Console](https://jobr.pro/job/34666802/software-engineer-full-stack-developer-console?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY | On Site | Dec 19 |
 | **[Capco](https://www.capco.com/)** | **[Full Stack Developer (Angular & Java/Kotlin)](https://jobr.pro/job/34663810/full-stack-developer-angular-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thailand - Bangkok | On Site | Dec 19 |
 | **[Visa](https://visa.com)** | **[Senior Full Stack Developer, Senior Manager, Visa Implementation Services](https://jobr.pro/job/34665174/senior-full-stack-developer-senior-manager-visa-implementation-services?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wellington, Wellington Region, New Zealand | On Site | Dec 19 |
+| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Senior IT Applications(Java Full Stack Developer)](https://jobr.pro/job/34693383/senior-it-applicationsjava-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job -26462\] Senior Full Stack Developer (React/.Net)](https://jobr.pro/job/34657422/job-26462-senior-full-stack-developer-reactnet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Dec 18 |
+| **[Mintos](https://www.mintos.com/)** | **[Full-Stack Developer (Content Platform)](https://jobr.pro/job/34687958/full-stack-developer-content-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Dec 18 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[LEAD Full-Stack Developer](https://jobr.pro/job/34660360/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Dec 18 |
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/34650334/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | On Site | Dec 18 |
 | **[SuperCom](https://www.supercom.com/)** | **[Full Stack Developer](https://jobr.pro/job/34621954/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 18 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dynanet Corporation](https://www.dynanetcorp.com/)** | **[Full Stack Developer](https://jobr.pro/job/34526455/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA, US | On Site | Dec 17 |
 | **[Weekday](https://www.weekday.works)** | **[Full Stack Developer](https://jobr.pro/job/34526153/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi, Delhi, India | On Site | Dec 17 |
 | **[Lytegen](https://lytegen.com)** | **[Full Stack Developer](https://jobr.pro/job/34514893/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 17 |
-| **[PwC](https://www.pwc.com/)** | **[IN_Manager_Cloud Full Stack Developer _GCC_Advisory__PAN INDIA](https://jobr.pro/job/34571746/inmanagercloud-full-stack-developer-gccadvisorypan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, India | On Site | Dec 17 |
-| **[Manulife](https://www.manulife.com/)** | **[Full-stack Developer](https://jobr.pro/job/34575522/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Myanmar, Kantharyar OfficeTower | On Site | Dec 17 |
 
 ---
 
