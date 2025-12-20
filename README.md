@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -25,9 +25,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer (Java & SQL)](https://jobr.pro/job/34702290/full-stack-developer-java-sql?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 19 |
 | **[Barclays](https://home.barclays/)** | **[Lead Full Stack Developer](https://jobr.pro/job/34702277/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 19 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior React Full Stack developer](https://jobr.pro/job/34706623/senior-react-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 19 |
+| **[Allstate](https://www.allstate.com/)** | **[Senior Java Full stack Developer](https://jobr.pro/job/34728515/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ind – Blr Sez 2 (All Other Floors), India | On Site | Dec 19 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_React Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/34724937/insenior-associatereact-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad - Salarpuria, India | On Site | Dec 19 |
 | **[PwC](https://www.pwc.com/)** | **[.Net Full-Stack Developer (with React/TypeScript) (m/f)](https://jobr.pro/job/34724659/net-full-stack-developer-with-reacttypescript-mf?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bratislava - Twin City Business Centre blok A Karadzicova 2, Slovakia | On Site | Dec 19 |
 | **[PwC](https://www.pwc.com/)** | **[Full stack developer](https://jobr.pro/job/34724617/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam - Thomas R. Malthusstraat 5, Netherlands | On Site | Dec 19 |
+| **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer with Microsoft Dynamics 365 experience](https://jobr.pro/job/34727107/net-full-stack-developer-with-microsoft-dynamics-365-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Dec 19 |
+| **[RTX](https://www.rtx.com/)** | **[Summer 2026 Intern - Full Stack Developer (Onsite)](https://jobr.pro/job/34727727/summer-2026-intern-full-stack-developer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MA105: BBN Headquarters 10 Moulton Street , Cambridge, MA, 02138 USA, United States | On Site | Dec 19 |
+| **[FCC / FAC](https://www.fcc-fac.ca/)** | **[Full-Stack Developer (Customer Management Solutions)](https://jobr.pro/job/34729269/full-stack-developer-customer-management-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Agriculture Place, Canada | On Site | Dec 19 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job -26462\] Senior Full Stack Developer (React/.Net)](https://jobr.pro/job/34657422/job-26462-senior-full-stack-developer-reactnet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Dec 18 |
 | **[Mintos](https://www.mintos.com/)** | **[Full-Stack Developer (Content Platform)](https://jobr.pro/job/34687958/full-stack-developer-content-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Dec 18 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[LEAD Full-Stack Developer](https://jobr.pro/job/34660360/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Dec 18 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[German Speaking Senior Full Stack Developer (REF4395U)](https://jobr.pro/job/34581781/german-speaking-senior-full-stack-developer-ref4395u?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Dec 17 |
 | **[MGID](https://www.mgid.com/)** | **[Full-Stack Developer (Symfony+Angular, Anti-Fraud Team)](https://jobr.pro/job/34604911/full-stack-developer-symfonyangular-anti-fraud-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ukraine - Remote | Remote | Dec 17 |
 | **[Stacktics Inc.](https://stacktics.com/)** | **[Full Stack Developer (React.js + GCP)](https://jobr.pro/job/34543085/full-stack-developer-reactjs-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Canada | On Site | Dec 17 |
-| **[E2logy](https://e2logy.com/)** | **[Full Stack Developer (React.js & Node.js)](https://jobr.pro/job/34540889/full-stack-developer-reactjs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ahmedabad, India | On Site | Dec 17 |
-| **[KATBOTZ](https://www.katbotz.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34539963/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 17 |
-| **[Appsilon](https://www.appsilon.com/)** | **[Full Stack Developer (Python/React)](https://jobr.pro/job/34603594/full-stack-developer-pythonreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brasilia, Brazil | On Site | Dec 17 |
-| **[Compado](https://compado.com/)** | **[Full Stack Developer (m/f/d) - freelance & remote](https://jobr.pro/job/34599198/full-stack-developer-mfd-freelance-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montenegro, global | Remote | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 142k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
