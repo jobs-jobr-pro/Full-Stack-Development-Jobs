@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -37,9 +37,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FCC / FAC](https://www.fcc-fac.ca/)** | **[Full-Stack Developer (Customer Management Solutions)](https://jobr.pro/job/34729269/full-stack-developer-customer-management-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Agriculture Place, Canada | On Site | Dec 19 |
 | **[Allstate](https://www.allstate.com/)** | **[Senior Java Full stack Developer](https://jobr.pro/job/34728515/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ind – Blr Sez 2 (All Other Floors), India | On Site | Dec 19 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_React Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/34732711/insenior-associatereact-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad - Salarpuria, India | On Site | Dec 19 |
+| **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer with Microsoft Dynamics 365 experience](https://jobr.pro/job/34727107/net-full-stack-developer-with-microsoft-dynamics-365-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Dec 19 |
 | **[PwC](https://www.pwc.com/)** | **[.Net Full-Stack Developer (with React/TypeScript) (m/f)](https://jobr.pro/job/34724659/net-full-stack-developer-with-reacttypescript-mf?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bratislava - Twin City Business Centre blok A Karadzicova 2, Slovakia | On Site | Dec 19 |
 | **[PwC](https://www.pwc.com/)** | **[Full stack developer](https://jobr.pro/job/34724617/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam - Thomas R. Malthusstraat 5, Netherlands | On Site | Dec 19 |
-| **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer with Microsoft Dynamics 365 experience](https://jobr.pro/job/34727107/net-full-stack-developer-with-microsoft-dynamics-365-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Dec 19 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job -26462\] Senior Full Stack Developer (React/.Net)](https://jobr.pro/job/34657422/job-26462-senior-full-stack-developer-reactnet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Dec 18 |
 | **[Mintos](https://www.mintos.com/)** | **[Full-Stack Developer (Content Platform)](https://jobr.pro/job/34687958/full-stack-developer-content-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga, Latvia | On Site | Dec 18 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[LEAD Full-Stack Developer](https://jobr.pro/job/34660360/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Dec 18 |
