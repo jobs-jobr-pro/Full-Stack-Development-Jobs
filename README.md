@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deloitte](https://www.deloitte.com/)** | **[Junior - Full Stack Developer Insurance Solutions - Nexthub Bari](https://jobr.pro/job/34769523/junior-full-stack-developer-insurance-solutions-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Dec 20 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer](https://jobr.pro/job/34769082/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Dec 20 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Full Stack Developer, 3D Graphics , NBC News](https://jobr.pro/job/34751470/full-stack-developer-3d-graphics-nbc-news?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, NEW YORK, United States | On Site | Dec 19 |
 | **[The DarkStar Group](https://thedarkstargroup.com/)** | **[Full Stack Developer (TS/SCI + Poly)](https://jobr.pro/job/34713518/full-stack-developer-tssci-poly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | McLean, VA | On Site | Dec 19 |
 | **[Deighton Associates](https://www.deighton.com/)** | **[Sr Full Stack Developer](https://jobr.pro/job/34746679/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Whitby, Ontario, Canada | On Site | Dec 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Full Stack Developer](https://jobr.pro/job/34613906/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney - Barangaroo, Australia | Remote | Dec 18 |
 | **[Synechron](https://www.synechron.com/)** | **[Senior Full Stack Developer (Node.js & React)](https://jobr.pro/job/34601564/senior-full-stack-developer-nodejs-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Dec 18 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/34598943/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 18 |
-| **[Air Products](https://www.airproducts.com/)** | **[Solutions Engineer - Full Stack Developer](https://jobr.pro/job/34626559/solutions-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune IN (Office: 5th & 6th floors) (0D03), India | On Site | Dec 18 |
-| **[Scaled Agile Inc](https://scaledagile.com)** | **[Full Stack Developer](https://jobr.pro/job/34573714/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Boulder, CO, United States | Remote | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 126k  
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
