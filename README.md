@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lab42](https://www.lab42.games/)** | **[Full Stack Developer](https://jobr.pro/job/34895457/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 23 |
+| **[Deloitte](https://www.deloitte.com/)** | **[AI-Powered Full Stack Developer](https://jobr.pro/job/34885902/ai-powered-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Dec 23 |
+| **[Seven Peaks](https://sevenpeakssoftware.com/)** | **[Senior Full-Stack Developer (React & Node.js)](https://jobr.pro/job/34892196/senior-full-stack-developer-react-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Thailand | On Site | Dec 23 |
+| **[BigStep Technologies](https://bigsteptech.com/)** | **[Full Stack Developer (Angular & Node.js)](https://jobr.pro/job/34892667/full-stack-developer-angular-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurgaon, India | On Site | Dec 23 |
 | **[AppDirect](https://www.appdirect.com/)** | **[Senior Full Stack Developer (Go/React)](https://jobr.pro/job/34851782/senior-full-stack-developer-goreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Dec 23 |
 | **[AppDirect](https://www.appdirect.com/)** | **[Staff Full Stack Developer (Go/React)](https://jobr.pro/job/34851783/staff-full-stack-developer-goreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Dec 23 |
 | **[Makro PRO](https://www.siammakro.co.th/)** | **[Full Stack Developer (Web & Mobile), Makro PRO](https://jobr.pro/job/34869423/full-stack-developer-web-mobile-makro-pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Bangkok, Thailand | On Site | Dec 23 |
@@ -59,10 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Senior Full Stack Developer, Senior Manager, Visa Implementation Services](https://jobr.pro/job/34665174/senior-full-stack-developer-senior-manager-visa-implementation-services?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wellington, Wellington Region, New Zealand | On Site | Dec 19 |
 | **[RTX](https://www.rtx.com/)** | **[Summer 2026 Intern - Full Stack Developer (Onsite)](https://jobr.pro/job/34727727/summer-2026-intern-full-stack-developer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MA105: BBN Headquarters 10 Moulton Street , Cambridge, MA, 02138 USA, United States | On Site | Dec 19 |
 | **[FCC / FAC](https://www.fcc-fac.ca/)** | **[Full-Stack Developer (Customer Management Solutions)](https://jobr.pro/job/34729269/full-stack-developer-customer-management-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Agriculture Place, Canada | On Site | Dec 19 |
-| **[Allstate](https://www.allstate.com/)** | **[Senior Java Full stack Developer](https://jobr.pro/job/34728515/senior-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ind – Blr Sez 2 (All Other Floors), India | On Site | Dec 19 |
-| **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_React Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/34732711/insenior-associatereact-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad - Salarpuria, India | On Site | Dec 19 |
-| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Senior IT Applications(Java Full Stack Developer)](https://jobr.pro/job/34693383/senior-it-applicationsjava-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
-| **[Barclays](https://home.barclays/)** | **[Full Stack Developer (Java & SQL)](https://jobr.pro/job/34702290/full-stack-developer-java-sql?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 19 |
 
 ---
 
