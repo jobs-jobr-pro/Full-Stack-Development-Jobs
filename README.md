@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AppDirect](https://www.appdirect.com/)** | **[Senior Full Stack Developer (Go/React)](https://jobr.pro/job/34851782/senior-full-stack-developer-goreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Dec 23 |
 | **[AppDirect](https://www.appdirect.com/)** | **[Staff Full Stack Developer (Go/React)](https://jobr.pro/job/34851783/staff-full-stack-developer-goreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Dec 23 |
 | **[Makro PRO](https://www.siammakro.co.th/)** | **[Full Stack Developer (Web & Mobile), Makro PRO](https://jobr.pro/job/34869423/full-stack-developer-web-mobile-makro-pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Bangkok, Thailand | On Site | Dec 23 |
+| **[Equinix](https://www.equinix.com/)** | **[Senior Associate Full-Stack Developer](https://jobr.pro/job/34912764/senior-associate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore Office SGO | On Site | Dec 23 |
 | **[T-Rex Solutions, LLC](https://www.trexsolutionsllc.com/)** | **[Full Stack Developer](https://jobr.pro/job/34849694/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 100% Remote | Remote | Dec 22 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer I (6302)](https://jobr.pro/job/34849455/sr-full-stack-developer-i-6302?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 22 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Full Stack Developer (6301)](https://jobr.pro/job/34849450/full-stack-developer-6301?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 22 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://www.capco.com/)** | **[Full Stack Developer (Angular & Java/Kotlin)](https://jobr.pro/job/34663810/full-stack-developer-angular-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Thailand - Bangkok | On Site | Dec 19 |
 | **[Visa](https://visa.com)** | **[Senior Full Stack Developer, Senior Manager, Visa Implementation Services](https://jobr.pro/job/34665174/senior-full-stack-developer-senior-manager-visa-implementation-services?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wellington, Wellington Region, New Zealand | On Site | Dec 19 |
 | **[RTX](https://www.rtx.com/)** | **[Summer 2026 Intern - Full Stack Developer (Onsite)](https://jobr.pro/job/34727727/summer-2026-intern-full-stack-developer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MA105: BBN Headquarters 10 Moulton Street , Cambridge, MA, 02138 USA, United States | On Site | Dec 19 |
-| **[FCC / FAC](https://www.fcc-fac.ca/)** | **[Full-Stack Developer (Customer Management Solutions)](https://jobr.pro/job/34729269/full-stack-developer-customer-management-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Agriculture Place, Canada | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 41 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 18% remote | 41 companies | Avg salary: 188k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
