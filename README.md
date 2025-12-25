@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,6 +20,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Black Canyon Consulting](https://www.bccdc.net/)** | **[Full-Stack Developer (DailyMed)](https://jobr.pro/job/34988641/full-stack-developer-dailymed?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bethesda, Maryland | On Site | Dec 24 |
 | **[Cyberark](https://www.cyberark.com)** | **[Senior Full stack developer on AWS Infra](https://jobr.pro/job/34993810/senior-full-stack-developer-on-aws-infra?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Petah Tikva, Central District, Israel | On Site | Dec 24 |
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/34985104/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | On Site | Dec 24 |
+| **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Full Stack Developer)](https://jobr.pro/job/35000643/senior-quality-cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | София, Bulgaria | On Site | Dec 24 |
+| **[NearSource Technologies](https://nearsource.ca/)** | **[Senior Full-Stack Developer – Node/React](https://jobr.pro/job/35000545/senior-full-stack-developer-nodereact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, ON, Canada | Remote | Dec 24 |
 | **[Boeing](https://www.boeing.com/)** | **[Experienced Programmer Analyst / .NET Full Stack Developer](https://jobr.pro/job/34966584/experienced-programmer-analyst-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Dec 24 |
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Full Stack Developer (Vue.js & Node.js)](https://jobr.pro/job/34959552/full-stack-developer-vuejs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 24 |
 | **[NTT DATA](https://nttdata.com)** | **[Core Java/Full Stack developer -Battery Core Management (BCM)](https://jobr.pro/job/34993510/core-javafull-stack-developer-battery-core-management-bcm?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Dec 24 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tomax Think Academy](https://tomax.io)** | **[Senior Full Stack Developer](https://jobr.pro/job/34807636/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kfar Monash, Center District, Israel | On Site | Dec 21 |
 | **[Northstrat](https://northstrat.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34806570/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sterling, Virginia, United States | On Site | Dec 21 |
 | **[Master-Works](https://master-works.sa)** | **[Junior Full-Stack Developer](https://jobr.pro/job/34816290/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, Telangana, India | On Site | Dec 21 |
-| **[ResponsiveAds](https://responsiveads.com/)** | **[ResponsiveAds Senior Full-Stack Developer](https://jobr.pro/job/34809256/responsiveads-senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, British Columbia, Canada | Remote | Dec 21 |
-| **[Claritev](https://www.multiplan.us/)** | **[Sr. Net Full Stack Developer (Remote)](https://jobr.pro/job/34781462/sr-net-full-stack-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Work From Home, United States | Remote | Dec 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 205k  
+**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 212k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
