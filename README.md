@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nixxis Vietnam](https://bigin.vn/)** | **[Full-stack Developer (Middle)](https://jobr.pro/job/35020985/full-stack-developer-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Dec 26 |
 | **[Allianz](https://www.allianz.com/)** | **[Expert Full Stack Developer](https://jobr.pro/job/35018015/expert-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Bangkok, TH, 10310 | On Site | Dec 26 |
 | **[Allianz](https://www.allianz.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35018017/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Bangkok, TH, 10310 | On Site | Dec 26 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Java Full stack Developer – Assistant Vice President](https://jobr.pro/job/35033018/senior-java-full-stack-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Dec 26 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/35016883/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Dec 25 |
 | **[Harmonia](https://www.harmonia.com/)** | **[Mid-Level Full Stack Developer](https://jobr.pro/job/34985600/mid-level-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Dec 24 |
 | **[M9 Solutions](https://m9solutions.com/)** | **[Full Stack Developer](https://jobr.pro/job/34987092/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Dec 24 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Senior Full Stack Developer (Devops, Leipzig)](https://jobr.pro/job/34808487/senior-full-stack-developer-devops-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Leipzig | On Site | Dec 22 |
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer](https://jobr.pro/job/34826892/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 22 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer (Java, React, Angular)](https://jobr.pro/job/34826770/full-stack-developer-java-react-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 22 |
-| **[Yash Technologies](https://www.yash.com)** | **[Sr. Software Engineer - .NET Full Stack Developer Job](https://jobr.pro/job/34805128/sr-software-engineer-net-full-stack-developer-job?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, IN | On Site | Dec 22 |
 
 ---
 
