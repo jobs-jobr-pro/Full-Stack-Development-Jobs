@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -17,7 +17,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35043073/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | ARNHEM, Netherlands | On Site | Dec 27 |
 | **[Paradox](https://www.paradox.io/)** | **[Full Stack Developer - EdTech](https://jobr.pro/job/35036921/full-stack-developer-edtech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote Dubai | Remote | Dec 26 |
 | **[Paradox](https://www.paradox.io/)** | **[Senior Full Stack Developer - EdTech](https://jobr.pro/job/35036920/senior-full-stack-developer-edtech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote Dubai | Remote | Dec 26 |
+| **[EXL](https://www.exlservice.com/)** | **[Assistant Manager-Application Development-Full Stack Developer](https://jobr.pro/job/35044404/assistant-manager-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 26 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6249)](https://jobr.pro/job/35033488/sr-full-stack-developer-iii-6249?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid - Local to D.C. metro area | Remote | Dec 26 |
+| **[WIRE IT](https://wireit.pt/)** | **[Full-Stack Developer](https://jobr.pro/job/35044644/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lisbon, Portugal | On Site | Dec 26 |
 | **[Cognizone](https://www.cogni.zone/)** | **[Full-Stack Developer (Java & Angular)](https://jobr.pro/job/35044030/full-stack-developer-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Athina, Greece | On Site | Dec 26 |
 | **[Verisk](https://www.verisk.com/)** | **[Full Stack Developer (.Net/Angular)](https://jobr.pro/job/35021622/full-stack-developer-netangular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kathmandu, Nepal | On Site | Dec 26 |
 | **[Nixxis Vietnam](https://bigin.vn/)** | **[Full-stack Developer (Middle)](https://jobr.pro/job/35020985/full-stack-developer-middle?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Dec 26 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[T-Rex Solutions, LLC](https://www.trexsolutionsllc.com/)** | **[Full Stack Developer](https://jobr.pro/job/34849694/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 100% Remote | Remote | Dec 22 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer I (6302)](https://jobr.pro/job/34849455/sr-full-stack-developer-i-6302?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 22 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Full Stack Developer (6301)](https://jobr.pro/job/34849450/full-stack-developer-6301?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 22 |
-| **[MetroStar](https://www.metrostar.com/)** | **[Associate Full Stack Developer (6300)](https://jobr.pro/job/34849448/associate-full-stack-developer-6300?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Dec 22 |
-| **[ADGA Group Consultants Inc](https://www.adga.ca)** | **[Full Stack Developer - Biometric Systems](https://jobr.pro/job/34861302/full-stack-developer-biometric-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, Canada | On Site | Dec 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 206k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
