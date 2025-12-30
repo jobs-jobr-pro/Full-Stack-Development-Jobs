@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/35125941/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Dec 30 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[LEAD Full-Stack Developer](https://jobr.pro/job/35105828/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Dec 29 |
+| **[Sofka](https://www.sofka.com.co)** | **[Full Stack Developer ( .NET & Angular)](https://jobr.pro/job/35134211/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia, Colombia | On Site | Dec 29 |
 | **[WNS Global Services](https://www.wns.com)** | **[REF62362B - Full Stack Developer (React/Angular + Node.JS) - 4–8 years Exp](https://jobr.pro/job/35112038/ref62362b-full-stack-developer-reactangular-nodejs-48-years-exp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Dec 29 |
 | **[Dijital Team Pty Ltd](https://www.dijitalteam.com)** | **[Full Stack Developer (React/Node)](https://jobr.pro/job/35059381/full-stack-developer-reactnode?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombo | On Site | Dec 29 |
 | **[epay, a Euronet Worldwide Company](https://www.epayworldwide.com)** | **[Java Full Stack Developer (m/f/d)](https://jobr.pro/job/35072763/java-full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Martinsried, Bayern, Germany | On Site | Dec 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PSI CRO](https://www.psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/34985104/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | On Site | Dec 24 |
 | **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Full Stack Developer)](https://jobr.pro/job/35000643/senior-quality-cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | София, Bulgaria | On Site | Dec 24 |
 | **[NearSource Technologies](https://nearsource.ca/)** | **[Senior Full-Stack Developer – Node/React](https://jobr.pro/job/35000545/senior-full-stack-developer-nodereact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, ON, Canada | Remote | Dec 24 |
-| **[Boeing](https://www.boeing.com/)** | **[Experienced Programmer Analyst / .NET Full Stack Developer](https://jobr.pro/job/34966584/experienced-programmer-analyst-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Bangalore, India | On Site | Dec 24 |
 
 ---
 
