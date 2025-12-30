@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,12 +19,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IRIUM](https://www.irium.es/)** | **[FULL STACK DEVELOPER .NET (HÍBRIDO MADRID)](https://jobr.pro/job/35075295/full-stack-developer-net-hibrido-madrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, Madrid | On Site | Dec 29 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full stack Developer](https://jobr.pro/job/35077308/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Dec 29 |
 | **[Chevron](https://www.chevron.com/)** | **[Software Engineer – Full Stack Developer](https://jobr.pro/job/35097787/software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City Chevron 6750 Office, Philippines | On Site | Dec 29 |
+| **[GlobalFoundries](https://gf.com/)** | **[Java Full Stack Developer (Angular+ Spring boot)](https://jobr.pro/job/35099741/java-full-stack-developer-angular-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Karnataka - BANGALORE, India | On Site | Dec 29 |
 | **[Lytegen](https://lytegen.com)** | **[Senior Full Stack Developer (React/Node)](https://jobr.pro/job/35067780/senior-full-stack-developer-reactnode?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
 | **[Lytegen](https://lytegen.com)** | **[Full Stack Developer (MERN)](https://jobr.pro/job/35067757/full-stack-developer-mern?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
 | **[Lytegen](https://lytegen.com)** | **[Full Stack Developer (Node js & React js)](https://jobr.pro/job/35067758/full-stack-developer-node-js-react-js?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/35088097/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 29 |
 | **[OneMagnify](https://www.onemagnify.com/)** | **[Full Stack Developer / Senior Software Engineer](https://jobr.pro/job/35089773/full-stack-developer-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Dec 29 |
-| **[GlobalFoundries](https://gf.com/)** | **[Java Full Stack Developer (Angular+ Spring boot)](https://jobr.pro/job/35099741/java-full-stack-developer-angular-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IND - Karnataka - BANGALORE, India | On Site | Dec 29 |
 | **[Zensar](https://www.zensar.com/)** | **[Dot Net Full Stack Developer](https://jobr.pro/job/35074939/dot-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 28 |
 | **[Crimson Education](https://www.crimsoneducation.org)** | **[Intermediate Full Stack Developer](https://jobr.pro/job/35074221/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | China, China | On Site | Dec 28 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Full Stack Developer](https://jobr.pro/job/35066660/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 28 |
