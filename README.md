@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Canadian Bank Note Company](https://cbnco.com/)** | **[Full Stack Developer - Product Development Group](https://jobr.pro/job/35222704/full-stack-developer-product-development-group?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, ON, Canada | On Site | Dec 31 |
 | **[Atera](https://www.atera.com/)** | **[Full Stack Developer](https://jobr.pro/job/35200998/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
+| **[Catawiki](https://www.catawiki.com/)** | **[Full-stack Developer](https://jobr.pro/job/35221491/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam, Netherlands | Remote | Dec 31 |
+| **[Nimble](https://nimblehq.co/)** | **[Senior Full Stack Developer (Ruby/NodeJS/Go/PHP/Python) (Da Nang, Hybrid) (Visa and Relocation Package Provided for Expats)](https://jobr.pro/job/35215172/senior-full-stack-developer-rubynodejsgophppython-da-nang-hybrid-visa-and-relocation-package-provided-for-expats?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Đà Nẵng, Vietnam | On Site | Dec 31 |
+| **[Threenitas](https://www.threenitas.com)** | **[Full-Stack Developer Trainee (Internship)](https://jobr.pro/job/35223125/full-stack-developer-trainee-internship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Athens, Attica, Greece | On Site | Dec 31 |
 | **[Egen](https://egen.ai/)** | **[Full Stack Developer ( Next.JS with Node JS)](https://jobr.pro/job/35166091/full-stack-developer-nextjs-with-node-js?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad | On Site | Dec 31 |
+| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/35215480/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Dec 31 |
 | **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/35196078/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Dec 31 |
-| **[Canadian Bank Note Company](https://cbnco.com/)** | **[Full Stack Developer - Product Development Group](https://jobr.pro/job/35169953/full-stack-developer-product-development-group?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, ON, Canada | On Site | Dec 30 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[.Net Full Stack Developer (Senior)](https://jobr.pro/job/35175427/net-full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Dec 30 |
 | **[Paradox](https://www.paradox.io/)** | **[Full Stack Developer JS - EdTech](https://jobr.pro/job/35168728/full-stack-developer-js-edtech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote Dubai | Remote | Dec 30 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/35125941/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Dec 30 |
@@ -38,7 +42,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[Dot Net Full Stack Developer](https://jobr.pro/job/35074939/dot-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 28 |
 | **[Crimson Education](https://www.crimsoneducation.org)** | **[Intermediate Full Stack Developer](https://jobr.pro/job/35074221/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | China, China | On Site | Dec 28 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Full Stack Developer](https://jobr.pro/job/35066660/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 28 |
-| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/35061527/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Dec 28 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Offensive Cyber Full Stack Developer III](https://jobr.pro/job/35082530/offensive-cyber-full-stack-developer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA MD Annapolis Junction - 2721 Technology Dr (MDS071), United States | On Site | Dec 28 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35082514/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA NC Fort Bragg - 2744 Malvesti St (NCC075), United States | On Site | Dec 28 |
 | **[MicroVentures](https://microventures.com/)** | **[Senior Full Stack Developer / Tech Lead](https://jobr.pro/job/35062895/senior-full-stack-developer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Texas | On Site | Dec 27 |
@@ -62,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 11% remote | 35 companies | Avg salary: 245k  
+**Current Stats:** 49 jobs | 12% remote | 38 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
