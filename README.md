@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Full stack developer Jobs 2025
+# Full stack developer Jobs 2026
 
-<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
 
-This repository collects curated **Full stack developer opportunities in 2025**.  
+This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs) — **you choose the job, we handle the paperwork**.  
@@ -59,14 +59,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Allianz](https://www.allianz.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35018017/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangkok, Bangkok, TH, 10310 | On Site | Dec 26 |
 | **[Telefónica](https://www.telefonica.com/)** | **[Tech_Junior Full Stack Developer](https://jobr.pro/job/35035832/techjunior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | MADRID, ES | On Site | Dec 26 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Full stack Developer – Assistant Vice President](https://jobr.pro/job/35033018/senior-java-full-stack-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Dec 26 |
-| **[Harmonia](https://www.harmonia.com/)** | **[Mid-Level Full Stack Developer](https://jobr.pro/job/34985600/mid-level-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | Dec 24 |
-| **[M9 Solutions](https://m9solutions.com/)** | **[Full Stack Developer](https://jobr.pro/job/34987092/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ashburn, VA | On Site | Dec 24 |
-| **[Black Canyon Consulting](https://www.bccdc.net/)** | **[Full-Stack Developer (Java/Typescript and FHIR) (VSAC)](https://jobr.pro/job/34988642/full-stack-developer-javatypescript-and-fhir-vsac?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bethesda, Maryland | On Site | Dec 24 |
-| **[Black Canyon Consulting](https://www.bccdc.net/)** | **[Full-Stack Developer (RxNorm)](https://jobr.pro/job/34988643/full-stack-developer-rxnorm?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bethesda, Maryland | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 235k  
+**Current Stats:** 46 jobs | 11% remote | 35 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
