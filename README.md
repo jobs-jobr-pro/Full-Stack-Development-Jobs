@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 03, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Application Development-Full Stack Developer](https://jobr.pro/job/35293310/associate-business-analyst-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Jan 03 |
+| **[Beyond Cloud Consulting Inc.](https://beyondcloudconsulting.com)** | **[Full Stack Developer](https://jobr.pro/job/35273153/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jan 02 |
+| **[Appnovation Technologies](https://www.appnovation.com/)** | **[Senior Full Stack Developer (Builder.io / React) - Two Months Contract](https://jobr.pro/job/35274442/senior-full-stack-developer-builderio-react-two-months-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Jose | On Site | Jan 02 |
+| **[McFadyen Digital](https://mcfadyen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/35274996/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Florianópolis, SC, Brazil | Remote | Jan 02 |
 | **[Loihde](https://www.loihde.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/35262851/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Helsinki; Oulu; Lappeenranta | On Site | Jan 02 |
+| **[Deutsche Telekom IT Solutions Slovakia](https://www.deutschetelekomitsolutions.sk/)** | **[Senior Full-stack Developer with focus on Frontend](https://jobr.pro/job/35279570/senior-full-stack-developer-with-focus-on-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Košice, Košice Region, Slovakia (Slovak Republic) | On Site | Jan 02 |
+| **[MMDSmart Ltd](https://www.mmdsmart.com)** | **[Senior Full Stack Developer (Go/React)](https://jobr.pro/job/35287669/senior-full-stack-developer-goreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bulgaria - Remote | Remote | Jan 02 |
+| **[Clarapath](https://www.clarapath.com/)** | **[Lead Full Stack Developer](https://jobr.pro/job/35285532/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hawthorne, NY | On Site | Jan 02 |
 | **[Selah Digital](https://selah.net)** | **[Lead Software Engineer (Full-Stack Developer)](https://jobr.pro/job/35259943/lead-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Jan 02 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Full Stack Developer - Associate- Software Engineering](https://jobr.pro/job/35257216/full-stack-developer-associate-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Jan 02 |
 | **[Photon Brothers](https://www.photonbrothers.com/)** | **[Full Stack Developer](https://jobr.pro/job/35230237/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Centennial, CO, US | On Site | Jan 01 |
@@ -57,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 7% remote | 33 companies | Avg salary: 233k  
+**Current Stats:** 48 jobs | 13% remote | 40 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
