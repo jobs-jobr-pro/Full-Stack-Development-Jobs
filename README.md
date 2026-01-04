@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Senior Full Stack Developer - SBS Team](https://jobr.pro/job/35301502/senior-full-stack-developer-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Jan 03 |
 | **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Application Development-Full Stack Developer](https://jobr.pro/job/35293310/associate-business-analyst-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Jan 03 |
 | **[Beyond Cloud Consulting Inc.](https://beyondcloudconsulting.com)** | **[Full Stack Developer](https://jobr.pro/job/35273153/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jan 02 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Senior Full Stack Developer (Builder.io / React) - Two Months Contract](https://jobr.pro/job/35274442/senior-full-stack-developer-builderio-react-two-months-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Jose | On Site | Jan 02 |
@@ -56,15 +57,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Full Stack Developer](https://jobr.pro/job/35066660/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 28 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Offensive Cyber Full Stack Developer III](https://jobr.pro/job/35082530/offensive-cyber-full-stack-developer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA MD Annapolis Junction - 2721 Technology Dr (MDS071), United States | On Site | Dec 28 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35082514/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA NC Fort Bragg - 2744 Malvesti St (NCC075), United States | On Site | Dec 28 |
-| **[MicroVentures](https://microventures.com/)** | **[Senior Full Stack Developer / Tech Lead](https://jobr.pro/job/35062895/senior-full-stack-developer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Texas | On Site | Dec 27 |
-| **[MicroVentures](https://microventures.com/)** | **[Senior Full Stack Developer (Laravel + Vue.js)](https://jobr.pro/job/35062894/senior-full-stack-developer-laravel-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Texas | On Site | Dec 27 |
-| **[MicroVentures](https://microventures.com/)** | **[Full Stack Developer (Laravel + Vue.js)](https://jobr.pro/job/35062893/full-stack-developer-laravel-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Texas | On Site | Dec 27 |
-| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Full Stack Developer](https://jobr.pro/job/35043072/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arnhem, Koningstraat 28-1, Netherlands | On Site | Dec 27 |
-| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35043073/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | ARNHEM, Netherlands | On Site | Dec 27 |
 
 ---
 
-**Current Stats:** 48 jobs | 13% remote | 40 companies | Avg salary: 211k  
+**Current Stats:** 44 jobs | 14% remote | 39 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
