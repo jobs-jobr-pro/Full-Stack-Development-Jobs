@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -52,15 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lytegen](https://lytegen.com)** | **[Full Stack Developer (Node js & React js)](https://jobr.pro/job/35067758/full-stack-developer-node-js-react-js?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/35088097/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 29 |
 | **[OneMagnify](https://www.onemagnify.com/)** | **[Full Stack Developer / Senior Software Engineer](https://jobr.pro/job/35089773/full-stack-developer-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Dec 29 |
-| **[Zensar](https://www.zensar.com/)** | **[Dot Net Full Stack Developer](https://jobr.pro/job/35074939/dot-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Dec 28 |
-| **[Crimson Education](https://www.crimsoneducation.org)** | **[Intermediate Full Stack Developer](https://jobr.pro/job/35074221/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | China, China | On Site | Dec 28 |
-| **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Full Stack Developer](https://jobr.pro/job/35066660/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 28 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Offensive Cyber Full Stack Developer III](https://jobr.pro/job/35082530/offensive-cyber-full-stack-developer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA MD Annapolis Junction - 2721 Technology Dr (MDS071), United States | On Site | Dec 28 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35082514/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA NC Fort Bragg - 2744 Malvesti St (NCC075), United States | On Site | Dec 28 |
 
 ---
 
-**Current Stats:** 44 jobs | 14% remote | 39 companies | Avg salary: 223k  
+**Current Stats:** 39 jobs | 15% remote | 35 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
