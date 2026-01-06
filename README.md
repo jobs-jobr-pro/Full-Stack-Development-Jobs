@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 06, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 06, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Full Stack Developer](https://jobr.pro/job/35353778/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington, VA, United States | On Site | Jan 05 |
+| **[TechMagic](https://www.techmagic.co)** | **[Senior/Team Lead Full Stack developer (Toronto, hybrid)](https://jobr.pro/job/35351624/seniorteam-lead-full-stack-developer-toronto-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, hybrid, Canada (Hybrid) | Remote | Jan 05 |
+| **[Team8](https://team8.vc/)** | **[Team8- Cyber Stealth Mode Startup Full Stack Developer](https://jobr.pro/job/35345019/team8-cyber-stealth-mode-startup-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 05 |
+| **[Bagira Systems](https://www.bagirasys.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35345398/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Modi'in, Center District, IL | On Site | Jan 05 |
+| **[Encora](https://www.encora.com/)** | **[Senior Executive – Full Stack Developer](https://jobr.pro/job/35320053/senior-executive-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur | On Site | Jan 05 |
+| **[Synechron](https://www.synechron.com/)** | **[Full Stack Developer (Java & React)](https://jobr.pro/job/35360986/full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Jan 05 |
+| **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer/Product Lead](https://jobr.pro/job/35358283/senior-full-stack-developerproduct-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Building 300-115 South Jefferson Rd Campus, Whippany, United States | On Site | Jan 05 |
+| **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/35336156/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, NOB Bulding, India | On Site | Jan 05 |
+| **[Barclays](https://home.barclays/)** | **[Full Stack Developer](https://jobr.pro/job/35358318/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Jan 05 |
+| **[Macquarie University](https://www.mq.edu.au/)** | **[Full Stack Developer](https://jobr.pro/job/35328225/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wallumattagal Campus, North Ryde, Australia | On Site | Jan 05 |
+| **[Alberta Energy Regulator](https://www.aer.ca/)** | **[Student, Full Stack Developer](https://jobr.pro/job/35327699/student-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Calgary Head Office, Canada | On Site | Jan 05 |
+| **[Sandfield](https://www.sandfield.co.nz)** | **[Full Stack Developer - React focus - Intermediate](https://jobr.pro/job/35325120/full-stack-developer-react-focus-intermediate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Auckland, Auckland, New Zealand | On Site | Jan 05 |
 | **[ADP](https://www.adp.com/)** | **[Senior Full Stack Developer - SBS Team](https://jobr.pro/job/35301502/senior-full-stack-developer-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Jan 03 |
 | **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Application Development-Full Stack Developer](https://jobr.pro/job/35293310/associate-business-analyst-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Jan 03 |
 | **[Beyond Cloud Consulting Inc.](https://beyondcloudconsulting.com)** | **[Full Stack Developer](https://jobr.pro/job/35273153/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jan 02 |
@@ -41,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 25 jobs | 24% remote | 24 companies | Avg salary: 233k  
+**Current Stats:** 37 jobs | 19% remote | 35 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
