@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 07, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 08, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -51,19 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Selah Digital](https://selah.net)** | **[Lead Software Engineer (Full-Stack Developer)](https://jobr.pro/job/35259943/lead-software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, KA, IN | On Site | Jan 02 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Full Stack Developer - Associate- Software Engineering](https://jobr.pro/job/35257216/full-stack-developer-associate-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Jan 02 |
 | **[Photon Brothers](https://www.photonbrothers.com/)** | **[Full Stack Developer](https://jobr.pro/job/35230237/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Centennial, CO, US | On Site | Jan 01 |
-| **[Canadian Bank Note Company](https://cbnco.com/)** | **[Full Stack Developer - Product Development Group](https://jobr.pro/job/35222704/full-stack-developer-product-development-group?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ottawa, ON, Canada | On Site | Dec 31 |
-| **[Atera](https://www.atera.com/)** | **[Full Stack Developer](https://jobr.pro/job/35200998/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
-| **[Catawiki](https://www.catawiki.com/)** | **[Full-stack Developer](https://jobr.pro/job/35221491/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam, Netherlands | Remote | Dec 31 |
-| **[Nimble](https://nimblehq.co/)** | **[Senior Full Stack Developer (Ruby/NodeJS/Go/PHP/Python) (Da Nang, Hybrid) (Visa and Relocation Package Provided for Expats)](https://jobr.pro/job/35215172/senior-full-stack-developer-rubynodejsgophppython-da-nang-hybrid-visa-and-relocation-package-provided-for-expats?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Da Nang, Đà Nẵng, Vietnam | On Site | Dec 31 |
-| **[Threenitas](https://www.threenitas.com)** | **[Full-Stack Developer Trainee (Internship)](https://jobr.pro/job/35223125/full-stack-developer-trainee-internship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Athens, Attica, Greece | On Site | Dec 31 |
-| **[Egen](https://egen.ai/)** | **[Full Stack Developer ( Next.JS with Node JS)](https://jobr.pro/job/35166091/full-stack-developer-nextjs-with-node-js?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad | On Site | Dec 31 |
-| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/35215480/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Dec 31 |
-| **[UBS](https://www.ubs.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/35196078/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, India | On Site | Dec 31 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[DevOps Full Stack Developer](https://jobr.pro/job/35227178/devops-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA, VA, Dahlgren (17320 Dahlgren Rd), United States | On Site | Dec 31 |
 
 ---
 
-**Current Stats:** 47 jobs | 15% remote | 44 companies | Avg salary: 239k  
+**Current Stats:** 38 jobs | 13% remote | 35 companies | Avg salary: 143k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
