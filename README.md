@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 09, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 10, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -61,12 +61,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer/Product Lead](https://jobr.pro/job/35358283/senior-full-stack-developerproduct-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Building 300-115 South Jefferson Rd Campus, Whippany, United States | On Site | Jan 05 |
 | **[ADP](https://www.adp.com/)** | **[Senior Full Stack Developer - SBS Team](https://jobr.pro/job/35301502/senior-full-stack-developer-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Jan 03 |
 | **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Application Development-Full Stack Developer](https://jobr.pro/job/35293310/associate-business-analyst-application-development-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Noida, Uttar Pradesh, India | On Site | Jan 03 |
-| **[Beyond Cloud Consulting Inc.](https://beyondcloudconsulting.com)** | **[Full Stack Developer](https://jobr.pro/job/35273153/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jan 02 |
-| **[Appnovation Technologies](https://www.appnovation.com/)** | **[Senior Full Stack Developer (Builder.io / React) - Two Months Contract](https://jobr.pro/job/35274442/senior-full-stack-developer-builderio-react-two-months-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Jose | On Site | Jan 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 176k  
+**Current Stats:** 48 jobs | 15% remote | 42 companies | Avg salary: 176k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
