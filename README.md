@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 11, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 11, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,12 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deloitte](https://www.deloitte.com/)** | **[Junior – Full Stack Developer – NextHub Bari](https://jobr.pro/job/35787177/junior-full-stack-developer-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Jan 10 |
+| **[KBC Global Services](https://www.kbc.com/)** | **[Full-Stack Developer (Backend and DevOps Focus)](https://jobr.pro/job/35750912/full-stack-developer-backend-and-devops-focus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brno, CZ | On Site | Jan 10 |
 | **[DTCC](https://www.dtcc.com/)** | **[Software Engineer - Java Full Stack Developer](https://jobr.pro/job/35710557/software-engineer-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Jan 09 |
 | **[ALZURA AG](https://www.alzura.com/)** | **[Full Stack Developer PHP (m/w/d)](https://jobr.pro/job/35676102/full-stack-developer-php-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hauptsitz Kaiserslautern, Büro München, Büro Berlin , Büro Frankfurt, Remote | Remote | Jan 09 |
 | **[Capco](https://www.capco.com/)** | **[Mid Data Analytics - Python Full Stack Developer](https://jobr.pro/job/35667650/mid-data-analytics-python-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India - Bengaluru | On Site | Jan 09 |
 | **[AppDirect](https://www.appdirect.com/)** | **[Full Stack Developer (Java/React)](https://jobr.pro/job/35656477/full-stack-developer-javareact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Argentina | On Site | Jan 09 |
-| **[Fincons Group](https://www.finconsgroup.com)** | **[Full Stack Developer (.Net + Angular)](https://jobr.pro/job/35694469/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Jan 09 |
-| **[Creatunity LLC](https://www.creatunity.com)** | **[Senior Full-Stack Developer (AI-Assisted Development) - Remote](https://jobr.pro/job/35686190/senior-full-stack-developer-ai-assisted-development-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Masovian Voivodeship, Poland - Remote | Remote | Jan 09 |
 | **[Fractal](https://fractal.ai/)** | **[Full Stack Developer Role (Java + React)](https://jobr.pro/job/35716649/full-stack-developer-role-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, India | On Site | Jan 09 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Full-Stack Developer](https://jobr.pro/job/35642434/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | PK - ISLAMABAD 101 W AL KHAIR PLAZA, Pakistan | On Site | Jan 09 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_Python Full Stack Developer _Data & Analytics _Advisory _PAN India](https://jobr.pro/job/35701796/insenior-associatepython-full-stack-developer-data-analytics-advisory-pan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru Millenia, India | On Site | Jan 09 |
@@ -26,6 +26,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Java Full stack Developer](https://jobr.pro/job/35717905/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Jan 09 |
 | **[Barclays](https://home.barclays/)** | **[Full Stack Developer (Java, React, Angular)](https://jobr.pro/job/35717900/full-stack-developer-java-react-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Jan 09 |
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Full Stack Developer](https://jobr.pro/job/35697849/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 09 |
+| **[Fincons Group](https://www.finconsgroup.com)** | **[Full Stack Developer (.Net + Angular)](https://jobr.pro/job/35694469/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Jan 09 |
+| **[Creatunity LLC](https://www.creatunity.com)** | **[Senior Full-Stack Developer (AI-Assisted Development) - Remote](https://jobr.pro/job/35686190/senior-full-stack-developer-ai-assisted-development-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Masovian Voivodeship, Poland - Remote | Remote | Jan 09 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Full Stack Developer III (6249)](https://jobr.pro/job/35674370/sr-full-stack-developer-iii-6249?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hybrid - Local to D.C. metro area | Remote | Jan 08 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[C# Full Stack Developer](https://jobr.pro/job/35657473/c-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Clarksburg, WV | On Site | Jan 08 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Full Stack Developer](https://jobr.pro/job/35657481/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chantilly, VA | On Site | Jan 08 |
@@ -62,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 15% remote | 40 companies | Avg salary: 176k  
+**Current Stats:** 48 jobs | 15% remote | 42 companies | Avg salary: 176k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
