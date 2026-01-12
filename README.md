@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 12, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deloitte](https://www.deloitte.com)** | **[Full-Stack Developer – Manager](https://jobr.pro/job/35821989/full-stack-developer-manager?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lagos, LA, Nigeria | On Site | Jan 12 |
+| **[Lytegen](https://lytegen.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/35825114/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chandigarh, Chandigarh, India | On Site | Jan 12 |
+| **[ProGineer Technologies](https://www.progineer.net/)** | **[Service-Oriented Full-Stack Developer & IT Support \| P_PGR_007](https://jobr.pro/job/35822853/service-oriented-full-stack-developer-it-support-ppgr007?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ramallah, Palestine | On Site | Jan 11 |
+| **[Cato Networks](https://www.catonetworks.com/)** | **[Full-Stack Developer](https://jobr.pro/job/35821397/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | On Site | Jan 11 |
+| **[Contractify](https://contractify.io)** | **[Senior Full-stack developer (PHP, JavaScript)](https://jobr.pro/job/35825426/senior-full-stack-developer-php-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Evergem, Belgium | On Site | Jan 11 |
+| **[Questronix Corporation](https://questronix.com.ph/)** | **[Full Stack Developer](https://jobr.pro/job/35824173/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pasig, Metro Manila, Philippines | On Site | Jan 11 |
+| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/35816727/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Jan 11 |
+| **[Jumpfactor](https://www.jumpfactor.net/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35816377/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Jan 11 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior – Full Stack Developer – NextHub Bari](https://jobr.pro/job/35787177/junior-full-stack-developer-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Jan 10 |
 | **[KBC Global Services](https://www.kbc.com/)** | **[Full-Stack Developer (Backend and DevOps Focus)](https://jobr.pro/job/35750912/full-stack-developer-backend-and-devops-focus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brno, CZ | On Site | Jan 10 |
 | **[DTCC](https://www.dtcc.com/)** | **[Software Engineer - Java Full Stack Developer](https://jobr.pro/job/35710557/software-engineer-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, India | On Site | Jan 09 |
@@ -55,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Team8](https://team8.vc/)** | **[Team8- Cyber Stealth Mode Startup Full Stack Developer](https://jobr.pro/job/35345019/team8-cyber-stealth-mode-startup-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 05 |
 | **[Bagira Systems](https://www.bagirasys.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35345398/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Modi'in, Center District, IL | On Site | Jan 05 |
 | **[Encora](https://www.encora.com/)** | **[Senior Executive – Full Stack Developer](https://jobr.pro/job/35320053/senior-executive-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur | On Site | Jan 05 |
-| **[Synechron](https://www.synechron.com/)** | **[Full Stack Developer (Java & React)](https://jobr.pro/job/35360986/full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Jan 05 |
-| **[Alberta Energy Regulator](https://www.aer.ca/)** | **[Student, Full Stack Developer](https://jobr.pro/job/35327699/student-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Calgary Head Office, Canada | On Site | Jan 05 |
-| **[Sandfield](https://www.sandfield.co.nz)** | **[Full Stack Developer - React focus - Intermediate](https://jobr.pro/job/35325120/full-stack-developer-react-focus-intermediate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Auckland, Auckland, New Zealand | On Site | Jan 05 |
-| **[Macquarie University](https://www.mq.edu.au/)** | **[Full Stack Developer](https://jobr.pro/job/35328225/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Wallumattagal Campus, North Ryde, Australia | On Site | Jan 05 |
-| **[Apex Group](https://www.apexgroup.com/)** | **[Full Stack Developer](https://jobr.pro/job/35336156/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, NOB Bulding, India | On Site | Jan 05 |
-| **[Barclays](https://home.barclays/)** | **[Senior Full Stack Developer/Product Lead](https://jobr.pro/job/35358283/senior-full-stack-developerproduct-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Building 300-115 South Jefferson Rd Campus, Whippany, United States | On Site | Jan 05 |
 
 ---
 
-**Current Stats:** 48 jobs | 15% remote | 42 companies | Avg salary: 176k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 267k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
