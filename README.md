@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 13, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -58,15 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Altamira](https://altamira.ai/)** | **[Full-Stack Developer (Node.js + React)](https://jobr.pro/job/35672433/full-stack-developer-nodejs-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Europe | Remote | Jan 08 |
 | **[NewGen Technologies Inc.](https://newgentechnologies.com/)** | **[Full Stack Developer](https://jobr.pro/job/35630751/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dulles, VA (hybrid) | Remote | Jan 08 |
 | **[Visa](https://visa.com)** | **[Sr SW Engineer - Full Stack Developer React, .NET, Python](https://jobr.pro/job/35649445/sr-sw-engineer-full-stack-developer-react-net-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, TX, United States | On Site | Jan 08 |
-| **[CommBox](https://www.commbox.io/)** | **[Senior Full Stack Developer](https://jobr.pro/job/35433815/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Glil Yam, Central District, IL | On Site | Jan 06 |
-| **[Bosch Group](https://www.bosch.com)** | **[Java Full Stack Developer - Azure](https://jobr.pro/job/35419178/java-full-stack-developer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | telengana, India | On Site | Jan 06 |
-| **[WTW](https://www.wtwco.com/)** | **[Azure Full Stack Developer](https://jobr.pro/job/35416992/azure-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, Maharashtra, India | On Site | Jan 06 |
-| **[Oracle](https://www.oracle.com/)** | **[Full Stack Developer-Java](https://jobr.pro/job/35430395/full-stack-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Jan 06 |
-| **[Leidos](https://www.leidos.com/)** | **[Combat Coder - Journeyman Full Stack Developer](https://jobr.pro/job/35454260/combat-coder-journeyman-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 3211 Langley AFB VA, United States | On Site | Jan 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 267k  
+**Current Stats:** 45 jobs | 16% remote | 40 companies | Avg salary: 289k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
