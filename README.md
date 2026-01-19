@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Full Stack Developer - Visa Spend Clarity](https://jobr.pro/job/36295653/full-stack-developer-visa-spend-clarity?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Auckland, NEW ZEALAND, New Zealand | On Site | Jan 19 |
 | **[Embrace Software Inc](https://www.embracesoftwareinc.com/)** | **[.NET Full Stack Developer](https://jobr.pro/job/36269502/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Jan 17 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior - Full Stack Developer Insurance Solutions - Nexthub Bari](https://jobr.pro/job/36268996/junior-full-stack-developer-insurance-solutions-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bari | On Site | Jan 17 |
 | **[Ørsted](https://www.orsted.com)** | **[Full Stack Developer](https://jobr.pro/job/36245581/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, PL | On Site | Jan 17 |
@@ -48,10 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Viva Energy Australia](https://www.vivaenergy.com.au)** | **[Full Stack Developer](https://jobr.pro/job/35990793/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Melbourne, VIC, Australia | On Site | Jan 14 |
 | **[CACI International Inc](https://www.caci.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/36058867/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 999 REMOTE, United States | Remote | Jan 14 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Web Full Stack Developer](https://jobr.pro/job/36035728/web-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Budapest Millennium Tower I, Hungary | On Site | Jan 14 |
-| **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer for Baltics New Core Sales System](https://jobr.pro/job/36044406/net-full-stack-developer-for-baltics-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Jan 14 |
-| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Senior Full-Stack Developer (MEAN\MERN) @MMCTech](https://jobr.pro/job/36010311/senior-full-stack-developer-meanmern-mmctech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca - Decembrie, Romania | Remote | Jan 14 |
 | **[Corning](https://www.corning.com)** | **[Full Stack Developer - RD&E (hybrid)](https://jobr.pro/job/35993849/full-stack-developer-rde-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Painted Post, NY, US, 14830 | On Site | Jan 14 |
 | **[ExxonMobil](https://corporate.exxonmobil.com/)** | **[Trading Desk Full Stack Developer](https://jobr.pro/job/36002033/trading-desk-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore, 01, SG | On Site | Jan 14 |
+| **[If Insurance](https://www.if.se/)** | **[.NET Full-stack Developer for Baltics New Core Sales System](https://jobr.pro/job/36044406/net-full-stack-developer-for-baltics-new-core-sales-system?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rīga Central, Latvia | On Site | Jan 14 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Senior Full-Stack Developer (MEAN\MERN) @MMCTech](https://jobr.pro/job/36010311/senior-full-stack-developer-meanmern-mmctech?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cluj-Napoca - Decembrie, Romania | Remote | Jan 14 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Full-Stack — Developer Experience](https://jobr.pro/job/35982181/software-engineer-full-stack-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco | On Site | Jan 13 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Full stack Developer (C#)](https://jobr.pro/job/35975706/sr-full-stack-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Guadalajara, Mexico | Remote | Jan 13 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 26923\] Mid Level Full Stack Developer (Node.js & Tyepscript) Colombia](https://jobr.pro/job/35972154/job-26923-mid-level-full-stack-developer-nodejs-tyepscript-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia | On Site | Jan 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Software Engineering Manager - Java Full-Stack Developer and GenAI](https://jobr.pro/job/35925338/software-engineering-manager-java-full-stack-developer-and-genai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, INDIA, India | On Site | Jan 13 |
 | **[Bella&Bona](https://bellabona.com/)** | **[Full Stack Developer](https://jobr.pro/job/35911011/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Berlin | On Site | Jan 13 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[UX-focused Full Stack Developer](https://jobr.pro/job/35926751/ux-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India | On Site | Jan 13 |
-| **[Endava](https://www.endava.com)** | **[AEM Full Stack Developer](https://jobr.pro/job/35896180/aem-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 48 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
