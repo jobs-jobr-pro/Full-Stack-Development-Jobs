@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 25, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 26, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
