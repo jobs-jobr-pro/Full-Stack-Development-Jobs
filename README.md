@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -33,6 +33,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Allstate](https://www.allstate.com/)** | **[Full Stack Developer- Consultant II](https://jobr.pro/job/37008044/full-stack-developer-consultant-ii?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ind – Pune Sez 2 (9Th And 10Th Floor), India | On Site | Jan 29 |
 | **[ResponsiveAds](https://responsiveads.com/)** | **[ResponsiveAds Full-Stack Developer (2026 Summer and Fall Internship)](https://jobr.pro/job/36996875/responsiveads-full-stack-developer-2026-summer-and-fall-internship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, British Columbia, Canada | On Site | Jan 29 |
 | **[Capgemini](https://www.capgemini.com)** | **[Full Stack Developer](https://jobr.pro/job/36958735/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, AU | On Site | Jan 29 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Full Stack Developer, Senior](https://jobr.pro/job/37037889/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA, VA, Chantilly (15059 Conference Ctr Dr), United States | On Site | Jan 29 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Full Stack Developer](https://jobr.pro/job/37037897/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Undisclosed Location - USA, VA, Chantilly, United States | On Site | Jan 29 |
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - iOs, Java, Angular](https://jobr.pro/job/37028880/full-stack-developer-ios-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 1/124, SHIVAJI GARDENS, MOONLI, India | On Site | Jan 29 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/37028798/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Jan 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/37028501/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Jan 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Trinetix](https://trinetix.com)** | **[Senior Full-Stack Developer (.NET & React, AWS)](https://jobr.pro/job/36915072/senior-full-stack-developer-net-react-aws?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jan 28 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Principal Full Stack Developer (Python )](https://jobr.pro/job/36888647/principal-full-stack-developer-python-?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herzliya, Israel | On Site | Jan 28 |
 | **[Weekday](https://www.weekday.works)** | **[Full stack developer](https://jobr.pro/job/36888657/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India - Remote | Remote | Jan 28 |
-| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Full Stack Developer (Python)](https://jobr.pro/job/36888648/senior-full-stack-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herzliya, Israel | On Site | Jan 28 |
-| **[Nordex Group](https://www.nordex-online.com)** | **[Full Stack Developer (Java & Angular/Primeface)](https://jobr.pro/job/36894055/full-stack-developer-java-angularprimeface?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, TN, IN, 600119 | On Site | Jan 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 161k  
+**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
