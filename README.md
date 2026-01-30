@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -20,6 +20,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truelogic](https://www.truelogic.io/)** | **[Senior Full-Stack Developer (Go/React) - Technology](https://jobr.pro/job/37048976/senior-full-stack-developer-goreact-technology?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | São Paulo | Remote | Jan 30 |
 | **[LiveRamp](https://liveramp.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/37067457/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Jan 30 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Full Stack Developer (Vue JS & Node JS & .Net)](https://jobr.pro/job/37078551/full-stack-developer-vue-js-node-js-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 30 |
+| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Senior Node JS Full Stack Developer](https://jobr.pro/job/37097718/senior-node-js-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI, India | On Site | Jan 30 |
+| **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_Cloud Full Stack Developer(AWS LEX & Connect)_Advisory_OneCloud_PAN INDIA](https://jobr.pro/job/37099289/insenior-associatecloud-full-stack-developeraws-lex-connectadvisoryonecloudpan-india?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru Millenia, India | On Site | Jan 30 |
 | **[NexGen Data Systems](https://www.ngds.com/)** | **[Full Stack Developer](https://jobr.pro/job/37076734/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | DHA Remote | Remote | Jan 29 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Remote - Senior Full-Stack Developer (S.AFE Platform) - Luxury Real Estate - Mexico](https://jobr.pro/job/37048972/remote-senior-full-stack-developer-safe-platform-luxury-real-estate-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico City | Remote | Jan 29 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Remote - Senior Full-Stack Developer (S.AFE Platform) - Luxury Real Estate - Panama](https://jobr.pro/job/37048971/remote-senior-full-stack-developer-safe-platform-luxury-real-estate-panama?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Panama | Remote | Jan 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/37028798/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Jan 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/37028501/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Jan 29 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Full Stack Developer, Senior](https://jobr.pro/job/37037889/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | USA, VA, Chantilly (15059 Conference Ctr Dr), United States | On Site | Jan 29 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Full Stack Developer](https://jobr.pro/job/37037897/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Undisclosed Location - USA, VA, Chantilly, United States | On Site | Jan 29 |
-| **[Babel Street](https://www.babelstreet.com/)** | **[Full Stack Developer](https://jobr.pro/job/36960004/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Reston, VA, United States; Somerville, Massachusetts, United States | On Site | Jan 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 39 companies | Avg salary: 161k  
+**Current Stats:** 50 jobs | 24% remote | 40 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
