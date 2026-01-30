@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 29, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -36,6 +36,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Citi](https://www.citigroup.com/)** | **[Full Stack Developer - iOs, Java, Angular](https://jobr.pro/job/37028880/full-stack-developer-ios-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 1/124, SHIVAJI GARDENS, MOONLI, India | On Site | Jan 29 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Full Stack Developer](https://jobr.pro/job/37028798/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Jan 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Full Stack Developer](https://jobr.pro/job/37028501/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 9615 Ashburn VA Non-specific Customer Site, United States | On Site | Jan 29 |
+| **[Bright Vision Technologies](https://www.bvteck.com/)** | **[Senior .NET Full Stack Developer](https://jobr.pro/job/37030931/senior-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Columbus, OH | On Site | Jan 29 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Senior Java Full Stack Developer (SQL, Angular/React, Spring Boot)](https://jobr.pro/job/37032537/senior-java-full-stack-developer-sql-angularreact-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN - AHMEDABAD, India | On Site | Jan 29 |
 | **[Babel Street](https://www.babelstreet.com/)** | **[Full Stack Developer](https://jobr.pro/job/36960004/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Reston, VA, United States; Somerville, Massachusetts, United States | On Site | Jan 28 |
 | **[Black Canyon Consulting](https://www.bccdc.net/)** | **[Full Stack Developer](https://jobr.pro/job/36967588/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | NIH-Bethesda | On Site | Jan 28 |
 | **[Black Canyon Consulting](https://www.bccdc.net/)** | **[Senior Full Stack Developer](https://jobr.pro/job/36967590/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bethesda, Maryland | On Site | Jan 28 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Full stack developer](https://jobr.pro/job/36888657/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, Maharashtra, India - Remote | Remote | Jan 28 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Full Stack Developer (Python)](https://jobr.pro/job/36888648/senior-full-stack-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herzliya, Israel | On Site | Jan 28 |
 | **[Nordex Group](https://www.nordex-online.com)** | **[Full Stack Developer (Java & Angular/Primeface)](https://jobr.pro/job/36894055/full-stack-developer-java-angularprimeface?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, TN, IN, 600119 | On Site | Jan 28 |
-| **[Hitachi](https://www.hitachi.com/)** | **[.Net,Java full stack developer](https://jobr.pro/job/36924803/netjava-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | (HE)Office Bangalore, Bhoruka Tech Park, India | On Site | Jan 28 |
-| **[Ryan](https://www.ryan.com/)** | **[Full Stack Developer, Software Development](https://jobr.pro/job/36917670/full-stack-developer-software-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad Atria, India | On Site | Jan 28 |
 
 ---
 
