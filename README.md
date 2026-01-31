@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,10 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Anaxee Digital Runners](https://anaxee.com/)** | **[Full-stack Developer \|\| January 2026](https://jobr.pro/job/37171756/full-stack-developer-january-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madhya Pradesh, Indore, India | On Site | Jan 31 |
+| **[E2logy](https://e2logy.com/)** | **[Full Stack Developer (React.js & Node.js)](https://jobr.pro/job/37168924/full-stack-developer-reactjs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ahmedabad, India | On Site | Jan 31 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer (TS/SCI Clearance)](https://jobr.pro/job/37166270/full-stack-developer-tssci-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Jan 31 |
 | **[Johnson Health Tech Companies](https://www.johnsonhealthtech.com/)** | **[Shopify Full-Stack Developer](https://jobr.pro/job/37160478/shopify-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cottage Grove, WI, US | On Site | Jan 31 |
 | **[Sherwin-Williams](https://www.sherwin-williams.com/)** | **[Senior Full Stack Developer-Data Integrations](https://jobr.pro/job/37163963/senior-full-stack-developer-data-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cleveland, OH, United States | On Site | Jan 30 |
 | **[Miratech](https://miratechgroup.com/)** | **[Senior Full-Stack Developer (Front End oriented)](https://jobr.pro/job/37138253/senior-full-stack-developer-front-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Jan 30 |
+| **[Kendago](https://www.kendago.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/37175457/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Belgrade, Serbia, RS | On Site | Jan 30 |
 | **[Vamo](https://www.getvamo.de/)** | **[(Senior) Full Stack Developer (m/w/d) Heat Fleet](https://jobr.pro/job/37120655/senior-full-stack-developer-mwd-heat-fleet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Jan 30 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[AEM Full Stack Developer-Performance Marketing](https://jobr.pro/job/37167713/aem-full-stack-developer-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Houston, TX, United States | On Site | Jan 30 |
 | **[Sigma Software](https://career.sigma.software)** | **[Senior Full Stack Developer (Node.js/ReactJS)](https://jobr.pro/job/37144407/senior-full-stack-developer-nodejsreactjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kyiv, Kyiv city, Ukraine | On Site | Jan 30 |
 | **[SEB](https://sebgroup.com/)** | **[Full Stack Developer .Net in Product onboarding area \| SEB, Västerås](https://jobr.pro/job/37140556/full-stack-developer-net-in-product-onboarding-area-seb-vasteras?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Västerås | On Site | Jan 30 |
 | **[Hitachi Digital Services](https://hitachids.com)** | **[LLM / SLM Full‑Stack Developer](https://jobr.pro/job/37127682/llm-slm-fullstack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Jan 30 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FieldAssist](https://www.fieldassist.com/)** | **[Jr Dotnet Full Stack Developer](https://jobr.pro/job/37010551/jr-dotnet-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Haryana, Gurugram, India | On Site | Jan 29 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Full Stack Developer](https://jobr.pro/job/37004875/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai | On Site | Jan 29 |
 | **[KPMG Israel](https://kpmg.co.il/)** | **[Full-Stack Developer](https://jobr.pro/job/37016183/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 29 |
-| **[Miratech](https://miratechgroup.com/)** | **[Senior Full-Stack Developer (Front-End oriented)](https://jobr.pro/job/37046987/senior-full-stack-developer-front-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | São Paulo, SP, Brazil | On Site | Jan 29 |
-| **[Strix](https://strix.net/)** | **[Full Stack Developer (RoR+React)](https://jobr.pro/job/37040892/full-stack-developer-rorreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Praca zdalna | Remote | Jan 29 |
-| **[Strix](https://strix.net/)** | **[Full Stack Developer (RoR+React)(Osoba na stanowisku Full Stack Developera)](https://jobr.pro/job/37040893/full-stack-developer-rorreactosoba-na-stanowisku-full-stack-developera?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Praca zdalna | Remote | Jan 29 |
-| **[Tietoevry](https://www.tietoevry.com/)** | **[Full Stack Developer - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/37061506/full-stack-developer-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ostrava, Moravian-Silesian Region, Czechia | On Site | Jan 29 |
-| **[Ramboll](https://ramboll.com)** | **[Senior Engineer / Full stack Developer (SQL-Focused, AI-Enabled)](https://jobr.pro/job/37057997/senior-engineer-full-stack-developer-sql-focused-ai-enabled?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madhapur, India | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 40 companies | Avg salary: 931k  
+**Current Stats:** 50 jobs | 24% remote | 42 companies | Avg salary: 931k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
