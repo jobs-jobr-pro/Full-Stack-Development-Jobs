@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -17,6 +17,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[E2logy](https://e2logy.com/)** | **[Full Stack Developer (React.js & Node.js)](https://jobr.pro/job/37168924/full-stack-developer-reactjs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ahmedabad, India | On Site | Jan 31 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer (TS/SCI Clearance)](https://jobr.pro/job/37166270/full-stack-developer-tssci-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Jan 31 |
 | **[Johnson Health Tech Companies](https://www.johnsonhealthtech.com/)** | **[Shopify Full-Stack Developer](https://jobr.pro/job/37160478/shopify-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cottage Grove, WI, US | On Site | Jan 31 |
+| **[NewGen Technologies Inc.](https://newgentechnologies.com/)** | **[Jr. Full Stack Developer](https://jobr.pro/job/37178059/jr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tysons, VA | On Site | Jan 30 |
+| **[NewGen Technologies Inc.](https://newgentechnologies.com/)** | **[Full Stack Developer](https://jobr.pro/job/37178068/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chantilly, VA | On Site | Jan 30 |
 | **[Sherwin-Williams](https://www.sherwin-williams.com/)** | **[Senior Full Stack Developer-Data Integrations](https://jobr.pro/job/37163963/senior-full-stack-developer-data-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cleveland, OH, United States | On Site | Jan 30 |
 | **[Miratech](https://miratechgroup.com/)** | **[Senior Full-Stack Developer (Front End oriented)](https://jobr.pro/job/37138253/senior-full-stack-developer-front-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Jan 30 |
 | **[Kendago](https://www.kendago.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/37175457/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Belgrade, Serbia, RS | On Site | Jan 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ENCAMINA](https://www.encamina.com/)** | **[Full Stack Developer](https://jobr.pro/job/37017702/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Teletrabajo | Remote | Jan 29 |
 | **[Gett](https://www.gett.com/)** | **[Full Stack Developer](https://jobr.pro/job/37016013/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv, Israel, IL | On Site | Jan 29 |
 | **[FieldAssist](https://www.fieldassist.com/)** | **[Jr Dotnet Full Stack Developer](https://jobr.pro/job/37010551/jr-dotnet-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Haryana, Gurugram, India | On Site | Jan 29 |
-| **[Virtusa](https://www.virtusa.com/)** | **[Full Stack Developer](https://jobr.pro/job/37004875/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN-TN-Chennai | On Site | Jan 29 |
-| **[KPMG Israel](https://kpmg.co.il/)** | **[Full-Stack Developer](https://jobr.pro/job/37016183/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 42 companies | Avg salary: 931k  
+**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 931k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
