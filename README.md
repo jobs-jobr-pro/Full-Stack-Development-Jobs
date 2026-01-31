@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vamo](https://www.getvamo.de/)** | **[(Senior) Full Stack Developer (m/w/d) Heat Fleet](https://jobr.pro/job/37120655/senior-full-stack-developer-mwd-heat-fleet?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | Jan 30 |
 | **[Stellantis](https://www.stellantis.com/)** | **[Full Stack Developer (Ref. 1784)](https://jobr.pro/job/37109801/full-stack-developer-ref-1784?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Europe, Italy | On Site | Jan 30 |
 | **[Inovalon](https://www.inovalon.com/)** | **[Full Stack Developer](https://jobr.pro/job/37045020/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram, India | On Site | Jan 30 |
 | **[Varicent](https://www.varicent.com/)** | **[Lead Full Stack Developer (Remote - Mexico Only)](https://jobr.pro/job/37045626/lead-full-stack-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Monterrey, Mexico | Remote | Jan 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ResponsiveAds](https://responsiveads.com/)** | **[ResponsiveAds Full-Stack Developer (2026 Summer and Fall Internship)](https://jobr.pro/job/36996875/responsiveads-full-stack-developer-2026-summer-and-fall-internship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vancouver, British Columbia, Canada | On Site | Jan 29 |
 | **[Capgemini](https://www.capgemini.com)** | **[Full Stack Developer](https://jobr.pro/job/36958735/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sydney, AU | On Site | Jan 29 |
 | **[Bright Vision Technologies](https://www.bvteck.com/)** | **[Senior .NET Full Stack Developer](https://jobr.pro/job/37030931/senior-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Columbus, OH | On Site | Jan 29 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Senior Java Full Stack Developer (SQL, Angular/React, Spring Boot)](https://jobr.pro/job/37032537/senior-java-full-stack-developer-sql-angularreact-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | IN - AHMEDABAD, India | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 40 companies | Avg salary: 141k  
+**Current Stats:** 50 jobs | 28% remote | 40 companies | Avg salary: 141k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
