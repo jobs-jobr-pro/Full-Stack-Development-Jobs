@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Software Engineer or Lead Software Engineer \| Full stack Developer (Mobile App Development) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/37201811/senior-software-engineer-or-lead-software-engineer-full-stack-developer-mobile-app-development-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Feb 02 |
+| **[Nawy Real Estate](https://www.nawy.com/)** | **[Senior Full Stack Developer (Mern Stack Developer)](https://jobr.pro/job/37203278/senior-full-stack-developer-mern-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | maadi, Cairo Governorate, Egypt | On Site | Feb 01 |
+| **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/37191837/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Feb 01 |
+| **[Fastbreak AI](https://fastbreak.ai)** | **[Senior Full Stack Developer](https://jobr.pro/job/37199746/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Charlotte, North Carolina, United States | On Site | Feb 01 |
 | **[Anaxee Digital Runners](https://anaxee.com/)** | **[Full-stack Developer \|\| January 2026](https://jobr.pro/job/37171756/full-stack-developer-january-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madhya Pradesh, Indore, India | On Site | Jan 31 |
 | **[E2logy](https://e2logy.com/)** | **[Full Stack Developer (React.js & Node.js)](https://jobr.pro/job/37168924/full-stack-developer-reactjs-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ahmedabad, India | On Site | Jan 31 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full Stack Developer (TS/SCI Clearance)](https://jobr.pro/job/37166270/full-stack-developer-tssci-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Jan 31 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truelogic](https://www.truelogic.io/)** | **[Remote - Senior Full-Stack Developer (S.AFE Platform) - Luxury Real Estate - Colombia](https://jobr.pro/job/37048967/remote-senior-full-stack-developer-safe-platform-luxury-real-estate-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bogota | Remote | Jan 29 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Remote - Senior Full-Stack Developer (S.AFE Platform) - Luxury Real Estate - LATAM](https://jobr.pro/job/37048953/remote-senior-full-stack-developer-safe-platform-luxury-real-estate-latam?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | LatAm | Remote | Jan 29 |
 | **[Archer](https://www.archer.com/)** | **[Full Stack Developer (Hybrid)](https://jobr.pro/job/37052648/full-stack-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Jose, California, United States | On Site | Jan 29 |
-| **[Natixis in Portugal](https://www.natixis.com)** | **[Senior Full Stack Developer \| BPCE SI](https://jobr.pro/job/37055883/senior-full-stack-developer-bpce-si?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Portugal, Portugal | On Site | Jan 29 |
-| **[ENCAMINA](https://www.encamina.com/)** | **[Full Stack Developer](https://jobr.pro/job/37017702/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Teletrabajo | Remote | Jan 29 |
-| **[Gett](https://www.gett.com/)** | **[Full Stack Developer](https://jobr.pro/job/37016013/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv, Israel, IL | On Site | Jan 29 |
-| **[FieldAssist](https://www.fieldassist.com/)** | **[Jr Dotnet Full Stack Developer](https://jobr.pro/job/37010551/jr-dotnet-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Haryana, Gurugram, India | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 931k  
+**Current Stats:** 50 jobs | 24% remote | 40 companies | Avg salary: 894k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
