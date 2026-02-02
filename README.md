@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,12 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Arpeely](https://www.arpeely.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/37224574/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Feb 02 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Full Stack Developer + React](https://jobr.pro/job/37212307/software-engineer-iii-java-full-stack-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Feb 02 |
 | **[Interactivated Solutions](https://interactivated.me)** | **[Senior Full-Stack Developer (Java Spring Boot + Vue.js) - Europe](https://jobr.pro/job/37211762/senior-full-stack-developer-java-spring-boot-vuejs-europe?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Netherlands - Remote | Remote | Feb 02 |
+| **[WSP](https://www.wsp.com/)** | **[Engineer - Full Stack Developer](https://jobr.pro/job/37217325/engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Feb 02 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Software Engineer or Lead Software Engineer \| Full stack Developer (Mobile App Development) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/37201811/senior-software-engineer-or-lead-software-engineer-full-stack-developer-mobile-app-development-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Feb 02 |
+| **[Bright Vision Technologies](https://www.bvteck.com/)** | **[Senior .NET Full Stack Developer](https://jobr.pro/job/37219451/senior-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Columbus, OH | On Site | Feb 02 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Delivery & Testing Platforms Full Stack Developer](https://jobr.pro/job/37206981/delivery-testing-platforms-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Feb 02 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Senior Software Engineer - (.NET Full stack Developer)](https://jobr.pro/job/37209468/senior-software-engineer-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 111443-IND-HYDERABAD-INTL HYD WF CENTRE BLK B8 Twr-4, India | On Site | Feb 02 |
 | **[EY](https://www.ey.com)** | **[TTT - NET Full Stack Developer - Tax Senior](https://jobr.pro/job/37204695/ttt-net-full-stack-developer-tax-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, IN, 682313 | On Site | Feb 02 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Experienced Full Stack Developer](https://jobr.pro/job/37225594/experienced-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, Karnataka, India | On Site | Feb 02 |
 | **[Questronix Corporation](https://questronix.com.ph/)** | **[Full Stack Developer](https://jobr.pro/job/37210745/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pasig, Metro Manila, Philippines | On Site | Feb 01 |
 | **[Nawy Real Estate](https://www.nawy.com/)** | **[Senior Full Stack Developer (Mern Stack Developer)](https://jobr.pro/job/37203278/senior-full-stack-developer-mern-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | maadi, Cairo Governorate, Egypt | On Site | Feb 01 |
 | **[Likha Careers](https://likhacareers.com/)** | **[Full Stack Developer (.NET & Angular)](https://jobr.pro/job/37191837/full-stack-developer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote job | Remote | Feb 01 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Bank](https://www.db.com/)** | **[Full Stack Developer, VP](https://jobr.pro/job/37102924/full-stack-developer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Business Bay, India | On Site | Jan 30 |
 | **[LiveRamp](https://liveramp.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/37067457/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Jan 30 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Full Stack Developer (Vue JS & Node JS & .Net)](https://jobr.pro/job/37078551/full-stack-developer-vue-js-node-js-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 30 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Java Full Stack Developer, Associate](https://jobr.pro/job/37102860/java-full-stack-developer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune - Margarpatta, India | On Site | Jan 30 |
-| **[Genesys](https://www.genesys.com/)** | **[Senior AI Full Stack Developer](https://jobr.pro/job/37110272/senior-ai-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Virtual Office (Florida), United States | Remote | Jan 30 |
-| **[NexGen Data Systems](https://www.ngds.com/)** | **[Full Stack Developer](https://jobr.pro/job/37076734/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | DHA Remote | Remote | Jan 29 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Remote - Senior Full-Stack Developer (S.AFE Platform) - Luxury Real Estate - Mexico](https://jobr.pro/job/37048972/remote-senior-full-stack-developer-safe-platform-luxury-real-estate-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico City | Remote | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 1143k  
+**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 1640k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, typescript  
