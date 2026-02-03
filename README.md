@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full stack developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Full stack developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -19,12 +19,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WSP](https://www.wsp.com/)** | **[Engineer - Full Stack Developer](https://jobr.pro/job/37217325/engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Feb 02 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Software Engineer or Lead Software Engineer \| Full stack Developer (Mobile App Development) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/37201811/senior-software-engineer-or-lead-software-engineer-full-stack-developer-mobile-app-development-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Feb 02 |
 | **[Bright Vision Technologies](https://www.bvteck.com/)** | **[Senior .NET Full Stack Developer](https://jobr.pro/job/37219451/senior-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Columbus, OH | On Site | Feb 02 |
+| **[Barclays](https://home.barclays/)** | **[Lead Full Stack Developer (Java & React)](https://jobr.pro/job/37236104/lead-full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Feb 02 |
+| **[Mitel](https://www.mitel.com/)** | **[Full Stack Developer - Hybrid Curitiba](https://jobr.pro/job/37229626/full-stack-developer-hybrid-curitiba?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Curitiba (Remote), Brazil | Remote | Feb 02 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Delivery & Testing Platforms Full Stack Developer](https://jobr.pro/job/37206981/delivery-testing-platforms-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, India | On Site | Feb 02 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Senior Software Engineer - (.NET Full stack Developer)](https://jobr.pro/job/37209468/senior-software-engineer-net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | 111443-IND-HYDERABAD-INTL HYD WF CENTRE BLK B8 Twr-4, India | On Site | Feb 02 |
 | **[EY](https://www.ey.com)** | **[TTT - NET Full Stack Developer - Tax Senior](https://jobr.pro/job/37204695/ttt-net-full-stack-developer-tax-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, KL, IN, 682313 | On Site | Feb 02 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Experienced Full Stack Developer](https://jobr.pro/job/37225594/experienced-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, Karnataka, India | On Site | Feb 02 |
-| **[Barclays](https://home.barclays/)** | **[Lead Full Stack Developer (Java & React)](https://jobr.pro/job/37236104/lead-full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Feb 02 |
-| **[Mitel](https://www.mitel.com/)** | **[Full Stack Developer - Hybrid Curitiba](https://jobr.pro/job/37229626/full-stack-developer-hybrid-curitiba?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Curitiba (Remote), Brazil | Remote | Feb 02 |
 | **[Chevron](https://www.chevron.com/)** | **[Software Engineer – Full Stack Developer](https://jobr.pro/job/37231009/software-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Makati City Chevron 6750 Office, Philippines | On Site | Feb 02 |
 | **[Questronix Corporation](https://questronix.com.ph/)** | **[Full Stack Developer](https://jobr.pro/job/37210745/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pasig, Metro Manila, Philippines | On Site | Feb 01 |
 | **[Nawy Real Estate](https://www.nawy.com/)** | **[Senior Full Stack Developer (Mern Stack Developer)](https://jobr.pro/job/37203278/senior-full-stack-developer-mern-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | maadi, Cairo Governorate, Egypt | On Site | Feb 01 |
