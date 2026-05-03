@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: May 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mercor](https://mercor.com/)** | **[Software Engineer, Applied AI](https://jobr.pro/job/40592131/software-engineer-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco | On Site | May 03 |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Data](https://jobr.pro/job/40594086/senior-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, WA | On Site | May 02 |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Fullstack](https://jobr.pro/job/40594087/senior-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, WA | On Site | May 02 |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Platform](https://jobr.pro/job/40594088/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, WA | On Site | May 02 |
 | **[Moment Energy](https://momentenergy.com)** | **[Manufacturing Software Engineer](https://jobr.pro/job/40578926/manufacturing-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Coquitlam, BC | On Site | May 02 |
 | **[SpaceX](https://spacex.com)** | **[Software Engineer, Continuous Integration (Starship)](https://jobr.pro/job/40579802/software-engineer-continuous-integration-starship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Starbase, TX | On Site | May 02 |
 | **[SpaceX](https://spacex.com)** | **[Principal Software Engineer, Continuous Integration (Starship)](https://jobr.pro/job/40575579/principal-software-engineer-continuous-integration-starship?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Starbase, TX | On Site | May 02 |
@@ -26,9 +30,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apptronik](https://apptronik.com)** | **[Software Engineer – Controls Infrastructure](https://jobr.pro/job/40573105/software-engineer-controls-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, TX | On Site | May 01 |
 | **[8th Light]()** | **[Senior Software Engineer (Chicago, Atlanta, Boston)](https://jobr.pro/job/40575398/-senior-software-engineer-chicago-atlanta-boston?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chicago, Illinois, United States | On Site | May 01 |
 | **[Agiloft](https://agiloft.com)** | **[Sr Software Engineer AI - Fullstack](https://jobr.pro/job/40573327/sr-software-engineer-ai-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | May 01 |
+| **[Doximity](https://doximity.com)** | **[Senior Software Engineer II - Android (Kotlin)](https://jobr.pro/job/40588204/senior-software-engineer-ii-android-kotlin?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, CA or Remote (U.S.) | Remote | May 01 |
 | **[8th Light]()** | **[Senior Software Engineer (Hybrid)](https://jobr.pro/job/40575399/senior-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | On Site | May 01 |
 | **[8th Light]()** | **[Principal Software Engineer (Hybrid)](https://jobr.pro/job/40575396/principal-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | On Site | May 01 |
 | **[8th Light]()** | **[Principal Software Engineer (Remote)](https://jobr.pro/job/40575397/principal-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chicago, Illinois, United States | Remote | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40584506/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | May 01 |
 | **[Unity Technologies]()** | **[Développeur(se) logiciel Sénior — Équipe Diagnostics / Senior Software Engineer — Diagnostics Team](https://jobr.pro/job/40578558/developpeurse-logiciel-senior-equipe-diagnostics-senior-software-engineer-diagnostics-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, Canada | On Site | May 01 |
 | **[Cribl](https://cribl.io)** | **[Senior Software Engineer, Infrastructure](https://jobr.pro/job/40576306/senior-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote - United States | Remote | May 01 |
 | **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobr.pro/job/40573149/software-engineering-intern-fall-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, New York | On Site | May 01 |
@@ -36,7 +42,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flatiron Health](https://flatiron.com)** | **[Senior Software Engineer, Academics](https://jobr.pro/job/40575140/senior-software-engineer-academics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | NY office | On Site | May 01 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Security Software Engineer (Starshield)](https://jobr.pro/job/40573909/sr-security-software-engineer-starshield?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | May 01 |
 | **[Cohere](https://cohere.com/)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobr.pro/job/40575323/software-engineer-intern-fall-winter-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada | Remote | May 01 |
+| **[Roblox](https://roblox.com)** | **[Senior Software Engineer, Consoles & Desktop](https://jobr.pro/job/40585576/senior-software-engineer-consoles-desktop?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Mateo, CA, United States | On Site | May 01 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/40573165/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | El Segundo, California, United States | On Site | May 01 |
+| **[Bold Business](https://boldbusiness.com)** | **[Python Developer - AI Automation & Full Stack (Remote / Full-Time)](https://jobr.pro/job/40584144/python-developer-ai-automation-full-stack-remote-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India, Philippines | Remote | May 01 |
 | **[Coinbase](https://coinbase.com)** | **[Senior Software Engineer, FinOps](https://jobr.pro/job/40581351/senior-software-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote - USA | Remote | May 01 |
 | **[The Voleon Group](https://voleon.com/)** | **[Senior Software Engineer, Strategy Research Analytics](https://jobr.pro/job/40580758/senior-software-engineer-strategy-research-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, United States | Remote | May 01 |
 | **[Harvey](https://www.harvey.ai/)** | **[Senior Software Engineer, Backend](https://jobr.pro/job/40572739/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York | Remote | May 01 |
@@ -55,21 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Basispoort](https://basispoort.nl)** | **[Sr Software Engineer, Applications](https://jobr.pro/job/40577102/sr-software-engineer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | On Site | May 01 |
 | **[Socure](https://www.socure.com/)** | **[Front-End Web Developer](https://jobr.pro/job/40572624/front-end-web-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote - US | Remote | May 01 |
 | **[Teamworks](https://teamworks.com/)** | **[Senior Software Engineer, Backend (Java)](https://jobr.pro/job/40571811/senior-software-engineer-backend-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | Remote | May 01 |
-| **[Kayak](https://www.kayak.com/)** | **[Senior Frontend Software Engineer](https://jobr.pro/job/40574531/senior-frontend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Concord Office | On Site | May 01 |
-| **[Block](https://blockchain.com)** | **[Software Engineer, Cash App Banking](https://jobr.pro/job/40571904/software-engineer-cash-app-banking?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | May 01 |
-| **[Block](https://blockchain.com)** | **[Staff Software Engineer, Cash App Banking](https://jobr.pro/job/40571908/staff-software-engineer-cash-app-banking?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | May 01 |
-| **[Block](https://blockchain.com)** | **[Senior Software Engineer, Cash App Banking](https://jobr.pro/job/40571903/senior-software-engineer-cash-app-banking?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | May 01 |
-| **[Clarity Innovations](https://clarityinnovates.com)** | **[Software Engineer](https://jobr.pro/job/40573376/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Antonio, TX | On Site | May 01 |
-| **[Chalk](https://chalk.ai/)** | **[Software Engineer](https://jobr.pro/job/40570828/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | SF | On Site | May 01 |
-| **[Lightspeed](https://www.lightspeedhq.com/)** | **[Senior Full- Stack Software Developer (React.js focus)](https://jobr.pro/job/40572566/senior-full-stack-software-developer-reactjs-focus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal | Remote | May 01 |
-| **[Kaseya Careers](https://kaseya.com)** | **[Staff Software Engineer](https://jobr.pro/job/40571886/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario | On Site | May 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 31 companies | Avg salary: 1.000000744118506e+199k  
+**Current Stats:** 50 jobs | 32% remote | 31 companies | Avg salary: 1.4285719685719684e+205k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react  
+**Trending Skills:** python  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
