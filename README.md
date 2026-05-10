@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: May 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Software Engineer](https://jobr.pro/job/40701255/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/40701254/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/40701253/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer](https://jobr.pro/job/40701252/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Handshake](https://joinhandshake.com/)** | **[Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699985/software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Handshake](https://joinhandshake.com/)** | **[Senior Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699984/senior-software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Neuralink](https://neuralink.com)** | **[Software Engineer, Agentic AI](https://jobr.pro/job/40701264/software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, Texas, United States; South San Francisco, California, United States | On Site | May 09 |
 | **[Openai](https://openai.com/)** | **[Audio Software Engineer, Consumer Devices](https://jobr.pro/job/40690940/audio-software-engineer-consumer-devices?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40689121/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Malaysia | Remote | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[全棧工程師, JavaScript/TypeScript (Full Stack Engineer)](https://jobr.pro/job/40689145/-javascripttypescript-full-stack-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Taipei, Taiwan | On Site | May 09 |
@@ -39,6 +46,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Airwallex SG](https://www.airwallex.com)** | **[Senior Software Engineer, DevX](https://jobr.pro/job/40686706/senior-software-engineer-devx?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | US - San Francisco | Remote | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, DevOps](https://jobr.pro/job/40687631/senior-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Core Technology](https://jobr.pro/job/40687630/senior-software-engineer-core-technology?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Mateo, CA | On Site | May 09 |
+| **[Cadence Health](https://cadencehealth.com)** | **[Senior Software Engineer, Agentic AI](https://jobr.pro/job/40695208/senior-software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | May 08 |
 | **[Astranis](https://astranis.com)** | **[Software Simulation Engineer - Flight Software](https://jobr.pro/job/40691003/software-simulation-engineer-flight-software?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco | On Site | May 08 |
 | **[Amplitude](https://amplitude.com)** | **[Senior Software Engineer, Product Adoption](https://jobr.pro/job/40689258/senior-software-engineer-product-adoption?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, CA | On Site | May 08 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer - (Software Engineering Focused)](https://jobr.pro/job/40691222/cloud-devsecops-engineer-software-engineering-focused?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hawthorne, California, United States | On Site | May 08 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Assembled](https://www.assembled.com/)** | **[Software Engineer - Forecasting & Scheduling](https://jobr.pro/job/40688216/software-engineer-forecasting-scheduling-?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York City, NY | Remote | May 08 |
 | **[Amplitude](https://amplitude.com)** | **[Senior Software Engineer (Experiment)](https://jobr.pro/job/40689257/senior-software-engineer-experiment?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | San Francisco, CA | On Site | May 08 |
 | **[Shield AI](https://shield.ai)** | **[Senior Software Engineer, C++ Software Integration (R4021)](https://jobr.pro/job/40684445/senior-software-engineer-c-software-integration-r4021?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | May 08 |
-| **[Owner.com](https://www.owner.com/)** | **[Senior Software Engineer, Mobile Platform - POS (Remote, Canada)](https://jobr.pro/job/40684045/senior-software-engineer-mobile-platform-pos-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote - Canada | Remote | May 08 |
-| **[Owner.com](https://www.owner.com/)** | **[Senior Software Engineer, Mobile Platform - POS (Remote, United States)](https://jobr.pro/job/40684044/senior-software-engineer-mobile-platform-pos-remote-united-states?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote - United States | Remote | May 08 |
-| **[StackAdapt](https://stackadapt.com)** | **[Staff Software Engineer - Data Delivery](https://jobr.pro/job/40684605/staff-software-engineer-data-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada; United States | On Site | May 08 |
-| **[Accelerate ‎Your Digital Transformation \| Truelogic Software](https://www.truelogic.io/)** | **[Senior Frontend / Full-Stack Engineer (Web Performance & Growth) - Real State](https://jobr.pro/job/40683984/senior-frontend-full-stack-engineer-web-performance-growth-real-state?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | Remote | May 08 |
-| **[Yes Energy](https://yesenergy.com)** | **[Account Manager - Publishing Subscription Sales](https://jobr.pro/job/40690495/account-manager-publishing-subscription-sales?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | May 08 |
-| **[Otter](https://otter.ai)** | **[Senior Software Engineer, Menu Platform - Mountain View, CA](https://jobr.pro/job/40684581/senior-software-engineer-menu-platform-mountain-view-ca?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mountain View, CA | On Site | May 08 |
-| **[StackAdapt](https://stackadapt.com)** | **[Senior Staff Software Engineer - Data Delivery](https://jobr.pro/job/40684602/senior-staff-software-engineer-data-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada; United States | On Site | May 08 |
-| **[Plaid](https://plaid.com/)** | **[Software Engineer](https://jobr.pro/job/40684100/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York City Office | Remote | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 23 companies | Avg salary: 1.0483877419359677e+180k  
+**Current Stats:** 50 jobs | 28% remote | 22 companies | Avg salary: 6.9333406666753665e+174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** javascript, typescript  
