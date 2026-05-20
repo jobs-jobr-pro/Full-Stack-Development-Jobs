@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -60,12 +60,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BBGC](https://www.bbgcreative.com)** | **[Mid-Level Full Stack Developer](https://jobr.pro/job/40783503/mid-level-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 14 |
 | **[Accellor](https://accellor.com)** | **[Full Stack Software Developer (React, Python)](https://jobr.pro/job/40783462/full-stack-software-developer-react-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad, Telangana, India | On Site | May 14 |
 | **[LivePerson](https://liveperson.com)** | **[Senior Full Stack Software Developer](https://jobr.pro/job/40771759/senior-full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote USA | Remote | May 13 |
-| **[Qohash](https://qohash.com/)** | **[Senior AI Full Stack Developer, Cyber](https://jobr.pro/job/40771745/senior-ai-full-stack-developer-cyber?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | May 13 |
-| **[Qohash](https://qohash.com/)** | **[Senior Full Stack Developer, Cyber](https://jobr.pro/job/40771746/senior-full-stack-developer-cyber?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote | Remote | May 13 |
 
 ---
 
-**Current Stats:** 49 jobs | 49% remote | 34 companies | Avg salary: 2.222223888892889e+47k  
+**Current Stats:** 47 jobs | 47% remote | 33 companies | Avg salary: 2.222223888892889e+47k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, python  
