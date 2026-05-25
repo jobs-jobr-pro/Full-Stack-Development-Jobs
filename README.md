@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -55,13 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Yodeck](https://www.yodeck.com/)** | **[Full Stack Developer](https://jobr.pro/job/40853998/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Athens, Attica, Greece | On Site | May 19 |
 | **[Master-Works](http://master-works.sa)** | **[Full Stack Developer](https://jobr.pro/job/40848420/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | May 19 |
 | **[Teltonika](https://www.teltonika-iot-group.com)** | **[Full-Stack Developer (.NET) \| Teltonika’s headquarters](https://jobr.pro/job/40844122/full-stack-developer-net-teltonikas-headquarters?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | May 19 |
-| **[ION Group](https://iongroup.com)** | **[Principal Full-Stack Developer, Budapest](https://jobr.pro/job/40834043/principal-full-stack-developer-budapest?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Budapest | On Site | May 18 |
-| **[Hire Hangar](https://hirehangar.com)** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40840950/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mexico - Mexico City | Remote | May 18 |
-| **[Qualysoft](https://qualysoft.com)** | **[Full-Stack .Net Developer](https://jobr.pro/job/40841581/full-stack-net-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest | On Site | May 18 |
 
 ---
 
-**Current Stats:** 45 jobs | 36% remote | 42 companies | Avg salary: 5.777871111227778e+44k  
+**Current Stats:** 42 jobs | 36% remote | 40 companies | Avg salary: 6.500105000131252e+39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, nodejs, javascript, python, aws  
