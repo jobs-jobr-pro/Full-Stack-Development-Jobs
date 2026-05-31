@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,13 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Fulfillment IQ](http://fulfillmentiq.com)** | **[Full Stack Python Developer](https://jobr.pro/job/40996188/full-stack-python-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | May 31 |
 | **[Accellor](https://accellor.com)** | **[Ruby-on-Rails (RoR), React, Full-stack developer](https://jobr.pro/job/40988116/ruby-on-rails-ror-react-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Jaipur, Rajasthan, India | On Site | May 30 |
+| **[Whiskey Library](https://whiskeylibrary.com/)** | **[E-Commerce Full-Stack Developer](https://jobr.pro/job/40994728/e-commerce-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | May 29 |
 | **[Ravl.io](https://ravvast.com)** | **[Senior Full-Stack Developer, Java & Angular or React](https://jobr.pro/job/40987983/senior-full-stack-developer-java-angular-or-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto | On Site | May 29 |
 | **[Skilled Wound Care](https://skilledwoundcare.com)** | **[Full Stack Developer](https://jobr.pro/job/40983438/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manila, Philippines | On Site | May 29 |
+| **[Attadale Partners, LLC](http://www.attadalepartners.com)** | **[Full Stack Java Developers (CONTRACT ROLE)](https://jobr.pro/job/40993332/full-stack-java-developers-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Oregon, United States | Remote | May 29 |
 | **[Online Education Services](https://oes.com/)** | **[Full Stack Developer (AI workstream)](https://jobr.pro/job/40984179/full-stack-developer-ai-workstream?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Western Cape, South Africa | On Site | May 29 |
 | **[Infotel UK](https://infotel-consulting.co.uk/)** | **[Full Stack Java Developer - DV cleared](https://jobr.pro/job/40976479/full-stack-java-developer-dv-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Newcastle upon Tyne, England, United Kingdom | On Site | May 29 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Indonesia)](https://jobr.pro/job/40967872/full-stack-developer-ai-trainer-indonesia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Indonesia | Remote | May 28 |
 | **[Syntronic - A Global Design House](https://syntronic.com)** | **[Senior Full Stack Software Developer](https://jobr.pro/job/40988024/senior-full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Waterloo, ON | On Site | May 28 |
+| **[Attadale Partners, LLC](http://www.attadalepartners.com)** | **[Full Stack Java Developer](https://jobr.pro/job/40993331/full-stack-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Oregon, United States | Remote | May 28 |
 | **[Sizanid Staffing](http://www.sizanidstaffing.com)** | **[AI Full-Stack Development Instructor](https://jobr.pro/job/40978054/ai-full-stack-development-instructor?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | Remote | May 28 |
 | **[Skilled Wound Care](https://skilledwoundcare.com)** | **[Full Stack Software Developer](https://jobr.pro/job/40959821/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Houston, TX | On Site | May 27 |
 | **[Phoenix](https://www.phoenix.ca/)** | **[Senior Full-Stack Developer (Ruby on Rails/React)](https://jobr.pro/job/40958264/senior-full-stack-developer-ruby-on-railsreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario | On Site | May 27 |
@@ -56,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 53% remote | 23 companies | Avg salary: 3.4666732381004767e+106k  
+**Current Stats:** 44 jobs | 55% remote | 26 companies | Avg salary: 2.7273058182445456e+111k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python  
