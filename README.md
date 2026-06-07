@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 13:21 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Talent-360.me](https://talentme.se)** | **[Full Stack Developer ( Nest.JS & Next.js)](https://jobr.pro/job/41068464/full-stack-developer-nestjs-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 07 |
 | **[Referrals Only]()** | **[Full stack Java Lead Developer](https://jobr.pro/job/41055747/full-stack-java-lead-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Jun 05 |
 | **[Apex](https://www.apexspace.com/)** | **[Full Stack Developer, Business Systems](https://jobr.pro/job/41064055/full-stack-developer-business-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Los Angeles | On Site | Jun 05 |
 | **[Valtech](https://valtech.info)** | **[Full Stack Developer Pleno](https://jobr.pro/job/41054983/full-stack-developer-pleno?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil - Remote | Remote | Jun 05 |
@@ -64,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 48 jobs | 35% remote | 42 companies | Avg salary: 1.666669333335e+48k  
+**Current Stats:** 49 jobs | 35% remote | 42 companies | Avg salary: 1.666669333335e+48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript  
