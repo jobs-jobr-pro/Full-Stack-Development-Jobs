@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -41,6 +41,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[leadtech](http://leadtech.com)** | **[MarTech Full Stack Developer](https://jobr.pro/job/41021986/martech-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain | Remote | Jun 03 |
 | **[Orion Innovation](https://www.orioninnovation.com/)** | **[Manager – Full Stack .NET & Angular Developer](https://jobr.pro/job/41017609/manager-full-stack-net-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, US | Remote | Jun 02 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Full Stack Developer](https://jobr.pro/job/41016953/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hyderabad (Hybrid) | On Site | Jun 02 |
+| **[OneTrust](https://www.onetrust.com/)** | **[Full Stack Developer - AEM](https://jobr.pro/job/41064439/full-stack-developer-aem?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, India | On Site | Jun 02 |
 | **[Accellor](https://accellor.com)** | **[Ruby-on-Rails (RoR), React, Full-stack developer](https://jobr.pro/job/41021612/ruby-on-rails-ror-react-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram, Haryana, India | On Site | Jun 02 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Full Stack Developer (React/FastAPI/Django) - Frontend-Focused](https://jobr.pro/job/41019616/senior-full-stack-developer-reactfastapidjango-frontend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Armenia | Remote | Jun 02 |
 | **[Online Education Services](https://oes.edu.au/)** | **[Full Stack Developer](https://jobr.pro/job/41018812/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cape Town, Western Cape, South Africa | On Site | Jun 02 |
@@ -59,15 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBDS Group](https://ubdsgroup.com)** | **[Full Stack Developer](https://jobr.pro/job/41004379/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manchester, England, United Kingdom | On Site | Jun 01 |
 | **[Huzzle](https://huzzle.app)** | **[Full-Stack Shopify Developer](https://jobr.pro/job/41002248/full-stack-shopify-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | South Africa | Remote | Jun 01 |
 | **[leadtech](http://leadtech.com)** | **[Senior Full Stack AI Native Developer](https://jobr.pro/job/41001645/senior-full-stack-ai-native-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain | Remote | Jun 01 |
-| **[Nelson Education LTD](http://www.nelson.com/)** | **[Senior Full Stack Software Developer](https://jobr.pro/job/41003652/senior-full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | Remote | May 31 |
-| **[Fulfillment IQ](http://fulfillmentiq.com)** | **[Full Stack Python Developer](https://jobr.pro/job/40996188/full-stack-python-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto, Ontario, Canada | On Site | May 31 |
 
 ---
 
-**Current Stats:** 48 jobs | 35% remote | 42 companies | Avg salary: 1.666669333335e+48k  
+**Current Stats:** 47 jobs | 34% remote | 41 companies | Avg salary: 1.666669333335e+48k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, javascript, python  
+**Trending Skills:** react, javascript  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
