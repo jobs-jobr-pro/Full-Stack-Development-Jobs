@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -59,13 +59,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://capcom.com)** | **[Junior Full Stack Developer (Contract Role)](https://jobr.pro/job/41003870/junior-full-stack-developer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada - Toronto | On Site | Jun 01 |
 | **[Capco](https://capcom.com)** | **[Intermediate Full Stack Developer (Contract Role)](https://jobr.pro/job/41003869/intermediate-full-stack-developer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada - Toronto | On Site | Jun 01 |
 | **[Orion Innovation](https://www.orioninnovation.com/)** | **[.Net Full Stack Developer](https://jobr.pro/job/41002822/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Jun 01 |
-| **[UBDS Group](https://ubdsgroup.com)** | **[Full Stack Developer](https://jobr.pro/job/41004379/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Manchester, England, United Kingdom | On Site | Jun 01 |
-| **[Huzzle](https://huzzle.app)** | **[Full-Stack Shopify Developer](https://jobr.pro/job/41002248/full-stack-shopify-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | South Africa | Remote | Jun 01 |
-| **[leadtech](http://leadtech.com)** | **[Senior Full Stack AI Native Developer](https://jobr.pro/job/41001645/senior-full-stack-ai-native-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Spain | Remote | Jun 01 |
 
 ---
 
-**Current Stats:** 49 jobs | 35% remote | 42 companies | Avg salary: 1.666669333335e+48k  
+**Current Stats:** 46 jobs | 33% remote | 40 companies | Avg salary: 1.666669333335e+48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript  
