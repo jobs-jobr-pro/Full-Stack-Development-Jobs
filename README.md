@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -58,11 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SMX](https://smxtech.com)** | **[Full Stack AI Developer (5319)](https://jobr.pro/job/41004321/full-stack-ai-developer-5319?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hanover, MD | On Site | Jun 01 |
 | **[Capco](https://capcom.com)** | **[Junior Full Stack Developer (Contract Role)](https://jobr.pro/job/41003870/junior-full-stack-developer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada - Toronto | On Site | Jun 01 |
 | **[Capco](https://capcom.com)** | **[Intermediate Full Stack Developer (Contract Role)](https://jobr.pro/job/41003869/intermediate-full-stack-developer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada - Toronto | On Site | Jun 01 |
-| **[Orion Innovation](https://www.orioninnovation.com/)** | **[.Net Full Stack Developer](https://jobr.pro/job/41002822/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | On Site | Jun 01 |
 
 ---
 
-**Current Stats:** 46 jobs | 33% remote | 40 companies | Avg salary: 1.666669333335e+48k  
+**Current Stats:** 45 jobs | 33% remote | 40 companies | Avg salary: 1.666669333335e+48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript  
