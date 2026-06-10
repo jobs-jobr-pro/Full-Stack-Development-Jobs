@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Migrate Corp]()** | **[## SYSTEM TEST: Enterprise Senior ! @ # $ % ^ & * ( ) Principal Lead Full-Stack Omni-Channel Cloud Architect, Developer, & Quality Assurance Visionary (GenAI/Web5/Quantum-Ready) — Level IX (Band 12-A)](https://jobr.pro/job/41113554/-system-test-enterprise-senior-principal-lead-full-stack-omni-channel-cloud-architect-developer-quality-assurance-visionary-genaiweb5quantum-ready-level-ix-band-12-a?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Default City, IN-KA, India | On Site | Jun 10 |
 | **[OneTrust](https://www.onetrust.com/)** | **[Full Stack Web Developer - AEM](https://jobr.pro/job/41110584/full-stack-web-developer-aem?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Atlanta, Georgia | On Site | Jun 09 |
 | **[Talan](https://www.talan.com/global/en)** | **[Full-Stack Developer (Java/React) - Relocation to Spain](https://jobr.pro/job/41097485/full-stack-developer-javareact-relocation-to-spain?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 09 |
 | **[Talan](https://www.talan.com/global/en)** | **[Full-Stack Developer (Java/React)](https://jobr.pro/job/41097489/full-stack-developer-javareact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Málaga, AN, Spain | On Site | Jun 09 |
@@ -63,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 47 jobs | 47% remote | 42 companies | Avg salary: 2.23554542858e+36k  
+**Current Stats:** 48 jobs | 46% remote | 43 companies | Avg salary: 2.23554542858e+36k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
