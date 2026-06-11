@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SQLI](https://www.sqli.com/ma-fr)** | **[Senior Java Developer_ Full stack Java](https://jobr.pro/job/41120913/senior-java-developer-full-stack-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rabat, Rabat-Salé-Kénitra, Maroc, , Morocco | Remote | Jun 10 |
 | **[ATLAS](https://atlas.team)** | **[Full Stack Developer (m/w/d)](https://jobr.pro/job/41118767/full-stack-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Frankfurt am Main, Hessen, Germany | Remote | Jun 10 |
 | **[Migrate Corp]()** | **[## SYSTEM TEST: Enterprise Senior ! @ # $ % ^ & * ( ) Principal Lead Full-Stack Omni-Channel Cloud Architect, Developer, & Quality Assurance Visionary (GenAI/Web5/Quantum-Ready) — Level IX (Band 12-A)](https://jobr.pro/job/41113554/-system-test-enterprise-senior-principal-lead-full-stack-omni-channel-cloud-architect-developer-quality-assurance-visionary-genaiweb5quantum-ready-level-ix-band-12-a?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Default City, IN-KA, India | On Site | Jun 10 |
+| **[UBDS Group](https://ubdsgroup.com)** | **[Full Stack Developer](https://jobr.pro/job/41142938/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | On Site | Jun 10 |
 | **[Khayira Holding Company](https://www.khayiraholding.com/)** | **[Senior Full Stack Developer](https://jobr.pro/job/41138310/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 10 |
 | **[Smart Apartment Data](https://smartapartmentdata.com)** | **[Full Stack .NET Developer (ASP.NET Modernization Project)](https://jobr.pro/job/41136940/full-stack-net-developer-aspnet-modernization-project?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Croatia | Remote | Jun 10 |
 | **[SupportYourApp](https://supportyourapp.com)** | **[(fluent Ukrainian) Full-stack Developer (Future Openings 2026)](https://jobr.pro/job/41131517/fluent-ukrainian-full-stack-developer-future-openings-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland | Remote | Jun 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Talent-360.me](https://talentme.se)** | **[Full Stack Developer ( Nest.JS & Next.js)](https://jobr.pro/job/41068464/full-stack-developer-nestjs-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 07 |
 | **[Referrals Only]()** | **[Full stack Java Lead Developer](https://jobr.pro/job/41055747/full-stack-java-lead-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bangalore, India | On Site | Jun 05 |
 | **[Apex](https://www.apexspace.com/)** | **[Full Stack Developer, Business Systems](https://jobr.pro/job/41064055/full-stack-developer-business-systems?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Los Angeles | On Site | Jun 05 |
-| **[Version 1](https://www.version1.com)** | **[Java Full Stack Developer - Mid Level](https://jobr.pro/job/41084203/java-full-stack-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dublin, County Dublin, Ireland | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 43 companies | Avg salary: 2.416669274803e+29k  
+**Current Stats:** 50 jobs | 36% remote | 43 companies | Avg salary: 2.9000031297636e+24k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, aws  
