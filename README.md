@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sigma Software](https://career.sigma.software)** | **[Middle/Senior Full Stack Developer (Logistics Domain)](https://jobr.pro/job/41168533/middlesenior-full-stack-developer-logistics-domain?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | Remote | Jun 12 |
 | **[Scale%20army%20careers]()** | **[Full-Stack Developer](https://jobr.pro/job/41163859/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Egypt | Remote | Jun 12 |
 | **[Dev Technology](https://devtechnology.com)** | **[Senior Full Stack Developer (.Net and Azure)](https://jobr.pro/job/41155896/senior-full-stack-developer-net-and-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herndon, VA (Hybrid) | On Site | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Uruguay)](https://jobr.pro/job/41160996/full-stack-developer-ai-trainer-uruguay?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Uruguay | Remote | Jun 11 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SupportYourApp](https://supportyourapp.com)** | **[(fluent Ukrainian) Full-stack Developer (Future Openings 2026)](https://jobr.pro/job/41131517/fluent-ukrainian-full-stack-developer-future-openings-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland | Remote | Jun 10 |
 | **[INTX Insurance Software](http://intxis.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41127152/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bryanston, Gauteng, South Africa | On Site | Jun 10 |
 | **[INTX Insurance Software](http://intxis.com)** | **[Intermediate Full Stack Developer](https://jobr.pro/job/41127151/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bryanston, Gauteng, South Africa | On Site | Jun 10 |
-| **[INTX Insurance Software](http://intxis.com)** | **[Junior Full Stack Developer](https://jobr.pro/job/41124229/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bryanston, Gauteng, South Africa | On Site | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 62% remote | 34 companies | Avg salary: 1.1176513412192942e+85k  
+**Current Stats:** 50 jobs | 64% remote | 34 companies | Avg salary: 1.1176513412192942e+85k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
