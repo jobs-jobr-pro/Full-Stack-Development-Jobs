@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Spry Methods](https://sprymethods.com)** | **[Full Stack Software Developer](https://jobr.pro/job/41191002/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC (Hybrid) | On Site | Jun 14 |
 | **[Increasingly](https://www.increasingly.com)** | **[Node Full stack developer](https://jobr.pro/job/41186935/node-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Jun 13 |
 | **[APCON](https://apcon.com)** | **[Full Stack Developer - AI](https://jobr.pro/job/41180689/full-stack-developer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Plano, Texas | On Site | Jun 12 |
 | **[PitchBook Data](https://pitchbook.com)** | **[Lead Software Development Engineer, Full Stack](https://jobr.pro/job/41181449/lead-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[H1](https://h1.io)** | **[Software Engineer I (Full stack Developer)](https://jobr.pro/job/41143839/software-engineer-i-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India Remote | Remote | Jun 10 |
 | **[Broadsign Careers](https://broadsign.com)** | **[Full-Stack Software Developer](https://jobr.pro/job/41129356/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jun 10 |
 | **[N-iX](http://nixbiosensors.com)** | **[Senior Java Full-Stack Developer with Angular Expericence](https://jobr.pro/job/41127032/senior-java-full-stack-developer-with-angular-expericence?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland; Romania | On Site | Jun 10 |
-| **[Miratech](https://miratechcorp.com)** | **[Senior Full-Stack Developer (Front End oriented)](https://jobr.pro/job/41121746/senior-full-stack-developer-front-end-oriented?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | Remote | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 64% remote | 34 companies | Avg salary: 1.2105272631588947e+97k  
+**Current Stats:** 50 jobs | 62% remote | 35 companies | Avg salary: 1.2105272631588947e+97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python  
