@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AFRY](https://afry.com)** | **[Full Stack Software Developer (.NET/REACT)](https://jobr.pro/job/41195532/full-stack-software-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zaragoza, AR, Spain | On Site | Jun 15 |
 | **[SmartDev](https://smartdevicelink.com)** | **[Senior Full-stack Developer (PHP + Vue.js)](https://jobr.pro/job/41192811/senior-full-stack-developer-php-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cầu Giấy, Hà Nội, Vietnam | On Site | Jun 15 |
 | **[Spry Methods](https://sprymethods.com)** | **[Full Stack Software Developer](https://jobr.pro/job/41191002/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC (Hybrid) | On Site | Jun 14 |
 | **[Increasingly](https://www.increasingly.com)** | **[Node Full stack developer](https://jobr.pro/job/41186935/node-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Jun 13 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coveo](https://www.coveo.com/en)** | **[Full-Stack Development Intern, Fall 2026](https://jobr.pro/job/41132183/full-stack-development-intern-fall-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal (Province of Quebec, Canada) | On Site | Jun 10 |
 | **[Inetum](https://www.inetum.com/fr/france)** | **[Full Stack Senior Developer with French](https://jobr.pro/job/41128063/full-stack-senior-developer-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | Remote | Jun 10 |
 | **[H1](https://h1.io)** | **[Software Engineer I (Full stack Developer)](https://jobr.pro/job/41143839/software-engineer-i-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India Remote | Remote | Jun 10 |
-| **[Broadsign Careers](https://broadsign.com)** | **[Full-Stack Software Developer](https://jobr.pro/job/41129356/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jun 10 |
 
 ---
 
