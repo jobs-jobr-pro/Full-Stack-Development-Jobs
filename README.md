@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 16, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 16, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AFRY](https://afry.com)** | **[Full Stack Software Developer (.NET/REACT)](https://jobr.pro/job/41195532/full-stack-software-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zaragoza, AR, Spain | On Site | Jun 15 |
 | **[Y Soft](https://www.ysoft.com)** | **[Full-Stack TypeScript Developer (AI-Assisted Development) - Believer](https://jobr.pro/job/41200671/full-stack-typescript-developer-ai-assisted-development-believer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brno | On Site | Jun 15 |
 | **[SmartDev](https://smartdevicelink.com)** | **[Senior Full-stack Developer (PHP + Vue.js)](https://jobr.pro/job/41192811/senior-full-stack-developer-php-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cầu Giấy, Hà Nội, Vietnam | On Site | Jun 15 |
+| **[SkySun](https://skysun.io)** | **[Full-Stack Developer](https://jobr.pro/job/41207380/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chandigarh, Chandigarh, India | On Site | Jun 15 |
 | **[Node.Digital](https://www.node.digital)** | **[Full-Stack Java Developer](https://jobr.pro/job/41201709/full-stack-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herndon, Virginia, United States | Remote | Jun 15 |
 | **[super{set} Hive Community](https://superset.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41197942/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, QC | On Site | Jun 14 |
 | **[Spry Methods](https://sprymethods.com)** | **[Full Stack Software Developer](https://jobr.pro/job/41191002/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC (Hybrid) | On Site | Jun 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deeplight](https://deeplightlabs.io)** | **[Full Stack Developer](https://jobr.pro/job/41144320/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Jun 11 |
 | **[OOS Management Corp.]()** | **[Full Stack Developer](https://jobr.pro/job/41135980/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brooklyn, New York | On Site | Jun 10 |
 | **[Scalian](https://www.scalian.com)** | **[Full Stack Developer](https://jobr.pro/job/41133940/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, , Canada | On Site | Jun 10 |
-| **[Neural Earth](https://www.neural-earth.io/)** | **[Full Stack Developer](https://jobr.pro/job/41149286/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | Remote | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 56% remote | 34 companies | Avg salary: 5.555568333343889e+90k  
+**Current Stats:** 50 jobs | 54% remote | 34 companies | Avg salary: 5.882366470599412e+84k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, typescript  
