@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 16, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,10 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NISC](https://nisc.coop)** | **[Software Developer II - Provisioning (Full Stack, Front End)](https://jobr.pro/job/41203893/software-developer-ii-provisioning-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mandan, ND | On Site | Jun 15 |
+| **[National Information Solutions Cooperative (NISC)](https://www.nisc.coop)** | **[Software Developer II - Provisioning (Full Stack, Front End)](https://jobr.pro/job/41203899/software-developer-ii-provisioning-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Any NISC Location | On Site | Jun 15 |
+| **[GRVTY](https://grvty.com)** | **[Senior Full Stack Software Developer w/poly](https://jobr.pro/job/41200706/senior-full-stack-software-developer-wpoly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sterling, Virginia, United States | On Site | Jun 15 |
 | **[Crown Innovations, Inc.]()** | **[Junior Full Stack Developer](https://jobr.pro/job/41198404/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington, VA, United States | Remote | Jun 15 |
 | **[Ubisoft](https://ubisoft.com)** | **[.Net Full-Stack Developer](https://jobr.pro/job/41197527/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | On Site | Jun 15 |
 | **[AFRY](https://afry.com)** | **[Full Stack Software Developer (.NET/REACT)](https://jobr.pro/job/41195532/full-stack-software-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zaragoza, AR, Spain | On Site | Jun 15 |
+| **[Y Soft](https://www.ysoft.com)** | **[Full-Stack TypeScript Developer (AI-Assisted Development) - Believer](https://jobr.pro/job/41200671/full-stack-typescript-developer-ai-assisted-development-believer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brno | On Site | Jun 15 |
 | **[SmartDev](https://smartdevicelink.com)** | **[Senior Full-stack Developer (PHP + Vue.js)](https://jobr.pro/job/41192811/senior-full-stack-developer-php-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Cầu Giấy, Hà Nội, Vietnam | On Site | Jun 15 |
+| **[Node.Digital](https://www.node.digital)** | **[Full-Stack Java Developer](https://jobr.pro/job/41201709/full-stack-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herndon, Virginia, United States | Remote | Jun 15 |
 | **[super{set} Hive Community](https://superset.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41197942/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, QC | On Site | Jun 14 |
 | **[Spry Methods](https://sprymethods.com)** | **[Full Stack Software Developer](https://jobr.pro/job/41191002/full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC (Hybrid) | On Site | Jun 14 |
 | **[Increasingly](https://www.increasingly.com)** | **[Node Full stack developer](https://jobr.pro/job/41186935/node-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, KA, India | On Site | Jun 13 |
@@ -30,7 +35,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Software](https://career.sigma.software)** | **[Middle/Senior Full Stack Developer (Logistics Domain)](https://jobr.pro/job/41168533/middlesenior-full-stack-developer-logistics-domain?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | Remote | Jun 12 |
 | **[Scale%20army%20careers]()** | **[Full-Stack Developer](https://jobr.pro/job/41163859/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Egypt | Remote | Jun 12 |
 | **[Remote Talent LATAM](https://remotetalentlatam.com)** | **[Senior Shopify Full Stack Developer \| Remote \| LATAM \| 89004](https://jobr.pro/job/41182232/senior-shopify-full-stack-developer-remote-latam-89004?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chile | Remote | Jun 12 |
-| **[SMB Team](http://smbteam.com)** | **[Full Stack Developer](https://jobr.pro/job/41181276/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philadelphia, Pennsylvania, United States | Remote | Jun 12 |
 | **[Dev Technology](https://devtechnology.com)** | **[Senior Full Stack Developer (.Net and Azure)](https://jobr.pro/job/41155896/senior-full-stack-developer-net-and-azure?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Herndon, VA (Hybrid) | On Site | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Uruguay)](https://jobr.pro/job/41160996/full-stack-developer-ai-trainer-uruguay?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Uruguay | Remote | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Peru)](https://jobr.pro/job/41160995/full-stack-developer-ai-trainer-peru?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Peru - Fully Remote | Remote | Jun 11 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OOS Management Corp.]()** | **[Full Stack Developer](https://jobr.pro/job/41135980/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brooklyn, New York | On Site | Jun 10 |
 | **[Scalian](https://www.scalian.com)** | **[Full Stack Developer](https://jobr.pro/job/41133940/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal, , Canada | On Site | Jun 10 |
 | **[Neural Earth](https://www.neural-earth.io/)** | **[Full Stack Developer](https://jobr.pro/job/41149286/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | United States | Remote | Jun 10 |
-| **[Darkroom](https://www.darkroomagency.com/)** | **[Full-Stack Developer](https://jobr.pro/job/41145902/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jun 10 |
-| **[Konrad](https://konrad.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41138122/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto | On Site | Jun 10 |
-| **[Coveo](https://www.coveo.com/en)** | **[Full-Stack Development Intern, Fall 2026](https://jobr.pro/job/41132183/full-stack-development-intern-fall-2026?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Montreal (Province of Quebec, Canada) | On Site | Jun 10 |
-| **[Inetum](https://www.inetum.com/fr/france)** | **[Full Stack Senior Developer with French](https://jobr.pro/job/41128063/full-stack-senior-developer-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | Remote | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 60% remote | 36 companies | Avg salary: 5.000011500009e+102k  
+**Current Stats:** 50 jobs | 56% remote | 34 companies | Avg salary: 5.555568333343889e+90k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, python  
+**Trending Skills:** react, python, typescript  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
