@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 16, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Full Stack Developer (Vue.js + Python)](https://jobr.pro/job/41225042/vck-full-stack-developer-vuejs-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 16 |
+| **[Dark Wolf Solutions](https://darkwolfsolutions.com)** | **[Full Stack Developer](https://jobr.pro/job/41225714/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colorado Springs, CO | On Site | Jun 16 |
+| **[N-iX](http://nixbiosensors.com)** | **[Senior Full-Stack Developer (Node.js+React)](https://jobr.pro/job/41220708/senior-full-stack-developer-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland; Ukraine | On Site | Jun 16 |
 | **[Surfshark](https://surfshark.com)** | **[Mid/Senior Full-stack Developer (Internal tools)](https://jobr.pro/job/41219459/midsenior-full-stack-developer-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | Remote | Jun 16 |
 | **[Tieto](https://www.tieto.com)** | **[Full Stack Developer (Kotlin) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41212156/full-stack-developer-kotlin-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, , Finland | Remote | Jun 16 |
 | **[CHECK24](https://www.check24.de)** | **[Werkstudent (m/w/d) Full-Stack Development Reise](https://jobr.pro/job/41210943/werkstudent-mwd-full-stack-development-reise?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Leipzig, Sachsen, Germany | On Site | Jun 16 |
@@ -38,7 +41,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PitchBook Data](https://pitchbook.com)** | **[Lead Software Development Engineer, Full Stack](https://jobr.pro/job/41181449/lead-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
 | **[NISC](https://nisc.coop)** | **[Software Developer II - Financials (Full Stack, Front End)](https://jobr.pro/job/41180699/software-developer-ii-financials-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mandan, ND | On Site | Jun 12 |
 | **[National Information Solutions Cooperative (NISC)](https://nisc.com)** | **[Software Developer II - Financials (Full Stack, Front End)](https://jobr.pro/job/41180711/software-developer-ii-financials-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Any NISC Location | On Site | Jun 12 |
-| **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Full Stack Developer - Vue.js / Python](https://jobr.pro/job/41181414/vck-full-stack-developer-vuejs-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 12 |
 | **[SQLI](https://www.sqli.com)** | **[Senior Java Developer_ Full stack Java](https://jobr.pro/job/41174153/senior-java-developer-full-stack-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rabat, Rabat-Salé-Kénitra, Maroc, , Morocco | Remote | Jun 12 |
 | **[Miratech](https://miratechcorp.com)** | **[Full Stack Developer (Outbound/Selfservice)](https://jobr.pro/job/41169349/full-stack-developer-outboundselfservice?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | All Cities, , India | Remote | Jun 12 |
 | **[Sigma Software](https://career.sigma.software)** | **[Middle/Senior Full Stack Developer (Logistics Domain)](https://jobr.pro/job/41168533/middlesenior-full-stack-developer-logistics-domain?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | Remote | Jun 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer (Argentina)](https://jobr.pro/job/41160983/full-stack-developer-argentina?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia - Fully Remote | Remote | Jun 11 |
 | **[Sigma Software](https://career.sigma.software/)** | **[Junior Full Stack Developer (Logistics Domain)](https://jobr.pro/job/41159933/junior-full-stack-developer-logistics-domain?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Krakow, , Poland | Remote | Jun 11 |
 | **[PSI CRO](https://psi-cro.com/)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/41148968/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | São Paulo, SP, Brazil | Remote | Jun 11 |
-| **[Talan](https://www.talan.com/global/en)** | **[Full Stack Developer (React/Nest.js) - 2-Month Project](https://jobr.pro/job/41146859/full-stack-developer-reactnestjs-2-month-project?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Santiago, Santiago Metropolitan Region, Chile | Remote | Jun 11 |
-| **[Trinetix](http://trinetix.com)** | **[AI Senior Full Stack Developer (.NET + Angular, AI-Driven Development)](https://jobr.pro/job/41154497/ai-senior-full-stack-developer-net-angular-ai-driven-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Portugal | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 56% remote | 34 companies | Avg salary: 3.6631657894789474e+96k  
+**Current Stats:** 50 jobs | 52% remote | 34 companies | Avg salary: 9.000034800075e+101k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, typescript, aws  
