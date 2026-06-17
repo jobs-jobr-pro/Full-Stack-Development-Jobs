@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PSI CRO](https://psi-cro.com)** | **[Full stack .NET developer (AI Solutions)](https://jobr.pro/job/41233038/full-stack-net-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Almaty, Almaty Region, Kazakhstan | Remote | Jun 17 |
+| **[Talan](https://www.talan.com)** | **[Full Stack Senior Developer (AI‑Native)](https://jobr.pro/job/41232955/full-stack-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 17 |
 | **[HR Connect Limited](https://www.hrconnect.co.nz)** | **[Full Stack Developer](https://jobr.pro/job/41229187/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hamilton, Waikato Region, New Zealand | On Site | Jun 17 |
-| **[Bosch Group](https://www.bosch.com)** | **[Full Stack developer for Web applications](https://jobr.pro/job/41228601/full-stack-developer-for-web-applications?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | bangalore, , India | On Site | Jun 17 |
+| **[Maker Lab](https://www.wearemakerlab.com)** | **[AI Engineer, (Full Stack Development)](https://jobr.pro/job/41231993/ai-engineer-full-stack-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram, Haryana, India | Remote | Jun 17 |
+| **[Captivation Software](https://captivation.us)** | **[Full-Stack Developer - Python/JavaScript/CSS/REST/Docker](https://jobr.pro/job/41231480/full-stack-developer-pythonjavascriptcssrestdocker?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Annapolis Junction, MD | On Site | Jun 16 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Full Stack Developer (Vue.js + Python)](https://jobr.pro/job/41225042/vck-full-stack-developer-vuejs-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 16 |
 | **[Dark Wolf Solutions](https://darkwolfsolutions.com)** | **[Full Stack Developer](https://jobr.pro/job/41225714/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colorado Springs, CO | On Site | Jun 16 |
 | **[N-iX](http://nixbiosensors.com)** | **[Senior Full-Stack Developer (Node.js+React)](https://jobr.pro/job/41220708/senior-full-stack-developer-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland; Ukraine | On Site | Jun 16 |
@@ -30,7 +33,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rockstar Games](https://rockstargames.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41217718/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Carlsbad, California, United States | On Site | Jun 15 |
 | **[Encora](https://encora.es)** | **[.Net + Angular + AWS - Full Stack Developer](https://jobr.pro/job/41210517/net-angular-aws-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Jun 15 |
 | **[GRVTY](https://grvty.com)** | **[Senior Full Stack Software Developer w/poly](https://jobr.pro/job/41200706/senior-full-stack-software-developer-wpoly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sterling, Virginia, United States | On Site | Jun 15 |
-| **[Crown Innovations, Inc.]()** | **[Junior Full Stack Developer](https://jobr.pro/job/41198404/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Arlington, VA, United States | Remote | Jun 15 |
 | **[Ubisoft](https://ubisoft.com)** | **[.Net Full-Stack Developer](https://jobr.pro/job/41197527/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | On Site | Jun 15 |
 | **[AFRY](https://afry.com)** | **[Full Stack Software Developer (.NET/REACT)](https://jobr.pro/job/41195532/full-stack-software-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zaragoza, AR, Spain | On Site | Jun 15 |
 | **[Y Soft](https://www.ysoft.com)** | **[Full-Stack TypeScript Developer (AI-Assisted Development) - Believer](https://jobr.pro/job/41200671/full-stack-typescript-developer-ai-assisted-development-believer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brno | On Site | Jun 15 |
@@ -61,15 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Ecuador)](https://jobr.pro/job/41160984/full-stack-developer-ai-trainer-ecuador?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Ecuador - Fully Remote | Remote | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Czechia)](https://jobr.pro/job/41160987/full-stack-developer-ai-trainer-czechia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Czech Republic | Remote | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Colombia)](https://jobr.pro/job/41160985/full-stack-developer-ai-trainer-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia - Fully Remote | Remote | Jun 11 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Chile)](https://jobr.pro/job/41160981/full-stack-developer-ai-trainer-chile?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chile | Remote | Jun 11 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Full-Stack Developer - AI Trainer (Brazil)](https://jobr.pro/job/41160986/full-stack-developer-ai-trainer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 36 companies | Avg salary: 9.000034800054e+102k  
+**Current Stats:** 50 jobs | 48% remote | 38 companies | Avg salary: 1.5000010000038665e+93k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, python, typescript, aws  
+**Trending Skills:** react, javascript, python, typescript, aws  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
