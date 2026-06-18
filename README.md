@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Infotel UK](https://infotel-consulting.co.uk)** | **[JAVA full stack developer - Bangalore](https://jobr.pro/job/41251545/java-full-stack-developer-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 18 |
 | **[Capco](https://redcapacitacion.cl)** | **[Développeur Full Stack (Java/Angular)/Java Full Stack Developer](https://jobr.pro/job/41240686/developpeur-full-stack-javaangularjava-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Canada - Montreal | On Site | Jun 17 |
 | **[NEORIS](https://www.emis.com)** | **[Senior Full Stack Developer (AI-Native)](https://jobr.pro/job/41239751/senior-full-stack-developer-ai-native?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Spain | Remote | Jun 17 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41238240/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Des Moines, Iowa, United States | Remote | Jun 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[APCON](https://apcon.com)** | **[Full Stack Developer - AI](https://jobr.pro/job/41180689/full-stack-developer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Plano, Texas | On Site | Jun 12 |
 | **[PitchBook Data](https://pitchbook.com)** | **[Lead Software Development Engineer, Full Stack](https://jobr.pro/job/41181449/lead-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
 | **[NISC](https://nisc.coop)** | **[Software Developer II - Financials (Full Stack, Front End)](https://jobr.pro/job/41180699/software-developer-ii-financials-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mandan, ND | On Site | Jun 12 |
-| **[National Information Solutions Cooperative (NISC)](https://nisc.com)** | **[Software Developer II - Financials (Full Stack, Front End)](https://jobr.pro/job/41180711/software-developer-ii-financials-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Any NISC Location | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 45 companies | Avg salary: 1.90000337500225e+42k  
+**Current Stats:** 50 jobs | 34% remote | 46 companies | Avg salary: 1.90000337500225e+42k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, python, typescript, aws  
