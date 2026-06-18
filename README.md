@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -27,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HR Connect Limited](https://www.hrconnect.co.nz)** | **[Full Stack Developer](https://jobr.pro/job/41229187/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hamilton, Waikato Region, New Zealand | On Site | Jun 17 |
 | **[Kepora](https://www.kepora.com)** | **[Cloud Engineer / Full Stack Developer](https://jobr.pro/job/41237768/cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | FANX III | On Site | Jun 17 |
 | **[Kepora](https://www.kepora.com)** | **[Full Stack Developer, Senior](https://jobr.pro/job/41237770/full-stack-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | FANX III | On Site | Jun 17 |
+| **[BlackStone eIT](https://www.blackstoneeit.com)** | **[Senior Full Stack Developer (SharePoint)](https://jobr.pro/job/41245870/senior-full-stack-developer-sharepoint?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jun 17 |
 | **[Genetec](https://genetec.com)** | **[Team Lead - Full-Stack Development](https://jobr.pro/job/41239856/team-lead-full-stack-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, Vienna, Austria | On Site | Jun 17 |
 | **[FE fundinfo](https://www.fefundinfo.com)** | **[Full Stack Developer (5 Months Contract)](https://jobr.pro/job/41238011/full-stack-developer-5-months-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, Tamil Nadu, India | Remote | Jun 17 |
 | **[AI2CYBER](https://ai2cyber.com)** | **[Full Stack Developer](https://jobr.pro/job/41238009/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greece | Remote | Jun 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PitchBook Data](https://pitchbook.com)** | **[Lead Software Development Engineer, Full Stack](https://jobr.pro/job/41181449/lead-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
 | **[NISC](https://nisc.coop)** | **[Software Developer II - Financials (Full Stack, Front End)](https://jobr.pro/job/41180699/software-developer-ii-financials-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mandan, ND | On Site | Jun 12 |
 | **[National Information Solutions Cooperative (NISC)](https://nisc.com)** | **[Software Developer II - Financials (Full Stack, Front End)](https://jobr.pro/job/41180711/software-developer-ii-financials-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Any NISC Location | On Site | Jun 12 |
-| **[SQLI](https://www.sqli.com)** | **[Senior Java Developer_ Full stack Java](https://jobr.pro/job/41174153/senior-java-developer-full-stack-java?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Rabat, Rabat-Salé-Kénitra, Maroc, , Morocco | Remote | Jun 12 |
 
 ---
 
