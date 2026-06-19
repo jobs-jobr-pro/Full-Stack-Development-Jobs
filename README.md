@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Accenture Federal Services](https://accenture.com)** | **[Senior Full Stack Developer \| AI Forward](https://jobr.pro/job/41268006/senior-full-stack-developer-ai-forward?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Jun 18 |
 | **[Talan](https://www.talan.com)** | **[Full Stack Senior Developer (AI‑Native)](https://jobr.pro/job/41263063/full-stack-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Santiago, Santiago Metropolitan Region, Chile | Remote | Jun 18 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41260676/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Champaign, ILLINOIS, United States | Remote | Jun 18 |
 | **[NECSWS](https://www.necsws.com)** | **[Junior / Mid-Level Full Stack Developer](https://jobr.pro/job/41256881/junior-mid-level-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | London, England, United Kingdom | Remote | Jun 18 |
@@ -33,7 +34,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HR Connect Limited](https://www.hrconnect.co.nz)** | **[Full Stack Developer](https://jobr.pro/job/41229187/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hamilton, Waikato Region, New Zealand | On Site | Jun 17 |
 | **[BlackStone eIT](https://www.blackstoneeit.com)** | **[Senior Full Stack Developer (SharePoint)](https://jobr.pro/job/41245870/senior-full-stack-developer-sharepoint?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jun 17 |
 | **[Genetec](https://genetec.com)** | **[Team Lead - Full-Stack Development](https://jobr.pro/job/41239856/team-lead-full-stack-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, Vienna, Austria | On Site | Jun 17 |
-| **[FE fundinfo](https://www.fefundinfo.com)** | **[Full Stack Developer (5 Months Contract)](https://jobr.pro/job/41238011/full-stack-developer-5-months-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, Tamil Nadu, India | Remote | Jun 17 |
 | **[AI2CYBER](https://ai2cyber.com)** | **[Full Stack Developer](https://jobr.pro/job/41238009/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greece | Remote | Jun 17 |
 | **[Maker Lab](https://www.wearemakerlab.com)** | **[AI Engineer, (Full Stack Development)](https://jobr.pro/job/41231993/ai-engineer-full-stack-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Gurugram, Haryana, India | Remote | Jun 17 |
 | **[Captivation Software](https://captivation.us)** | **[Full-Stack Developer - Python/JavaScript/CSS/REST/Docker](https://jobr.pro/job/41231480/full-stack-developer-pythonjavascriptcssrestdocker?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Annapolis Junction, MD | On Site | Jun 16 |
@@ -66,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 47 companies | Avg salary: 2.171432428574e+36k  
+**Current Stats:** 50 jobs | 36% remote | 47 companies | Avg salary: 2.7637519000033752e+42k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, python, typescript, aws  
