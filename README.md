@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Red Energy](https://redenergy.co.za)** | **[Full Stack Developer](https://jobr.pro/job/41312026/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Richmond, Victoria, Australia | On Site | Jun 22 |
+| **[DVI Solution](http://dviasia.com)** | **[Full Stack Developer (Workplace Technology Solutions)](https://jobr.pro/job/41311824/full-stack-developer-workplace-technology-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Jun 22 |
 | **[Weekday AI](https://www.weekday.works)** | **[Full stack developer](https://jobr.pro/job/41302624/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, Kerala, India | On Site | Jun 20 |
 | **[Mindrift](https://mindrift.io)** | **[Freelance Full-Stack Web App Developer](https://jobr.pro/job/41301876/freelance-full-stack-web-app-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Portugal | Remote | Jun 20 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Full Stack Developer (Vue.js + Python)](https://jobr.pro/job/41292481/vck-full-stack-developer-vuejs-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 19 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rockstar Games](https://rockstargames.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41217718/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Carlsbad, California, United States | On Site | Jun 15 |
 | **[Encora](https://encora.es)** | **[.Net + Angular + AWS - Full Stack Developer](https://jobr.pro/job/41210517/net-angular-aws-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Jun 15 |
 | **[GRVTY](https://grvty.com)** | **[Senior Full Stack Software Developer w/poly](https://jobr.pro/job/41200706/senior-full-stack-software-developer-wpoly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sterling, Virginia, United States | On Site | Jun 15 |
-| **[Ubisoft](https://ubisoft.com)** | **[.Net Full-Stack Developer](https://jobr.pro/job/41197527/net-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | On Site | Jun 15 |
-| **[AFRY](https://afry.com)** | **[Full Stack Software Developer (.NET/REACT)](https://jobr.pro/job/41195532/full-stack-software-developer-netreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zaragoza, AR, Spain | On Site | Jun 15 |
 
 ---
 
