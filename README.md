@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[STOW Group](https://www.stow-group.com)** | **[Full Stack Developer (React / TypeScript / Golang / C# .NET) – QA Automation Focus](https://jobr.pro/job/41314752/full-stack-developer-react-typescript-golang-c-net-qa-automation-focus?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Lokeren, Vlaanderen, Belgium | On Site | Jun 22 |
 | **[Red Energy](https://redenergy.co.za)** | **[Full Stack Developer](https://jobr.pro/job/41312026/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Richmond, Victoria, Australia | On Site | Jun 22 |
 | **[DVI Solution](http://dviasia.com)** | **[Full Stack Developer (Workplace Technology Solutions)](https://jobr.pro/job/41311824/full-stack-developer-workplace-technology-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Jun 22 |
 | **[Weekday AI](https://www.weekday.works)** | **[Full stack developer](https://jobr.pro/job/41302624/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kochi, Kerala, India | On Site | Jun 20 |
@@ -62,14 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[National Information Solutions Cooperative (NISC)](https://www.nisc.coop)** | **[Software Developer II - Provisioning (Full Stack, Front End)](https://jobr.pro/job/41203899/software-developer-ii-provisioning-full-stack-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Any NISC Location | On Site | Jun 15 |
 | **[Rockstar Games](https://rockstargames.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41217718/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Carlsbad, California, United States | On Site | Jun 15 |
 | **[Encora](https://encora.es)** | **[.Net + Angular + AWS - Full Stack Developer](https://jobr.pro/job/41210517/net-angular-aws-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Jun 15 |
-| **[GRVTY](https://grvty.com)** | **[Senior Full Stack Software Developer w/poly](https://jobr.pro/job/41200706/senior-full-stack-software-developer-wpoly?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sterling, Virginia, United States | On Site | Jun 15 |
 
 ---
 
 **Current Stats:** 50 jobs | 44% remote | 47 companies | Avg salary: 5.0416758333440795e+65k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, javascript, python, aws  
+**Trending Skills:** react, javascript, python, typescript, aws  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
