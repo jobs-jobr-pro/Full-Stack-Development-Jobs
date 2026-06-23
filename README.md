@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PSI CRO](https://psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/41336842/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | Remote | Jun 23 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41328742/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Champaign, ILLINOIS, United States | Remote | Jun 23 |
+| **[Polymer Capital Taiwan](https://polymercapital.com)** | **[Full Stack Developer (Analyst/Associate, Risk & Quant Analytics)](https://jobr.pro/job/41336535/full-stack-developer-analystassociate-risk-quant-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Taipei, Taipei City, Taiwan | On Site | Jun 23 |
 | **[Method Integration](https://method.me)** | **[Intermediate Full-Stack Developer](https://jobr.pro/job/41324030/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto Office | Remote | Jun 22 |
 | **[PSI CRO](https://psi-cro.com)** | **[Full stack .NET developer (AI Solutions)](https://jobr.pro/job/41320036/full-stack-net-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Almaty, Almaty Region, Kazakhstan | Remote | Jun 22 |
 | **[PSI CRO](https://psi-cro.com)** | **[Full stack developer (AI Solutions)](https://jobr.pro/job/41320037/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Vilnius County, Lithuania | Remote | Jun 22 |
@@ -46,7 +48,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hitachi Solutions](https://hitachisolutions.com)** | **[Senior Full Stack Developer (.NET & Azure) (w/m/d)](https://jobr.pro/job/41237312/senior-full-stack-developer-net-azure-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nürnberg, Braunschweig, , Germany | Remote | Jun 17 |
 | **[Tieto](https://www.tieto.com)** | **[Full Stack Application Developer - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41235055/full-stack-application-developer-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, Uusimaa, Finland | Remote | Jun 17 |
 | **[CloudMoyo](http://www.cloudmoyo.com)** | **[Full Stack Developer (.NET, Azure, Angular)](https://jobr.pro/job/41235156/full-stack-developer-net-azure-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Jun 17 |
-| **[PSI CRO](https://psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/41235953/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | Remote | Jun 17 |
 | **[Clifford Chance](https://jobs.cliffordchance.com)** | **[Module Lead (.Net, Angular Full stack developer)](https://jobr.pro/job/41236791/module-lead-net-angular-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi, HARYANA, India | On Site | Jun 17 |
 | **[Roland Berger](https://www.rolandberger.com)** | **[Full Stack Developer (all genders)](https://jobr.pro/job/41253005/full-stack-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Munich, BY, Germany | On Site | Jun 17 |
 | **[HR Connect Limited](https://www.hrconnect.co.nz)** | **[Full Stack Developer](https://jobr.pro/job/41229187/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hamilton, Waikato Region, New Zealand | On Site | Jun 17 |
@@ -58,12 +59,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ELEVI Associates]()** | **[MidLevel Full Stack Software Developer](https://jobr.pro/job/41236687/midlevel-full-stack-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Annapolis Junction, MD | On Site | Jun 16 |
 | **[N-iX](http://nixbiosensors.com)** | **[Senior Full-Stack Developer (Node.js+React)](https://jobr.pro/job/41220708/senior-full-stack-developer-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland; Ukraine | On Site | Jun 16 |
 | **[Surfshark](https://surfshark.com)** | **[Mid/Senior Full-stack Developer (Internal tools)](https://jobr.pro/job/41219459/midsenior-full-stack-developer-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius | Remote | Jun 16 |
-| **[Tieto](https://www.tieto.com)** | **[Full Stack Developer (Kotlin) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41212156/full-stack-developer-kotlin-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, , Finland | Remote | Jun 16 |
-| **[Aumovio](https://aumoviospain.es)** | **[Full Stack Developer (m/f/d)](https://jobr.pro/job/41210277/full-stack-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Timișoara, TM, Romania | On Site | Jun 16 |
 
 ---
 
-**Current Stats:** 47 jobs | 51% remote | 42 companies | Avg salary: 9.16671666745834e+62k  
+**Current Stats:** 46 jobs | 50% remote | 42 companies | Avg salary: 9.16671666745834e+62k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, python, typescript  
