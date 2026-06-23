@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41328742/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Champaign, ILLINOIS, United States | Remote | Jun 23 |
 | **[Method Integration](https://method.me)** | **[Intermediate Full-Stack Developer](https://jobr.pro/job/41324030/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto Office | Remote | Jun 22 |
 | **[PSI CRO](https://psi-cro.com)** | **[Full stack .NET developer (AI Solutions)](https://jobr.pro/job/41320036/full-stack-net-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Almaty, Almaty Region, Kazakhstan | Remote | Jun 22 |
 | **[PSI CRO](https://psi-cro.com)** | **[Full stack developer (AI Solutions)](https://jobr.pro/job/41320037/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Vilnius County, Lithuania | Remote | Jun 22 |
@@ -36,7 +37,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aphex](https://aphex.co)** | **[Senior Full Stack Developer](https://jobr.pro/job/41293282/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philippines | Remote | Jun 18 |
 | **[Cloudforce](https://gocloudforce.com)** | **[Lead Full Stack Developer](https://jobr.pro/job/41283818/lead-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | National Harbor, Maryland | On Site | Jun 18 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Senior Full Stack Developer \| AI Forward](https://jobr.pro/job/41268006/senior-full-stack-developer-ai-forward?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Jun 18 |
-| **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41260676/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Champaign, ILLINOIS, United States | Remote | Jun 18 |
 | **[Itecor](https://itecor.com)** | **[Senior Full Stack Engineer (Architecture & AI-Driven Development)](https://jobr.pro/job/41274377/senior-full-stack-engineer-architecture-ai-driven-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Skopje, Greater Skopje, North Macedonia | On Site | Jun 18 |
 | **[Creatunity LLC](https://creatunity.com)** | **[Lead Full-Stack Engineer (AI-Assisted Development)](https://jobr.pro/job/41272567/lead-full-stack-engineer-ai-assisted-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Zagreb, Grad Zagreb, Croatia | Remote | Jun 18 |
 | **[EUROPEAN DYNAMICS](http://www.eurodyn.com)** | **[Full Stack Developer (.NET)](https://jobr.pro/job/41255483/full-stack-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, Vienna, Austria | Remote | Jun 18 |
