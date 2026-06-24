@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -16,6 +16,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tieto](https://www.tieto.com)** | **[Full Stack Developer (Kotlin) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41337950/full-stack-developer-kotlin-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, , Finland | On Site | Jun 23 |
 | **[PSI CRO](https://psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/41336842/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | Remote | Jun 23 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41328742/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Champaign, ILLINOIS, United States | Remote | Jun 23 |
+| **[Polymer Capital China](https://polymercapital.com)** | **[Full Stack Developer (Analyst, Risk & Quant Analytics)](https://jobr.pro/job/41348365/full-stack-developer-analyst-risk-quant-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Shanghai, Shanghai, China | On Site | Jun 23 |
+| **[Polymer Capital China](https://polymercapital.com)** | **[Full Stack Developer](https://jobr.pro/job/41348364/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Shanghai, Shanghai, China | On Site | Jun 23 |
+| **[StradIT](https://www.stradit.com)** | **[Java Full Stack Developer](https://jobr.pro/job/41347208/java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Jersey City, New Jersey, United States | On Site | Jun 23 |
 | **[Polymer Capital](https://polymercapital.com)** | **[Full Stack Developer (Analyst, Risk & Quant Analytics), Hong Kong](https://jobr.pro/job/41340673/full-stack-developer-analyst-risk-quant-analytics-hong-kong?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Jun 23 |
 | **[Polymer Capital Taiwan](https://polymercapital.com)** | **[Full Stack Developer (Analyst/Associate, Risk & Quant Analytics)](https://jobr.pro/job/41336535/full-stack-developer-analystassociate-risk-quant-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Taipei, Taipei City, Taiwan | On Site | Jun 23 |
 | **[PitchBook Data](https://pitchbook.com)** | **[Sr. Software Development Engineer, Full Stack](https://jobr.pro/job/41340272/sr-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Jun 22 |
@@ -53,18 +56,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Clifford Chance](https://jobs.cliffordchance.com)** | **[Module Lead (.Net, Angular Full stack developer)](https://jobr.pro/job/41236791/module-lead-net-angular-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi, HARYANA, India | On Site | Jun 17 |
 | **[Roland Berger](https://www.rolandberger.com)** | **[Full Stack Developer (all genders)](https://jobr.pro/job/41253005/full-stack-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Munich, BY, Germany | On Site | Jun 17 |
 | **[HR Connect Limited](https://www.hrconnect.co.nz)** | **[Full Stack Developer](https://jobr.pro/job/41229187/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hamilton, Waikato Region, New Zealand | On Site | Jun 17 |
-| **[BlackStone eIT](https://www.blackstoneeit.com)** | **[Senior Full Stack Developer (SharePoint)](https://jobr.pro/job/41245870/senior-full-stack-developer-sharepoint?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India | Remote | Jun 17 |
-| **[Genetec](https://genetec.com)** | **[Team Lead - Full-Stack Development](https://jobr.pro/job/41239856/team-lead-full-stack-development?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vienna, Vienna, Austria | On Site | Jun 17 |
-| **[AI2CYBER](https://ai2cyber.com)** | **[Full Stack Developer](https://jobr.pro/job/41238009/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Greece | Remote | Jun 17 |
-| **[Captivation Software](https://captivation.us)** | **[Full-Stack Developer - Python/JavaScript/CSS/REST/Docker](https://jobr.pro/job/41231480/full-stack-developer-pythonjavascriptcssrestdocker?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Annapolis Junction, MD | On Site | Jun 16 |
-| **[Dark Wolf Solutions](https://darkwolfsolutions.com)** | **[Full Stack Developer](https://jobr.pro/job/41225714/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colorado Springs, CO | On Site | Jun 16 |
 
 ---
 
-**Current Stats:** 45 jobs | 49% remote | 40 companies | Avg salary: 1.954546454550909e+58k  
+**Current Stats:** 43 jobs | 47% remote | 37 companies | Avg salary: 2.388890111117778e+46k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, javascript, python, typescript  
+**Trending Skills:** react, python, typescript  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
