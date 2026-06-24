@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Capco](https://redcapacitacion.cl)** | **[Golang Full-Stack Developer](https://jobr.pro/job/41362174/golang-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India - Bengaluru | On Site | Jun 24 |
+| **[Statkraft](https://statkraft.com)** | **[Full Stack Developer](https://jobr.pro/job/41361911/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, Madrid, Spain | Remote | Jun 24 |
+| **[Capco](https://redcapacitacion.cl)** | **[Senior Technology Delivery - Full-Stack Developer (MERN) - POS 2](https://jobr.pro/job/41358342/senior-technology-delivery-full-stack-developer-mern-pos-2?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | India - Bengaluru | On Site | Jun 24 |
+| **[JobRack](https://jobrack.eu)** | **[Downeast Cider - AI Full Stack Developer](https://jobr.pro/job/41361304/downeast-cider-ai-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | South Africa | Remote | Jun 24 |
+| **[Valsoft Corporation](http://aspiresoftware.com)** | **[AI Full Stack Senior Software Developer - SKDA](https://jobr.pro/job/41360027/ai-full-stack-senior-software-developer-skda?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Beirut, Beirut Governorate, Lebanon | On Site | Jun 24 |
+| **[Manila Recruitment](https://manilarecruitment.com)** | **[WFH Senior Full Stack Developer (React & Python) - #35129](https://jobr.pro/job/41359836/wfh-senior-full-stack-developer-react-python-35129?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Philippines | Remote | Jun 24 |
+| **[Weekday AI](https://www.weekday.works)** | **[Lead Full stack Mobile developer](https://jobr.pro/job/41358443/lead-full-stack-mobile-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mumbai, Maharashtra, India | On Site | Jun 24 |
+| **[Synergy ECP](https://synergyecp.com)** | **[Senior .Net & REACT Full Stack Developer](https://jobr.pro/job/41358426/senior-net-react-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Jun 23 |
+| **[Synergy ECP](https://synergyecp.com)** | **[Senior Full Stack Java Developer](https://jobr.pro/job/41358428/senior-full-stack-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Washington, DC | On Site | Jun 23 |
 | **[Tieto](https://www.tieto.com)** | **[Full Stack Developer (Kotlin) - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41337950/full-stack-developer-kotlin-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, , Finland | On Site | Jun 23 |
 | **[PSI CRO](https://psi-cro.com)** | **[Full-stack Developer (AI Solutions)](https://jobr.pro/job/41336842/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Madrid, MD, Spain | Remote | Jun 23 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Full Stack Developer](https://jobr.pro/job/41328742/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Champaign, ILLINOIS, United States | Remote | Jun 23 |
@@ -51,14 +60,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NEORIS](https://www.emis.com)** | **[Senior Full Stack Developer (AI-Native)](https://jobr.pro/job/41239751/senior-full-stack-developer-ai-native?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Remote, Spain | Remote | Jun 17 |
 | **[Sigma Software](https://career.sigma.software)** | **[Senior Full-Stack Developer(.Net + React)](https://jobr.pro/job/41237268/senior-full-stack-developernet-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Warsaw, Masovian Voivodeship, Poland | Remote | Jun 17 |
 | **[Hitachi Solutions](https://hitachisolutions.com)** | **[Senior Full Stack Developer (.NET & Azure) (w/m/d)](https://jobr.pro/job/41237312/senior-full-stack-developer-net-azure-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Nürnberg, Braunschweig, , Germany | Remote | Jun 17 |
-| **[Tieto](https://www.tieto.com)** | **[Full Stack Application Developer - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41235055/full-stack-application-developer-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Espoo, Uusimaa, Finland | Remote | Jun 17 |
-| **[CloudMoyo](http://www.cloudmoyo.com)** | **[Full Stack Developer (.NET, Azure, Angular)](https://jobr.pro/job/41235156/full-stack-developer-net-azure-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Jun 17 |
-| **[Clifford Chance](https://jobs.cliffordchance.com)** | **[Module Lead (.Net, Angular Full stack developer)](https://jobr.pro/job/41236791/module-lead-net-angular-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi, HARYANA, India | On Site | Jun 17 |
-| **[Roland Berger](https://www.rolandberger.com)** | **[Full Stack Developer (all genders)](https://jobr.pro/job/41253005/full-stack-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Munich, BY, Germany | On Site | Jun 17 |
 
 ---
 
-**Current Stats:** 42 jobs | 48% remote | 36 companies | Avg salary: 2.388890111117778e+46k  
+**Current Stats:** 47 jobs | 47% remote | 39 companies | Avg salary: 7.200021500010999e+51k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, typescript  
