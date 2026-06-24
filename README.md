@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -55,11 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CloudMoyo](http://www.cloudmoyo.com)** | **[Full Stack Developer (.NET, Azure, Angular)](https://jobr.pro/job/41235156/full-stack-developer-net-azure-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Pune, MH, India | On Site | Jun 17 |
 | **[Clifford Chance](https://jobs.cliffordchance.com)** | **[Module Lead (.Net, Angular Full stack developer)](https://jobr.pro/job/41236791/module-lead-net-angular-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi, HARYANA, India | On Site | Jun 17 |
 | **[Roland Berger](https://www.rolandberger.com)** | **[Full Stack Developer (all genders)](https://jobr.pro/job/41253005/full-stack-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Munich, BY, Germany | On Site | Jun 17 |
-| **[HR Connect Limited](https://www.hrconnect.co.nz)** | **[Full Stack Developer](https://jobr.pro/job/41229187/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hamilton, Waikato Region, New Zealand | On Site | Jun 17 |
 
 ---
 
-**Current Stats:** 43 jobs | 47% remote | 37 companies | Avg salary: 2.388890111117778e+46k  
+**Current Stats:** 42 jobs | 48% remote | 36 companies | Avg salary: 2.388890111117778e+46k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, typescript  
