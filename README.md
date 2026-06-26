@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CodeRoad](https://coderoad.pl)** | **[Senior Full Stack Developer](https://jobr.pro/job/41407734/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Latin America | On Site | Jun 25 |
 | **[VTekis Consulting LLP](https://vtekis.com)** | **[Full-Stack Developer, SVP - trading systems,Kafka, MQ, FIX, FpML](https://jobr.pro/job/41394482/full-stack-developer-svp-trading-systemskafka-mq-fix-fpml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, NY, United States | On Site | Jun 25 |
 | **[Miratech](https://miratechgroup.com)** | **[Senior Full Stack Developer (Java, Angular)](https://jobr.pro/job/41393357/senior-full-stack-developer-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Jun 25 |
 | **[Smart Working Solutions](https://smartworking.io)** | **[Senior Full Stack Developer (Remote, Contractual) \[HR187\]](https://jobr.pro/job/41395142/senior-full-stack-developer-remote-contractual-hr187?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Delhi | Remote | Jun 25 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mindrift](https://mindrift.io)** | **[Freelance Full-Stack Web App Developer](https://jobr.pro/job/41301876/freelance-full-stack-web-app-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Portugal | Remote | Jun 20 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Full Stack Developer (Vue.js + Python)](https://jobr.pro/job/41292481/vck-full-stack-developer-vuejs-python?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 19 |
 | **[Version 1](https://www.version1.com)** | **[Full Stack Developer](https://jobr.pro/job/41286362/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Dublin, County Dublin, Ireland | Remote | Jun 19 |
-| **[Method Integration](https://method.me)** | **[Intermediate Full-Stack Developer, Admin Team](https://jobr.pro/job/41299390/intermediate-full-stack-developer-admin-team?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto Office | Remote | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 42 companies | Avg salary: 2.2180096000145e+50k  
+**Current Stats:** 50 jobs | 40% remote | 43 companies | Avg salary: 2.4644551111272225e+44k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, typescript  
