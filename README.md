@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -16,8 +16,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chefman](https://chefman.com)** | **[Senior Full-Stack Software Developer – Finance & ERP Integration](https://jobr.pro/job/41436361/senior-full-stack-software-developer-finance-erp-integration?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Mahwah, New Jersey | On Site | Jun 26 |
 | **[VTekis Consulting LLP](https://vtekis.com)** | **[Full-Stack Developer, SVP - trading systems,Kafka, MQ, FIX, FpML](https://jobr.pro/job/41428467/full-stack-developer-svp-trading-systemskafka-mq-fix-fpml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, NY, United States | On Site | Jun 26 |
 | **[Infinitum](https://infinitumscitech.com)** | **[Senior Full-Stack Developer Lead](https://jobr.pro/job/41430012/senior-full-stack-developer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Austin, TX | On Site | Jun 26 |
+| **[Anyone AI](https://www.anyoneai.com)** | **[Full-Stack Developer (Colombia)](https://jobr.pro/job/41443837/full-stack-developer-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia - Fully Remote | Remote | Jun 26 |
+| **[Anyone AI](https://www.anyoneai.com)** | **[Full-Stack Developer (Chile)](https://jobr.pro/job/41443835/full-stack-developer-chile?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chile | Remote | Jun 26 |
 | **[NEORIS](https://www.emis.com)** | **[Mid Full-Stack Developer (Angular & C#)](https://jobr.pro/job/41427341/mid-full-stack-developer-angular-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Jun 26 |
 | **[NEORIS](https://www.emis.com)** | **[Senior Full-Stack Developer (Angular & C#)](https://jobr.pro/job/41427342/senior-full-stack-developer-angular-c?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | On Site | Jun 26 |
+| **[Anyone AI](https://www.anyoneai.com)** | **[Full-Stack Developer (Brazil)](https://jobr.pro/job/41443838/full-stack-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | Remote | Jun 26 |
+| **[Anyone AI](https://www.anyoneai.com)** | **[Full-Stack Developer (Argentina)](https://jobr.pro/job/41443836/full-stack-developer-argentina?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Colombia - Fully Remote | Remote | Jun 26 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Full Stack Developer (Java, Angular) with French](https://jobr.pro/job/41424517/senior-full-stack-developer-java-angular-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | Remote | Jun 26 |
 | **[Inetum](https://www.inetum.com)** | **[Full Stack Senior Developer with French](https://jobr.pro/job/41423205/full-stack-senior-developer-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | Remote | Jun 26 |
 | **[Inetum](https://www.inetum.com)** | **[Cloud Full-stack Senior Developer with French](https://jobr.pro/job/41423206/cloud-full-stack-senior-developer-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest, Bucharest, Romania | Remote | Jun 26 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Polymer Capital](https://polymercapital.com)** | **[Full Stack Developer (Analyst, Risk & Quant Analytics), Hong Kong](https://jobr.pro/job/41340673/full-stack-developer-analyst-risk-quant-analytics-hong-kong?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Jun 23 |
 | **[PitchBook Data](https://pitchbook.com)** | **[Sr. Software Development Engineer, Full Stack](https://jobr.pro/job/41340272/sr-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Seattle, Washington, United States | On Site | Jun 22 |
 | **[Method Integration](https://method.me)** | **[Intermediate Full-Stack Developer](https://jobr.pro/job/41324030/intermediate-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto Office | Remote | Jun 22 |
-| **[PSI CRO](https://psi-cro.com)** | **[Full stack .NET developer (AI Solutions)](https://jobr.pro/job/41320036/full-stack-net-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Almaty, Almaty Region, Kazakhstan | Remote | Jun 22 |
-| **[PSI CRO](https://psi-cro.com)** | **[Full stack developer (AI Solutions)](https://jobr.pro/job/41320037/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Vilnius, Vilnius County, Lithuania | Remote | Jun 22 |
-| **[The Scion Group](https://thesciongroup.com)** | **[Full Stack Web Developer - Temporary](https://jobr.pro/job/41319403/full-stack-web-developer-temporary?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chicago, Illinois, United States | On Site | Jun 22 |
-| **[Monks](https://www.monks.com)** | **[Sr. Full-Stack Developer](https://jobr.pro/job/41318237/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Buenos Aires | On Site | Jun 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 1.7777802422328887e+45k  
+**Current Stats:** 50 jobs | 38% remote | 39 companies | Avg salary: 1.4545469672742398e+59k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python  
