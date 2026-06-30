@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[KOHO Financial Inc.](http://www.koho.ca)** | **[Senior Software Developer (Full-Stack)](https://jobr.pro/job/41483453/senior-software-developer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | KOHO (CAN) | Remote | Jun 29 |
 | **[National Information Solutions Cooperative (NISC)](https://www.nisc.coop)** | **[Software Developer - Meter Data Management Software (Full Stack, Back End)](https://jobr.pro/job/41479227/software-developer-meter-data-management-software-full-stack-back-end?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Any NISC Location | On Site | Jun 29 |
 | **[VTekis Consulting LLP](https://vtekis.com)** | **[Full-Stack Developer, SVP - trading systems,Kafka, MQ, FIX, FpML](https://jobr.pro/job/41477891/full-stack-developer-svp-trading-systemskafka-mq-fix-fpml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, NY, United States | On Site | Jun 29 |
 | **[ASSYST, Inc.](https://www.assyst.net)** | **[Junior Full Stack Developer](https://jobr.pro/job/41477788/junior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Sterling, VA | On Site | Jun 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pandvil](https://pandvil.com)** | **[Full Stack Web Developer](https://jobr.pro/job/41386976/full-stack-web-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bogotá, Bogotá, Colombia; Medellín, Antioquia, Colombia; Remote | Remote | Jun 24 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Full Stack Developer](https://jobr.pro/job/41376633/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chantilly, VA | On Site | Jun 24 |
 | **[CI&T](https://www.citi.com)** | **[\[Job-30090\] Mid-Level Full Stack Developer (Java/Angular)](https://jobr.pro/job/41368330/job-30090-mid-level-full-stack-developer-javaangular?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Brazil | Remote | Jun 24 |
-| **[Konrad](https://www.konrad.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41364881/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Toronto | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 35 companies | Avg salary: 1.38666805333472e+67k  
+**Current Stats:** 50 jobs | 46% remote | 35 companies | Avg salary: 1.4583347200013867e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript  
