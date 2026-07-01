@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Full Stack Developer Jobs — 2026
 
-<sub><small>Last updated: Jul 01, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jul 01, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Full Stack Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Benchling](https://www.benchling.com)** | **[Software Engineer, Full Stack, Developer Productivity](https://jobr.pro/job/41513785/software-engineer-full-stack-developer-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Boston, MA | Remote | Jun 30 |
+| **[Data Systems Analysts, Inc.]()** | **[Software Engineer / Developer (DevSecOps / Full Stack)](https://jobr.pro/job/41515886/software-engineer-developer-devsecops-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Charlottesville, VA | On Site | Jun 30 |
 | **[Sigma Software](https://career.sigma.software)** | **[Senior Full Stack Developer (Java + React)](https://jobr.pro/job/41504853/senior-full-stack-developer-java-react?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | São Paulo, SP, Brazil | Remote | Jun 30 |
 | **[VTekis Consulting LLP](https://vtekis.com)** | **[Full-Stack Developer, SVP - trading systems,Kafka, MQ, FIX, FpML](https://jobr.pro/job/41503562/full-stack-developer-svp-trading-systemskafka-mq-fix-fpml?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | New York, NY, United States | On Site | Jun 30 |
 | **[INFUSE](https://infuse.us)** | **[Sr. Full Stack .NET Developer (Remote, Contract)](https://jobr.pro/job/41503314/sr-full-stack-net-developer-remote-contract?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Poland | Remote | Jun 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Platform Science](https://platformscience.com)** | **[Senior Full Stack Developer](https://jobr.pro/job/41420693/senior-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Chennai, Tamil Nadu, India | On Site | Jun 26 |
 | **[Qualysoft](https://qualysoft.com)** | **[Senior Full Stack Mobile & Backend Developer](https://jobr.pro/job/41427486/senior-full-stack-mobile-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Bucharest | On Site | Jun 26 |
 | **[Unison Group](https://unisongroup.com)** | **[Full stack developer (.net)](https://jobr.pro/job/41415948/full-stack-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 26 |
-| **[Unison Group](https://unisongroup.com)** | **[Full Stack .Net Developer](https://jobr.pro/job/41415947/full-stack-net-developer?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Jun 26 |
-| **[Polymer Capital Taiwan](https://polymercapital.com)** | **[Full Stack Developer - Analyst, Risk & Quant Analytics](https://jobr.pro/job/41411349/full-stack-developer-analyst-risk-quant-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-fullstack-jobs)** | Taipei, Taipei City, Taiwan | On Site | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 36 companies | Avg salary: 1.5909106036378762e+61k  
+**Current Stats:** 50 jobs | 46% remote | 37 companies | Avg salary: 1.6666681250013866e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, typescript  
